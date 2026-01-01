@@ -12,15 +12,15 @@
 
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=anshxgaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
 
 <!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&theme=tokyonight)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight)
 
 <!-- 🧠 Top Languages -->
 ### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh17gaur&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight)
 
 ---
 
