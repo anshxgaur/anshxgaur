@@ -50,15 +50,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-<!-- 🏆 GitHub Profile Trophy -->
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anshxgaur&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 --- ## 🏆 LeetCode Progress - 
 
