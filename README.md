@@ -50,6 +50,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+<!-- 🎏 Animated Banner -->
+![Banner](https://github.com/anshgaurx/anshgaurx/blob/main/assets/banner.gif)
+
+### 🧱 3D Contribution Calendar
+[![3D Contributions](https://skyline.github.com/anshgaurx/2025)](https://skyline.github.com/anshgaurx/2025)
+
+### 🏆 Coding Platforms
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshgaurx/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshgaurx)
+
 
 --- ## 🏆 LeetCode Progress - 
 
