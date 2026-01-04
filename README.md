@@ -1,5 +1,5 @@
-<!-- 🎯 Banner -->
-<img src="https://your-banner-url.com/banner.png" alt="Welcome Banner" width="100%" />
+<!-- 🎯 Futuristic Banner -->
+<img src="https://copilot.microsoft.com/th/id/BCO.56351c18-69a3-40d1-838c-b444b502d04c.png" alt="Futuristic Welcome Banner" width="100%" />
 
 <!-- 👋 Introduction -->
 ## Hi there 👋, I am Ansh Gaur
@@ -7,6 +7,11 @@
 - 🌱 Learning: Python, GitHub workflows, data pipelines
 - 💬 Ask me about: modular Python, GitHub automation, competitive programming
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
+
+---
+
+<!-- 🖋️ Typing Intro Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
 
 ---
 
@@ -24,11 +29,29 @@
 
 ---
 
+<!-- 📈 GitHub Activity Graph -->
+### 📈 GitHub Activity Graph
+![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
+
+---
+
 <!-- 🛠️ Tech Stack -->
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+<!-- 🏆 GitHub Profile Trophy -->
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anshxgaur&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
