@@ -31,7 +31,7 @@
 
 <!-- 📈 Futuristic GitHub Activity Graph -->
 ### 📈 GitHub Activity Graph
-<img src="https://copilot.microsoft.com/th/id/BCO.ad4661af-9d1c-4a87-88b0-a97e20bade5b.png" alt="Futuristic GitHub Contribution Graph" width="100%" />
+<img src="https://copilot.microsoft.com/th/id/BCO.fe8b1c53-7dfa-455b-accb-8ad42ba4e78d.png" alt="Futuristic GitHub Contribution Graph" width="100%" />
 
 ---
 
@@ -52,22 +52,39 @@
 
 <!-- 🧾 Certifications -->
 ### 🧾 Certifications
-Here are some of my verified Coursera certifications:
-- [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE1)
-- [Data Science Foundations](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE2)
-- [Python for Everybody](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE3)
-
-> 🧠 More certifications coming soon...
+Here are my verified Coursera certifications:
+- [Snowflake for Data Science: Intro to Snowpark ML](https://coursera.org/verify/0008BXFH96S4)
+- [Tools for Data Science (IBM)](https://coursera.org/verify/8TIAS2N5YD9R)
+- [Linear Regression with Python](https://coursera.org/verify/ERH6DIZV1K33)
+- [Python Project for Data Science (IBM)](https://coursera.org/verify/GTOFW249EQV7)
+- [Python for Data Science, AI & Development (IBM)](https://coursera.org/verify/I1FMCXY514ZM)
+- [Data Analysis with Python (IBM)](https://coursera.org/verify/LV07XB03TNTK)
+- [What is Data Science? (IBM)](https://coursera.org/verify/Q74KQ3YWB7GZ)
+- [Manipulating Data with SQL](https://coursera.org/verify/R4U0E18H8YZ9)
+- [Data Science Methodology (IBM)](https://coursera.org/verify/TBC87TL6FYSC)
+- [Databases and SQL for Data Science with Python](https://coursera.org/verify/X0PQ42GC6LPH)
+- [GenAI Buildathon Certificate (NxtWave)](https://nxtwave.tech)
 
 ---
 
-<!-- 🏆 GitHub Profile Trophy -->
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anshxgaur&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
+<!-- ⚡ HackerRank Badges -->
+### ⚡ HackerRank Badges
+Check out my HackerRank profile: [anshgaurx](https://www.hackerrank.com/profile/anshgaurx)  
+Badges earned:
+- 🟢 Python (5 stars)
+- 🟢 Problem Solving (4 stars)
+
+---
+
+<!-- 🏆 LeetCode Progress -->
+### 🏆 LeetCode Progress
+LeetCode Profile: [anshgaurx](https://leetcode.com/anshgaurx)  
+- ✅ Problems Solved: **677**
+  - Easy: **207**
+  - Medium: **337**
+  - Hard: **133**
+- 🔥 Ranking: **Top 24,311**
+- 🧠 Streak: **Active**
 
 ---
 
