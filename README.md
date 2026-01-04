@@ -21,13 +21,20 @@
 
 <!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&hide_border=true&theme=tokyonight)
 
-<!-- 🧠 Top Languages -->
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight)
+<!-- 🧠 Top Languages & Tools -->
+### 🧠 Top Languages & Tools
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
 
 <!-- 📈 GitHub Activity Graph -->
 ### 📈 GitHub Activity Graph
