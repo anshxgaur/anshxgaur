@@ -1,17 +1,3 @@
-<!-- 🎯 Futuristic Welcome Banner -->
-<img src="https://copilot.microsoft.com/th/id/BCO.46068d2f-e7fc-4e95-9131-7ed52b7c13de.png" alt="Welcome Banner" width="100%" />
-
-<div align="center">
-
-<!-- 🖋️ Typing Intro Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Machine+Learning+Innovator;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
-
-name: Ansh Gaur
-currently_working_on: ["LeetCode", "streak-cal"]
-learning: ["Python", "GitHub Workflows", "Data Pipelines"]
-ask_me_about: ["Modular Python", "Machine Learning", "Competitive Programming"]
-contact: "anshgaurx@gamil.com"
-
 <!-- 🎯 Futuristic Banner -->
 <img src="https://copilot.microsoft.com/th/id/BCO.56351c18-69a3-40d1-838c-b444b502d04c.png" alt="Futuristic Welcome Banner" width="100%" />
 
