@@ -1,17 +1,17 @@
-<!-- 🎯 Futuristic Banner -->
-<img src="https://copilot.microsoft.com/th/id/BCO.56351c18-69a3-40d1-838c-b444b502d04c.png" alt="Futuristic Welcome Banner" width="100%" />
+<!-- 🎯 Futuristic Animated Banner -->
+<img src="https://copilot.microsoft.com/th/id/BCO.4ff402c4-d554-4a06-b28c-3964b249847e.png" alt="Animated Welcome Banner" width="100%" />
 
 <!-- 👋 Introduction -->
 ## Hi there 👋, I am Ansh Gaur
 - 🔭 Currently working on: Leet-Code, streak-cal
 - 🌱 Learning: Python, GitHub workflows, data pipelines
-- 💬 Ask me about: modular Python, GitHub automation, competitive programming
+- 💬 Ask me about: modular Python, machine learning, competitive programming
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
 ---
 
 <!-- 🖋️ Typing Intro Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Machine+Learning+Innovator;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
 
 ---
 
@@ -29,9 +29,9 @@
 
 ---
 
-<!-- 📈 GitHub Activity Graph -->
+<!-- 📈 Futuristic GitHub Activity Graph -->
 ### 📈 GitHub Activity Graph
-![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
+<img src="https://copilot.microsoft.com/th/id/BCO.ad4661af-9d1c-4a87-88b0-a97e20bade5b.png" alt="Futuristic GitHub Contribution Graph" width="100%" />
 
 ---
 
@@ -41,7 +41,23 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+<!-- 🧾 Certifications -->
+### 🧾 Certifications
+Here are some of my verified Coursera certifications:
+- [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE1)
+- [Data Science Foundations](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE2)
+- [Python for Everybody](https://www.coursera.org/account/accomplishments/certificate/EXAMPLE3)
+
+> 🧠 More certifications coming soon...
 
 ---
 
