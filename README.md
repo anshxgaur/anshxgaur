@@ -40,7 +40,7 @@
 #### 🌐 Coding Platforms 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshgaurx/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshgaurx) ---
+
 <!-- 📈 GitHub Activity Graph -->
 ### 📈 GitHub Activity Graph
 ![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
