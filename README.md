@@ -6,13 +6,6 @@
 <!-- 🖋️ Typing Intro Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Machine+Learning+Innovator;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 👋 Hi there, I'm Ansh Gaur
-
-```yaml
 name: Ansh Gaur
 currently_working_on: ["LeetCode", "streak-cal"]
 learning: ["Python", "GitHub Workflows", "Data Pipelines"]
