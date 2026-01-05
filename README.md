@@ -111,10 +111,6 @@
     <sub><b>what is data science.png</b></sub>
   </td>
 
-  <td align="center">
-    <img src="Gen-AI.png" width="250px" alt="Certificate 11"/><br/>
-    <sub><b>Generative A.I.</b></sub>
-  </td>
 
 </table>
 
