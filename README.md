@@ -59,11 +59,11 @@
 <tr>
   <td align="center">
     <img src="data analysis with python.png" width="250px" alt="Certificate 1"/><br/>
-    <sub><b>Data Science Orientation</b></sub>
+    <sub><b>Data analysis with python.png</b></sub>
   </td>
   <td align="center">
     <img src="data base and sql.png" width="250px" alt="Certificate 2"/><br/>
-    <sub><b>Python for Data Science</b></sub>
+    <sub><b>data base and sql.png</b></sub>
   </td>
   <td align="center">
     <img src="data science methodology.png" width="250px" alt="Certificate 3"/><br/>
@@ -71,7 +71,7 @@
   </td>
   <td align="center">
     <img src="intro to snowpark.png" width="250px" alt="Certificate 4"/><br/>
-    <sub><b>Tools for Data Science</b></sub>
+    <sub><b>intro to snowpark.png</b></sub>
   </td>
 </tr>
 
@@ -79,19 +79,19 @@
 <tr>
   <td align="center">
     <img src="linear regression using python.png" width="250px" alt="Certificate 5"/><br/>
-    <sub><b>Databases & SQL</b></sub>
+    <sub><b>linear regression using python.png</b></sub>
   </td>
   <td align="center">
     <img src="open ai.png" width="250px" alt="Certificate 6"/><br/>
-    <sub><b>Applied Data Science</b></sub>
+    <sub><b>open ai.png</b></sub>
   </td>
   <td align="center">
     <img src="python for data science.png" width="250px" alt="Certificate 7"/><br/>
-    <sub><b>Data Analysis with Python</b></sub>
+    <sub><b>python for data science.png</b></sub>
   </td>
   <td align="center">
     <img src="python project for data science.png" width="250px" alt="Certificate 8"/><br/>
-    <sub><b>Data Visualization with Python</b></sub>
+    <sub><b>python project for data science.png</b></sub>
   </td>
 </tr>
 
@@ -99,39 +99,21 @@
 <tr>
   <td align="center">
     <img src="snowflakes.png" width="250px" alt="Certificate 9"/><br/>
-    <sub><b>Machine Learning with Python</b></sub>
+    <sub><b>snowflakes.png</b></sub>
   </td>
 
   <td align="center">
     <img src="tools for data science.png" width="250px" alt="Certificate 10"/><br/>
-    <sub><b>Data Science Capstone</b></sub>
+    <sub><b>Tools for data science.png</b></sub>
   </td>
     <td align="center">
     <img src="what is data science.png" width="250px" alt="Certificate 10"/><br/>
-    <sub><b>Data Science Capstone</b></sub>
+    <sub><b>what is data science.png</b></sub>
   </td>
 
   <td align="center">
     <img src="Gen-AI.png" width="250px" alt="Certificate 11"/><br/>
     <sub><b>Generative A.I.</b></sub>
-  </td>
-
- <td align="center">
-    <img src="Coursera final-1.png" width="250px" alt="Certificate 12"/><br/>
-    <sub><b>IBM Data Science</b></sub>
-  </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
-  <td align="center">
-    <img src="Coursera Git_certificate-1.png" width="250px" alt="Certificate 13"/><br/>
-    <sub><b>Introduction to Git and Github</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="Coursera learn_kart1-1.png" width="250px" alt="Certificate 13"/><br/>
-    <sub><b>Data Engineering Foundation on AWS</b></sub>
   </td>
 
 </table>
