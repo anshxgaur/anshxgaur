@@ -1,12 +1,17 @@
-<!-- 🎯 Futuristic Banner -->
-<img src="https://copilot.microsoft.com/th/id/BCO.56351c18-69a3-40d1-838c-b444b502d04c.png" alt="Futuristic Welcome Banner" width="100%" />
+<!-- 🎯 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Gaur&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7dcfff" width="100%" />
+</p>
 
 <!-- 👋 Introduction -->
-## Hi there 👋, I am Ansh Gaur
-- 🔭 Currently working on: Leet-Code, streak-cal
-- 🌱 Learning: Python, GitHub workflows, data pipelines
-- 💬 Ask me about: modular Python, GitHub automation, competitive programming
-- 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh+Gaur;Developer+%7C+Problem+Solver;Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="mailto:ansh1291g@gmail.com"><img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://github.com/Ansh17gaur"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
 
 ---
 
