@@ -138,16 +138,29 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshgaurx)
 
+## 🏆 Progress Showcase
 
---- ## 🏆 LeetCode Progress - 
+<div align="center">
 
-Profile: [anshgaurx](https://leetcode.com/anshgaurx) ![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=Montserrat&ext=contest)
+<table>
+  <tr>
+    <!-- LeetCode Section -->
+    <td align="center" width="50%">
+      <h3>LeetCode Progress</h3>
+      <a href="https://leetcode.com/anshgaurx">anshgaurx</a><br>
+      <img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" width="300">
+    </td>
 
+    <!-- HackerRank Section -->
+    <td align="center" width="50%">
+      <h3>HackerRank Banner</h3>
+      <p>HackerRank ID: <code>anshgaurx</code></p>
+      <img src="Screenshot%20(711).png" alt="HackerRank Progress" width="300">
+    </td>
+  </tr>
+</table>
 
----
-
-
-
+</div>
 
 
 <!-- 👁️ Visitor Counter -->
