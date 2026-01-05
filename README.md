@@ -140,25 +140,21 @@
 
 ## 🏆 Progress Showcase
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
-<table>
-  <tr>
-    <!-- LeetCode Section -->
-    <td align="center" width="50%">
-      <h3>LeetCode Progress</h3>
-      <a href="https://leetcode.com/anshgaurx">anshgaurx</a><br>
-      <img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" width="300">
-    </td>
+<!-- LeetCode Section -->
+<div style="flex: 1; min-width: 300px; text-align: center;">
+  <h3>LeetCode Progress</h3>
+  <a href="https://leetcode.com/anshgaurx">anshgaurx</a><br>
+  <img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" width="300">
+</div>
 
-    <!-- HackerRank Section -->
-    <td align="center" width="50%">
-      <h3>HackerRank Banner</h3>
-      <p>HackerRank ID: <code>anshgaurx</code></p>
-      <img src="Screenshot%20(711).png" alt="HackerRank Progress" width="300">
-    </td>
-  </tr>
-</table>
+<!-- HackerRank Section -->
+<div style="flex: 1; min-width: 300px; text-align: center;">
+  <h3>HackerRank Banner</h3>
+  <p>HackerRank ID: <code>anshgaurx</code></p>
+  <img src="Screenshot%20(711).png" alt="HackerRank Progress" width="300">
+</div>
 
 </div>
 
