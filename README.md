@@ -24,9 +24,6 @@
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=anshxgaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
 
-<!-- 📊 GitHub Stats -->
-### 📊 GitHub Stats
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&hide_border=true&theme=tokyonight)
 
 --- ## 🧠 Top Languages & Tools
 #### 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
