@@ -164,7 +164,7 @@
 <div style="flex: 1; min-width: 300px; text-align: center;">
   <h3>HackerRank Banner</h3>
   <p>HackerRank ID: <code>anshgaurx</code></p>
-  <img src="Screenshot%20(711).png" alt="HackerRank Progress" width="300">
+  <img src="cool.png" alt="HackerRank Progress" width="300">
 </div>
 
 </div>
