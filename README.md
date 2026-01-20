@@ -9,8 +9,18 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:ansh1291g@gmail.com"><img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://github.com/Ansh17gaur"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="mailto:anshgaurx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/Anshxgaur">
+    <img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshgaurx">
+    <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/919149162265">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -171,7 +181,15 @@
 
 
 <!-- 👁️ Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Ansh17gaur&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Anshxgaur&color=blue)
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
