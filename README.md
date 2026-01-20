@@ -152,7 +152,8 @@
 ![Banner](https://github.com/anshgaurx/anshgaurx/blob/main/assets/banner.gif)
 
 ### 🧱 3D Contribution Calendar
-[![3D Contributions](https://skyline.github.com/anshxgaur/2025)](https://skyline.github.com/anshxgaur/2025)
+[![Skyline 2026](https://img.shields.io/badge/3D%20Graph-View%20Skyline-blue?style=for-the-badge)](https://skyline.github.com/anshgaur/2026)
+
 
 ### 🏆 Coding Platforms
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshgaurx/)
