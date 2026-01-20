@@ -151,8 +151,8 @@
 <!-- 🎏 Animated Banner -->
 ![Banner](https://github.com/anshgaurx/anshgaurx/blob/main/assets/banner.gif)
 
-### 🧱 3D Contribution Calendar
-[![Skyline 2026](https://img.shields.io/badge/3D%20Graph-View%20Skyline-blue?style=for-the-badge)](https://skyline.github.com/anshgaur/2026)
+#### 📊 3D Contribution Calendar
+![Skyline 2026](https://github.com/anshgaurx/blob/main/skyline2026.png/skyline2026.png)
 
 
 ### 🏆 Coding Platforms
