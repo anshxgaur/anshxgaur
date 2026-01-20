@@ -152,7 +152,7 @@
 ![Banner](https://github.com/anshgaurx/anshgaurx/blob/main/assets/banner.gif)
 
 #### 📊 3D Contribution Calendar
-![Skyline 2026](https://github.com/anshgaurx/blob/main/skyline2026.png/skyline2026.png)
+![Skyline 2026](https://github.com/anshgaurx/blob/main/skyline2026.png)
 
 
 ### 🏆 Coding Platforms
