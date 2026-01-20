@@ -188,7 +188,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
