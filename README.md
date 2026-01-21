@@ -186,6 +186,11 @@
 
 
 ---
+## 🧠 Skills Radar
+![Skills Graph](https://skills.thieringer.com/?username=anshxgaur&theme=tokyonight&per_line=6)
+
+## 👁️ Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=anshxgaur&label=Visitors&color=0e75b6&style=flat-square)
 
 ### 📊 GitHub Stats
 <p align="center">
