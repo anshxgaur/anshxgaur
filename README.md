@@ -186,11 +186,13 @@
 
 
 ---
-## 🧠 Skills Radar
-[![Skills](https://skills.thieringer.com/?username=anshxgaur&theme=tokyonight&per_line=6&hide_border=true)](https://skills.thieringer.com/)
+## 🧠 Top Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![DSA](https://img.shields.io/badge/Data_Structures-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white)
 
-## 👁️ Profile Visitors
-![Visitors](https://komarev.com/ghpvc/?username=anshxgaur&label=Profile%20views&color=00C853&style=for-the-badge)
+## 📊 Visitors
+![Visitors](https://profile-counter.glitch.me/anshxgaur/count.svg)
 
 ---
 
