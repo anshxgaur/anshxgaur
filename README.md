@@ -169,8 +169,8 @@
 
 
 
-### 🧩 Coding Profiles
----
+###🧩 Coding Profiles
+-----
 
 
 <p align="center">
@@ -183,9 +183,9 @@
   <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
 </p>
 
----
+-----
 📅 Updated: Jan 24, 2026  
----
+-----
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
