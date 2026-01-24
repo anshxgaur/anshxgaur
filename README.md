@@ -164,21 +164,38 @@
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
-<!-- LeetCode Section -->
-<div style="flex: 1; min-width: 300px; text-align: center;">
-  <h3>LeetCode Progress</h3>
-  <a href="https://leetcode.com/anshgaurx">anshgaurx</a><br>
-  <img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" width="300">
-</div>
+###LEETCODE
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
-<!-- HackerRank Section -->
-<div style="flex: 1; min-width: 300px; text-align: center;">
-  <h3>HackerRank Banner</h3>
-  <p>HackerRank ID: <code>anshgaurx</code></p>
-  <img src="cool.png" alt="HackerRank Progress" width="300">
-</div>
 
-</div>
+
+### 🧩 Coding Profiles
+---
+
+
+<p align="center">
+  <img src="./cool%20(2).pngg" alt="LeetCode Frequency Grid" width="475" style="vertical-align: middle;"/>
+  <img src="happy.pngg" alt="" width="470" style="vertical-align: middle;"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/anshgaurx/">🔗 LeetCode Profile</a> |
+  <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
+</p>
+
+---
+📅 Updated: Jan 24, 2026  
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+
+
+
 
 
 <!-- 👁️ Visitor Counter -->
