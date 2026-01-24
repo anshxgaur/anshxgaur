@@ -174,7 +174,7 @@
 
 
 <p align="center">
-  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="450" style="vertical-align: middle;"/>
+  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="420" style="vertical-align: middle;"/>
   <img src="happy.png" alt="" width="420" style="vertical-align: middle;"/>
 </p>
 
