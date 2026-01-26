@@ -164,12 +164,12 @@
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
-###LEETCODE
+LEETCODE
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
 
 
-###🧩 Coding Profiles
+🧩 Coding Profiles
 ---
 
 
