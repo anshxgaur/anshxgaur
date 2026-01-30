@@ -118,7 +118,7 @@
     <sub><b>what is data science.png</b></sub>
   </td>
     <td align="center">
-    <img src="Coursera HU76PAUYRM85.pdf" width="250px" alt="Certificate 10"/><br/>
+    <img src="Screenshot (835).png" width="250px" alt="Certificate 10"/><br/>
     <sub><b>Generative AI: Elevate Your Data Science Career</b></sub>
   </td>
 
