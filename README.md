@@ -102,7 +102,7 @@
   </td>
 </tr>
 
-<!-- Row 3 (last one centered) -->
+<!-- Row 3  -->
 <tr>
   <td align="center">
     <img src="snowflakes.png" width="250px" alt="Certificate 9"/><br/>
@@ -121,7 +121,12 @@
     <img src="Screenshot (835).png" width="250px" alt="Certificate 10"/><br/>
     <sub><b>Generative AI: Elevate Your Data Science Career</b></sub>
   </td>
-
+<!-- Row 4(last one centered) -->
+  </td>
+    <td align="center">
+    <img src="Coursera JGZ2OC2KHBXB.pdf" width="250px" alt="Certificate 10"/><br/>
+    <sub><b>MATHS FOR COMPUTER SCIENCE</b></sub>
+  </td>
 
 </table>
 
