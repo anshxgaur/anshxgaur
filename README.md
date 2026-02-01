@@ -80,6 +80,10 @@
     <img src="intro to snowpark.png" width="250px" alt="Certificate 4"/><br/>
     <sub><b>intro to snowpark.png</b></sub>
   </td>
+    <td align="center">
+    <img src="Screenshot (840).png" width="250px" alt="Certificate 10"/><br/>
+    <sub><b>MATHS FOR COMPUTER SCIENCE</b></sub>
+  </td>
 </tr>
 
 <!-- Row 2 -->
@@ -121,12 +125,7 @@
     <img src="Screenshot (835).png" width="250px" alt="Certificate 10"/><br/>
     <sub><b>Generative AI: Elevate Your Data Science Career</b></sub>
   </td>
-<!-- Row 4(last one centered) -->
-  </td>
-    <td align="center">
-    <img src="Coursera JGZ2OC2KHBXB.pdf" width="250px" alt="Certificate 10"/><br/>
-    <sub><b>MATHS FOR COMPUTER SCIENCE</b></sub>
-  </td>
+
 
 </table>
 
