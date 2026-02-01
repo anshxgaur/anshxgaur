@@ -105,7 +105,7 @@
     <sub><b>python project for data science.png</b></sub>
   </td>
   <td align="center">
-    <img src="Screenshot (841).png" width="250px" alt="Certificate 8"/><br/>
+    <img src="Screenshot (841).png" width="275px" alt="Certificate 8"/><br/>
     <sub><b>Presentaion by canva.png</b></sub>
   
 </tr>
