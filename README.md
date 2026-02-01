@@ -81,7 +81,7 @@
     <sub><b>intro to snowpark.png</b></sub>
   </td>
     <td align="center">
-    <img src="Screenshot (840).png" width="250px" alt="Certificate 10"/><br/>
+    <img src="Screenshot (840).png" width="300px" alt="Certificate 10"/><br/>
     <sub><b>MATHS FOR COMPUTER SCIENCE</b></sub>
   </td>
 </tr>
