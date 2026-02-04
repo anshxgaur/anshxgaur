@@ -29,6 +29,93 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
 
 ---
+<h2 align="center">🚀 Project Showcase</h2>
+<p align="center">
+  <i>Explore my latest work in Healthcare AI and Desktop Automation. <br> Click on the buttons below to expand details!</i>
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌼 DAISY</h3>
+      <p align="center"><b>Healthcare Data Intelligence System</b></p>
+      <div align="center">
+        <img src="cool.png" alt="DAISY Logo" width="90%"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Viz-Streamlit-blue?style=flat-square"/>
+      </div>
+      <br>
+      <p align="center">
+        An end-to-end data science framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
+      </p>
+      <details>
+        <summary><b>🔍 Click to View Features & Tech</b></summary>
+        <br>
+        <b>🏥 Key Capabilities:</b>
+        <ul>
+          <li><b>Disease Prediction:</b> ML models for Heart Disease & Diabetes risk.</li>
+          <li><b>Patient Stratification:</b> Clustering patients by risk levels.</li>
+          <li><b>Resource Forecasting:</b> Predicting ICU bed & staff requirements.</li>
+          <li><b>Interactive Dashboard:</b> Real-time visualization of vitals.</li>
+        </ul>
+        <b>🛠️ Tech Stack:</b>
+        <ul>
+          <li>Pandas, NumPy (Data Processing)</li>
+          <li>Scikit-Learn, XGBoost (Machine Learning)</li>
+          <li>Matplotlib, Seaborn, Plotly (Visualization)</li>
+        </ul>
+      </details>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ NOVA</h3>
+      <p align="center"><b>Intelligent Voice Assistant</b></p>
+      <div align="center">
+        <img src="nova.png" alt="NOVA Logo" width="90%"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Domain-Automation-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Audio-PyAudio-yellow?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Control-PyAutoGUI-green?style=flat-square"/>
+      </div>
+      <br>
+      <p align="center">
+        A Python-based voice assistant that listens, understands, and acts. Control your system volume, brightness, and web interactions strictly through voice commands.
+      </p>
+      <details>
+        <summary><b>🔍 Click to View Features & Tech</b></summary>
+        <br>
+        <b>🎙️ Key Capabilities:</b>
+        <ul>
+          <li><b>System Control:</b> Adjust Volume & Brightness dynamically.</li>
+          <li><b>Web Automation:</b> Voice-controlled Google Search & YouTube.</li>
+          <li><b>Hands-Free IO:</b> Mouse cursor control & voice typing.</li>
+          <li><b>Data Plotting:</b> Generate line plots from spoken numbers.</li>
+          <li><b>App Launching:</b> Open specific applications instantly.</li>
+        </ul>
+        <b>🛠️ Modules Used:</b>
+        <ul>
+          <li><code>speech_recognition</code> (Input Processing)</li>
+          <li><code>pyttsx3</code> (Text-to-Speech)</li>
+          <li><code>pyautogui</code> & <code>pycaw</code> (System Control)</li>
+          <li><code>matplotlib</code> (Data Viz)</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="50" />
+  <br>
+  <sub><i>Empowering users through Data & Voice</i></sub>
+</div>
+<br>
+
+
 
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streakssss
