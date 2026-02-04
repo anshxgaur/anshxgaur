@@ -60,7 +60,7 @@
       <img src="https://img.shields.io/badge/Tech-Streamlit-FF4B4B?style=flat-square"/>
     </td>
     <td align="center" valign="top">
-      <img src="logo.jpg" alt="NOVA Logo" width="90%"/><br><br>
+      <img src="logo.jpg" alt="NOVA Logo" width="50%"/><br><br>
       <img src="https://img.shields.io/badge/Domain-Voice_Automation-blueviolet?style=flat-square"/>
       <img src="https://img.shields.io/badge/Tech-PyAutoGUI-green?style=flat-square"/>
     </td>
