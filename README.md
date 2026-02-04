@@ -32,6 +32,7 @@
 ### 🔥 GitHub Streakssss
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=anshxgaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
 
+### 🔥 PROJECTS:
 <h2 align="center">🗣️ NOVA - Intelligent Voice Assistant</h2>
 <p align="center">
   <b>Your Personal Desktop Automation Companion</b><br>
@@ -113,6 +114,151 @@ Nova is built using a modular Python architecture. Below are the core libraries 
   <i>"I'm listening..."</i>
 </p>
 
+<p align="center">
+  <img src="cool.png" alt="DAISY – Healthcare Intelligence System" width="100%"/>
+</p>
+
+<h1 align="center">🌼 DAISY – Data Analysis & Intelligence System</h1>
+
+<p align="center">
+  <b>Transforming Raw Clinical Data into Lifesaving Insights</b><br>
+  <i>An end-to-end Healthcare AI framework for disease prediction, patient risk stratification, and hospital resource optimization.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Healthcare_AI-red?style=for-the-badge&logo=heart"/>
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Project Showcase</h2>
+<p align="center">
+  <i>Explore my latest work in Healthcare AI and Desktop Automation. <br> Click on the buttons below to expand details!</i>
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌼 DAISY</h3>
+      <p align="center"><b>Healthcare Data Intelligence System</b></p>
+      <div align="center">
+        <img src="cool.png" alt="DAISY Logo" width="90%"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Viz-Streamlit-blue?style=flat-square"/>
+      </div>
+      <br>
+      <p align="center">
+        An end-to-end data science framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
+      </p>
+      <details>
+        <summary><b>🔍 Click to View Features & Tech</b></summary>
+        <br>
+        <b>🏥 Key Capabilities:</b>
+        <ul>
+          <li><b>Disease Prediction:</b> ML models for Heart Disease & Diabetes risk.</li>
+          <li><b>Patient Stratification:</b> Clustering patients by risk levels.</li>
+          <li><b>Resource Forecasting:</b> Predicting ICU bed & staff requirements.</li>
+          <li><b>Interactive Dashboard:</b> Real-time visualization of vitals.</li>
+        </ul>
+        <b>🛠️ Tech Stack:</b>
+        <ul>
+          <li>Pandas, NumPy (Data Processing)</li>
+          <li>Scikit-Learn, XGBoost (Machine Learning)</li>
+          <li>Matplotlib, Seaborn, Plotly (Visualization)</li>
+        </ul>
+      </details>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ NOVA</h3>
+      <p align="center"><b>Intelligent Voice Assistant</b></p>
+      <div align="center">
+        <img src="nova.png" alt="NOVA Logo" width="90%"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Domain-Automation-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Audio-PyAudio-yellow?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Control-PyAutoGUI-green?style=flat-square"/>
+      </div>
+      <br>
+      <p align="center">
+        A Python-based voice assistant that listens, understands, and acts. Control your system volume, brightness, and web interactions strictly through voice commands.
+      </p>
+      <details>
+        <summary><b>🔍 Click to View Features & Tech</b></summary>
+        <br>
+        <b>🎙️ Key Capabilities:</b>
+        <ul>
+          <li><b>System Control:</b> Adjust Volume & Brightness dynamically.</li>
+          <li><b>Web Automation:</b> Voice-controlled Google Search & YouTube.</li>
+          <li><b>Hands-Free IO:</b> Mouse cursor control & voice typing.</li>
+          <li><b>Data Plotting:</b> Generate line plots from spoken numbers.</li>
+          <li><b>App Launching:</b> Open specific applications instantly.</li>
+        </ul>
+        <b>🛠️ Modules Used:</b>
+        <ul>
+          <li><code>speech_recognition</code> (Input Processing)</li>
+          <li><code>pyttsx3</code> (Text-to-Speech)</li>
+          <li><code>pyautogui</code> & <code>pycaw</code> (System Control)</li>
+          <li><code>matplotlib</code> (Data Viz)</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏥 Problem Statement
+The healthcare industry generates massive amounts of data daily—from patient electronic health records (EHR) to diagnostic imaging. However, this data is often underutilized due to its complexity. Key challenges include:
+* **Predicting Disease Outbreaks:** Early detection of rising cases.
+* **Patient Readmission:** Identifying high-risk patients likely to return to the hospital.
+* **Resource Management:** Predicting bed and staff requirements.
+* **Personalized Care:** Segmenting patients for targeted treatment plans.
+
+**DAISY** addresses these challenges by processing historical data to forecast future health events and trends.
+
+---
+
+## 🧠 Key Features & Modules
+
+### 1. Data Ingestion & Cleaning Pipeline
+* Automated handling of missing clinical values (imputation based on medical norms).
+* Standardization of medical units and terminologies.
+* Anonymization of PII (Personally Identifiable Information) to simulate HIPAA/GDPR compliance.
+
+### 2. Exploratory Data Analysis (EDA)
+* **Demographic Analysis:** Distribution of age, gender, and location vs. disease prevalence.
+* **Correlation Mapping:** Identifying relationships between lifestyle factors (BMI, Smoking) and health outcomes.
+* **Geospatial Analysis:** (If applicable) Mapping disease hotspots.
+
+### 3. Predictive Modeling Engine
+* **Diagnosis Classification:** Logistic Regression/Random Forest models to detect presence of disease.
+* **Readmission Forecasting:** Predicting if a patient will return within 30 days.
+* **Survival Analysis:** Estimating recovery timeframes.
+
+### 4. Interactive Health Dashboard
+* Visualizing patient vitals and population health metrics in real-time.
+* Drill-down capabilities for specific demographics.
+
+---
+
+## ⚙️ Installation & Usage
+
+### 1️⃣ Prerequisites
+Ensure you have the following installed:
+* **Python 3.8+** ([Download Here](https://www.python.org/downloads/))
+* **Git** (for cloning the repository)
+
+### 2️⃣ Clone the Repository
+Open your terminal or command prompt and run:
+```bash
+git clone [https://github.com/AnshGaur/DAISY-Healthcare.git](https://github.com/AnshGaur/DAISY-Healthcare.git)
+cd DAISY-Healthcare
 
 
 --- ## 🧠 Top Languages & Tools
