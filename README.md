@@ -27,99 +27,92 @@
 
 <!-- 🖋️ Typing Intro Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
-
----
-<h2 align="center">🚀 Project Showcase</h2>
-<p align="center">
-  <i>Explore my latest work in Healthcare AI and Desktop Automation. <br> Click on the buttons below to expand details!</i>
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌼 DAISY</h3>
-      <p align="center"><b>Healthcare Data Intelligence System</b></p>
-      <div align="center">
-        <img src="cool.png" alt="DAISY Logo" width="90%"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Viz-Streamlit-blue?style=flat-square"/>
-      </div>
-      <br>
-      <p align="center">
-        An end-to-end data science framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
-      </p>
-      <details>
-        <summary><b>🔍 Click to View Features & Tech</b></summary>
-        <br>
-        <b>🏥 Key Capabilities:</b>
-        <ul>
-          <li><b>Disease Prediction:</b> ML models for Heart Disease & Diabetes risk.</li>
-          <li><b>Patient Stratification:</b> Clustering patients by risk levels.</li>
-          <li><b>Resource Forecasting:</b> Predicting ICU bed & staff requirements.</li>
-          <li><b>Interactive Dashboard:</b> Real-time visualization of vitals.</li>
-        </ul>
-        <b>🛠️ Tech Stack:</b>
-        <ul>
-          <li>Pandas, NumPy (Data Processing)</li>
-          <li>Scikit-Learn, XGBoost (Machine Learning)</li>
-          <li>Matplotlib, Seaborn, Plotly (Visualization)</li>
-        </ul>
-      </details>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">🗣️ NOVA</h3>
-      <p align="center"><b>Intelligent Voice Assistant</b></p>
-      <div align="center">
-        <img src="nova.png" alt="NOVA Logo" width="90%"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Domain-Automation-blueviolet?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Audio-PyAudio-yellow?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Control-PyAutoGUI-green?style=flat-square"/>
-      </div>
-      <br>
-      <p align="center">
-        A Python-based voice assistant that listens, understands, and acts. Control your system volume, brightness, and web interactions strictly through voice commands.
-      </p>
-      <details>
-        <summary><b>🔍 Click to View Features & Tech</b></summary>
-        <br>
-        <b>🎙️ Key Capabilities:</b>
-        <ul>
-          <li><b>System Control:</b> Adjust Volume & Brightness dynamically.</li>
-          <li><b>Web Automation:</b> Voice-controlled Google Search & YouTube.</li>
-          <li><b>Hands-Free IO:</b> Mouse cursor control & voice typing.</li>
-          <li><b>Data Plotting:</b> Generate line plots from spoken numbers.</li>
-          <li><b>App Launching:</b> Open specific applications instantly.</li>
-        </ul>
-        <b>🛠️ Modules Used:</b>
-        <ul>
-          <li><code>speech_recognition</code> (Input Processing)</li>
-          <li><code>pyttsx3</code> (Text-to-Speech)</li>
-          <li><code>pyautogui</code> & <code>pycaw</code> (System Control)</li>
-          <li><code>matplotlib</code> (Data Viz)</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="50" />
-  <br>
-  <sub><i>Empowering users through Data & Voice</i></sub>
-</div>
-<br>
-
-
-
+    
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streakssss
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=anshxgaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
+
+<h2 align="center">🗣️ NOVA - Intelligent Voice Assistant</h2>
+<p align="center">
+  <b>Your Personal Desktop Automation Companion</b><br>
+  <i>Nova listens, understands, and acts — automating your daily tasks through natural speech.</i>
+</p>
+
+<div align="center">
+  <img src="nova.png" alt="NOVA Logo" width="80%"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Domain-Automation-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Audio-PyAudio-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Control-PyAutoGUI-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Search-Google_API-red?style=flat-square"/>
+</div>
+
+<br>
+
+### 📌 Overview
+**Nova** is a powerful Python-based voice assistant designed to bridge the gap between users and their operating systems. Instead of navigating menus or typing commands, users can control system settings, browse the web, and visualize data simply by speaking.
+
+It leverages advanced libraries like `speech_recognition` and `pyttsx3` to provide a seamless, hands-free experience.
+
+---
+
+### 🚀 Key Features
+
+| Category | Capabilities |
+| :--- | :--- |
+| **🎙️ Voice & Audio** | Uses Google Speech Recognition for high-accuracy command processing. Includes percentage-based **Volume Control** (e.g., "Set volume to 50%"). |
+| **🖥️ System Control** | Dynamically adjusts **Screen Brightness** and manages windows (Minimize/Maximize). Includes voice-activated **System Shutdown**. |
+| **🌐 Web Automation** | Performs **Google Searches**, reads **Wikipedia Summaries** aloud, and plays videos directly on **YouTube**. |
+| **🖱️ Hands-Free I/O** | **Mouse Control**: Move cursor via coordinates.<br>**Voice Typing**: Dictate text directly into any active text field. |
+| **📊 DataViz** | **Plotting Engine**: Speak a series of numbers, and Nova will generate and save a line plot using `matplotlib`. |
+
+---
+
+<details>
+<summary><b>🛠️ Tech Stack & Modules (Click to Expand)</b></summary>
+<br>
+
+Nova is built using a modular Python architecture. Below are the core libraries powering the system:
+
+* **`speech_recognition`**: The ears of the system; converts audio to text.
+* **`pyttsx3`**: The voice of the system; offline text-to-speech conversion.
+* **`pycaw`**: Provides low-level access to system audio interfaces.
+* **`screen_brightness_control`**: Hardware-level monitor brightness adjustment.
+* **`pyautogui`**: Simulates mouse movements and keystrokes.
+* **`pywhatkit`**: Seamless integration for playing YouTube videos.
+* **`matplotlib`**: Renders data visualizations from voice input.
+* **`googlesearch-python`**: Fetches search results programmatically.
+
+</details>
+
+---
+
+### ⚙️ Installation & Usage
+
+1.  **Clone the Repository**
+    ```bash
+    git clone [https://github.com/AnshGaur/NOVA-Voice-Assistant.git](https://github.com/AnshGaur/NOVA-Voice-Assistant.git)
+    cd NOVA-Voice-Assistant
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+    *(Note: You may need `PortAudio` installed on your system for microphone access)*
+
+3.  **Run Nova**
+    ```bash
+    python nova.py
+    ```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" />
+  <i>"I'm listening..."</i>
+</p>
+
 
 
 --- ## 🧠 Top Languages & Tools
