@@ -200,12 +200,12 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 Open your terminal or command prompt and run:
-```bash
 git clone [https://github.com/AnshGaur/DAISY-Healthcare.git](https://github.com/AnshGaur/DAISY-Healthcare.git)
 cd DAISY-Healthcare
 
 
---- ## 🧠 Top Languages & Tools
+
+## 🧠 Top Languages & Tools
 #### 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 #### 📊 Data Science & ML Libraries 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
