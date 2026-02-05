@@ -55,7 +55,7 @@
   
   <tr>
     <td align="center" valign="top">
-      <img src="daisy.jpg" alt="DAISY Logo" width="90%"/><br><br>
+      <img src="daisy.jpg" alt="DAISY Logo" width="50%"/><br><br>
       <img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
       <img src="https://img.shields.io/badge/Tech-Streamlit-FF4B4B?style=flat-square"/>
     </td>
