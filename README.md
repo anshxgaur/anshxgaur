@@ -355,7 +355,7 @@ LEETCODE
 
 
 <p align="center">
-  <img src="./Screenshot%20(852).png" alt="LeetCode Frequency Grid" width="420" style="vertical-align: middle;"/>
+  <img src="./Screenshot (872).png" alt="LeetCode Frequency Grid" width="420" style="vertical-align: middle;"/>
   <img src="happy.png" alt="" width="420" style="vertical-align: middle;"/>
 </p>
 
