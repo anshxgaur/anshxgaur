@@ -228,12 +228,7 @@ cd DAISY-Healthcare
 ![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
 
 ---
-# Git-Hub-performance
-
-![README Grade](https://img.shields.io/badge/README-C%2B-orange?style=for-the-badge&logo=github)
-![README Grade](https://img.shields.io/badge/README-B%2B-brightgreen?style=for-the-badge&logo=github)
-![README Grade](https://img.shields.io/badge/README-A-blue?style=for-the-badge&logo=github)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshxgaur-here&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🥇 Certifications & Badges
 
