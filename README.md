@@ -228,6 +228,29 @@ cd DAISY-Healthcare
 ![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
 
 ---
+<h2 align="center">📊 GitHub Performance</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stat-vert-psi.vercel.app/api?username=anshxgaur-arch&show_icons=true&theme=tokyonight&bg_color=0A0F17&title_color=00BFFF&text_color=E0F7FF&hide_border=true"
+    width="50%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stat-vert-psi.vercel.app/api/streak?username=anshxgaur-arch&theme=tokyonight&bg_color=0A0F17&title_color=00BFFF&text_color=E0F7FF&hide_border=true"
+    width="52%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stat-vert-psi.vercel.app/api/top-langs/?username=anshxgaur-arch&layout=compact&theme=tokyonight&bg_color=0A0F17&title_color=00BFFF&text_color=E0F7FF&hide_border=true"
+    width="60%"
+  />
+</p>
+
 ## 🥇 Certifications & Badges
 
 <table align="center">
