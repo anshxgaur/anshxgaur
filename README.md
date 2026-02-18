@@ -202,8 +202,10 @@ Ensure you have the following installed:
 Open your terminal or command prompt and run:
 git clone [https://github.com/AnshGaur/DAISY-Healthcare.git](https://github.com/AnshGaur/DAISY-Healthcare.git)
 cd DAISY-Healthcare
+---
+[![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 ## 🧠 Top Languages & Tools
 #### 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -228,7 +230,6 @@ cd DAISY-Healthcare
 ![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyo-night)
 
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshxgaur-here&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🥇 Certifications & Badges
 
@@ -311,8 +312,6 @@ cd DAISY-Healthcare
 
 ---
 
-
-
 <!-- 🛠️ Tech Stack -->
 ## 🛠️ Tech Stack
 
@@ -381,13 +380,6 @@ LEETCODE
 
 ## 📊 Visitors
 ![Visitors](https://profile-counter.glitch.me/anshxgaur/count.svg)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
