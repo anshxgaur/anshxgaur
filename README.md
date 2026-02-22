@@ -289,7 +289,6 @@ cd DAISY-Healthcare
     <img src="snowflakes.png" width="250px" alt="Certificate 9"/><br/>
     <sub><b>Snowflakes</b></sub>
   </td>
-
   <td align="center">
     <img src="tools for data science.png" width="250px" alt="Certificate 10"/><br/>
     <sub><b>Tools for Data Science</b></sub>
@@ -311,7 +310,9 @@ cd DAISY-Healthcare
       <img src="applied_data_science.png" width="250px" alt="Certificate 9"/><br/>
       <sub><b>Applied data science</b></sub>
     </td>
-
+    <td align="center">
+      <img src="machine_learning.png" width="300px" alt="Certificate 10"/><br/>
+      <sub><b>MACHINE LEARNING</b></sub>
 
 
 </table>
