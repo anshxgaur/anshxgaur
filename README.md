@@ -262,7 +262,7 @@ cd DAISY-Healthcare
 <!-- Row 2 -->
 <tr>
   <td align="center">
-    <img src="Linear Regression Using Python.png" width="250px" alt="Certificate 5"/><br/>
+    <img src="linear regression using python.png" width="250px" alt="Certificate 5"/><br/>
     <sub><b>Linear Regression Using Python</b></sub>
   </td>
   <td align="center">
@@ -313,7 +313,10 @@ cd DAISY-Healthcare
     <td align="center">
       <img src="machine_learning.png" width="300px" alt="Certificate 10"/><br/>
       <sub><b>MACHINE LEARNING</b></sub>
-
+    </td>
+    <td align="center">
+      <img src="ibm.png" width="300px" alt="Certificate 10"/><br/>
+      <sub><b>IBM DATA SCIENCE</b></sub>
 
 </table>
 
