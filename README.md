@@ -254,7 +254,7 @@ cd DAISY-Healthcare
     <sub><b> Python For Data Science</b></sub>
   </td>
     <td align="center">
-    <img src="python project for data science.png" alt="Certificate 10"/><br/>
+    <img src="python project for data science.png" width="250px" alt="Certificate 5"/><br/>
     <sub><b>PYTHON PROJECT FOR DATA SCIENCE  </b></sub>
   </td>
 </tr>
@@ -262,23 +262,23 @@ cd DAISY-Healthcare
 <!-- Row 2 -->
 <tr>
   <td align="center">
-    <img src="data base and sql.png" width="250px" alt="Certificate 5"/><br/>
+    <img src="data base and sql.png" width="250px" alt="Certificate 6"/><br/>
     <sub><b>DATA BASE AND SQL</b></sub>
   </td>
   <td align="center">
-    <img src="Data Analysis with Python.png" width="250px" alt="Certificate 6"/><br/>
+    <img src="Data Analysis with Python.png" width="250px" alt="Certificate 7"/><br/>
     <sub><b>Data Analysis with Python</b></sub>
   </td>
   <td align="center">
-    <img src="Data Visualization with Python.png" width="250px" alt="Certificate 7"/><br/>
+    <img src="Data Visualization with Python.png" width="250px" alt="Certificate 8"/><br/>
     <sub><b>Data Visualization with Python</b></sub>
   </td>
   <td align="center">
-    <img src="machine_learning.png"/><br/>
+    <img src="machine_learning.png" width="250px" alt="Certificate 9"/><br/>
     <sub><b>MACHINE LEARNING</b></sub>
   </td>
   <td align="center">
-    <img src="applied_data_science.png" alt="Certificate 8"/><br/>
+    <img src="applied_data_science.png" width="250px" alt="Certificate 10"/><br/>
     <sub><b>Applied data science</b></sub>
   
 </tr>
@@ -286,43 +286,45 @@ cd DAISY-Healthcare
 <!-- Row 3  -->
 <tr>
   <td align="center">
-    <img src="Generative AI: Elevate Your Data Science Career" width="250px" alt="Certificate 9"/><br/>
+    <img src="Generative AI: Elevate Your Data Science Career" width="250px" alt="Certificate 11"/><br/>
     <sub><b>Screenshot (835).png</b></sub>
   </td>
   <td align="center">
-    <img src="Data science carieer guide" width="250px" alt="Certificate 10"/><br/>
+    <img src="Data science carieer guide" width="250px" alt="Certificate 12"/><br/>
     <sub><b> DATA SCIENCE CARRIER GUIDE</b></sub>
   </td>
     <td align="center">
-    <img src="ibm.png  " alt="Certificate 10"/><br/>
+    <img src="ibm.png" alt="Certificate 13"/><br/>
     <sub><b>IBM DATA SCIENCE</b></sub>
   </td>
     <td align="center">
-    <img src="snowflakes.png" width="250px" alt="Certificate 10"/><br/>
+    <img src="snowflakes.png" width="250px" alt="Certificate 14"/><br/>
     <sub><b>Snowflakes</b></sub>
   </td>
     <td align="center">
-    <img src="Screenshot (842).png" width=  intro to snowpark.png"300px" alt="Certificate 10"/><br/>
+    <img src="Screenshot (842).png" width="250px" alt="Certificate 15"/><br/>
     <sub><b>Intro To Snowpark</b></sub>
   <!-- Row 4  -->
   <tr>
     <td align="center">
-      <img src="Screenshot (841).png" width="300px   " width="250px" alt="Certificate 9"/><br/>
+      <img src="Screenshot (841).png" width="250px" alt="Certificate 16"/><br/>
       <sub><b>Presentaion by Canva</b></sub>
     </td>
     <td align="center">
-      <img src="open ai.png" width="300px" alt="Certificate 10"/><br/>
+      <img src="open ai.png" width="250px" alt="Certificate 17"/><br/>
       <sub><b>Open Ai</b></sub>
     </td>
     <td align="center">
-      <img src="linear regression using python.png   " width="300px" alt="Certificate 10"/><br/>
+      <img src="linear regression using python.png" width="250px" alt="Certificate 18"/><br/>
       <sub><b>LINEAR REGRESSIONWITH PYTHON</b></sub>
     </td>
     <td align="center">
-      <img src="
-  Screenshot (840).png" width="300px" width="300px" alt="Certificate 10"/><br/>
+      <img src="Screenshot (840).png" width="300px" width="250px" alt="Certificate 19"/><br/>
       <sub><b>  MATHS FOR COMPUTER SCIENCE</b></sub>
-
+    </td>
+    <td align="center">
+      <img src="Manipulating Data with SQL.png" width="250px" width="300px" alt="Certificate 20"/><br/>
+      <sub><b>Manipulating Data with SQL</b></sub>
 
 
 
