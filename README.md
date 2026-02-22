@@ -239,11 +239,11 @@ cd DAISY-Healthcare
 <tr>
   <td align="center">
     <img src="data analysis with python.png" width="250px" alt="Certificate 1"/><br/>
-    <sub><b>Data analysis with python.png</b></sub>
+    <sub><b>Data Analysis With Python</b></sub>
   </td>
   <td align="center">
     <img src="data base and sql.png" width="250px" alt="Certificate 2"/><br/>
-    <sub><b>data base and sql.png</b></sub>
+    <sub><b>Data Base and SQL</b></sub>
   </td>
   <td align="center">
     <img src="data science methodology.png" width="250px" alt="Certificate 3"/><br/>
@@ -251,7 +251,7 @@ cd DAISY-Healthcare
   </td>
   <td align="center">
     <img src="intro to snowpark.png" width="250px" alt="Certificate 4"/><br/>
-    <sub><b>intro to snowpark.png</b></sub>
+    <sub><b>Intro To Snowpark</b></sub>
   </td>
     <td align="center">
     <img src="Screenshot (840).png" width="300px" alt="Certificate 10"/><br/>
@@ -262,24 +262,24 @@ cd DAISY-Healthcare
 <!-- Row 2 -->
 <tr>
   <td align="center">
-    <img src="linear regression using python.png" width="250px" alt="Certificate 5"/><br/>
-    <sub><b>linear regression using python.png</b></sub>
+    <img src="Linear Regression Using Python.png" width="250px" alt="Certificate 5"/><br/>
+    <sub><b>Linear Regression Using Python</b></sub>
   </td>
   <td align="center">
     <img src="open ai.png" width="250px" alt="Certificate 6"/><br/>
-    <sub><b>open ai.png</b></sub>
+    <sub><b>Open Ai</b></sub>
   </td>
   <td align="center">
     <img src="python for data science.png" width="250px" alt="Certificate 7"/><br/>
-    <sub><b>python for data science.png</b></sub>
+    <sub><b>Python For Data Science</b></sub>
   </td>
   <td align="center">
     <img src="python project for data science.png" width="250px" alt="Certificate 8"/><br/>
-    <sub><b>python project for data science.png</b></sub>
+    <sub><b>Python Project For Data Science</b></sub>
   </td>
   <td align="center">
     <img src="Screenshot (841).png" width="300px" alt="Certificate 8"/><br/>
-    <sub><b>Presentaion by canva.png</b></sub>
+    <sub><b>Presentaion by Canva</b></sub>
   
 </tr>
 
@@ -287,16 +287,16 @@ cd DAISY-Healthcare
 <tr>
   <td align="center">
     <img src="snowflakes.png" width="250px" alt="Certificate 9"/><br/>
-    <sub><b>snowflakes.png</b></sub>
+    <sub><b>Snowflakes</b></sub>
   </td>
 
   <td align="center">
     <img src="tools for data science.png" width="250px" alt="Certificate 10"/><br/>
-    <sub><b>Tools for data science.png</b></sub>
+    <sub><b>Tools for Data Science</b></sub>
   </td>
     <td align="center">
     <img src="what is data science.png" width="250px" alt="Certificate 10"/><br/>
-    <sub><b>what is data science.png</b></sub>
+    <sub><b>what is data science?</b></sub>
   </td>
     <td align="center">
     <img src="Screenshot (835).png" width="250px" alt="Certificate 10"/><br/>
@@ -305,6 +305,13 @@ cd DAISY-Healthcare
     <td align="center">
     <img src="Screenshot (842).png" width="300px" alt="Certificate 10"/><br/>
     <sub><b>Data science carieer guide</b></sub>
+  <!-- Row 4  -->
+  <tr>
+    <td align="center">
+      <img src="applied_data_science.png" width="250px" alt="Certificate 9"/><br/>
+      <sub><b>Applied data science</b></sub>
+    </td>
+
 
 
 </table>
