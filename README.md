@@ -264,7 +264,7 @@ cd DAISY-Healthcare
     <sub><b>DATA BASE AND SQL</b></sub>
   </td>
   <td align="center">
-    <img src="Data Analysis with Python.png" width="250" alt="Certificate 7"/><br/>
+    <img src="data analysis with python.png" width="250" alt="Certificate 7"/><br/>
     <sub><b>Data Analysis with Python</b></sub>
   </td>
   <td align="center">
