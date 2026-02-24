@@ -283,11 +283,11 @@ cd DAISY-Healthcare
 
 <tr>
   <td align="center">
-    <img src="Generative AI: Elevate Your Data Science Career" width="250" alt="Certificate 11"/><br/>
-    <sub><b>Screenshot (835).png</b></sub>
+    <img src="Screenshot (835).png"width="250" alt="Certificate 11"/><br/>
+    <sub><b>Generative AI: Elevate Your Data Science Career</b></sub>
   </td>
   <td align="center">
-    <img src="Data science carieer guide" width="250" alt="Certificate 12"/><br/>
+    <img src="Screenshot (842).png" width="250" alt="Certificate 12"/><br/>
     <sub><b>DATA SCIENCE CARRIER GUIDE</b></sub>
   </td>
   <td align="center">
