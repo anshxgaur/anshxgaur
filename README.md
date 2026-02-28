@@ -377,7 +377,7 @@ LEETCODE
 
 
 <p align="center">
-  <img src="./Screenshot (872).png" alt="LeetCode Frequency Grid" width="420" style="vertical-align: middle;"/>
+  <img src="Screenshot (989).png" alt="LeetCode Frequency Grid" width="420" style="vertical-align: middle;"/>
   <img src="happy.png" alt="" width="420" style="vertical-align: middle;"/>
 </p>
 
@@ -386,7 +386,7 @@ LEETCODE
   <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
 </p>
 
-📅 Updated: Feb 14, 2026  
+📅 Updated: Feb 28, 2026  
 ---
 
 <!-- 👁️ Visitor Counter -->
