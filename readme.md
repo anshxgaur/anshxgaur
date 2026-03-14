@@ -236,7 +236,7 @@ python app.py
   <!-- Row 1 -->
   <tr>
     <td align="center"><img src="what is data science.png" width="200px"/><br/><sub><b>What is Data Science?</b></sub></td>
-    <td align="center"><img src="" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
+    <td align="center"><img src="tool_data science.png" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
     <td align="center"><img src="data science methodology.png" width="200px"/><br/><sub><b>Data Science Methodology</b></sub></td>
     <td align="center"><img src="python for data science.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
     <td align="center"><img src="data base and sql.png" width="200px"/><br/><sub><b>Databases and SQL</b></sub></td>
