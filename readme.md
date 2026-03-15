@@ -244,15 +244,16 @@ python app.py
 
   <!-- Row 2 -->
   <tr>
-    <td align="center"><img src="data analysis with python.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
-    <td align="center"><img src="data_visualization.png" width="200px"/><br/><sub><b>Data Visualization</b></sub></td>
-    <td align="center"><img src="machine_learning.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
-    <td align="center"><img src="applied_data_science.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
-    <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Gen AI: Elevate Your Career</b></sub></td>
+    <td align="center"><img src="data analysis with python.png" width="200px"/><br/><sub><b> Databases and SQL for Data Science with Python</b></sub></td>
+    <td align="center"><img src="data_visualization.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
+    <td align="center"><img src="machine_learning.png" width="200px"/><br/><sub><b> Visualization </b></sub></td>
+    <td align="center"><img src="applied_data_science.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
+    <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
+    <td align="center"><img src="applied_data_science.png" width="200px"/><br/><sub><b>Elevate Your Data Science Career</b></sub></td>
     <td align="center"><img src="data science carrier guide.png" width="200px"/><br/><sub><b>Career Guide</b></sub></td>
     <td align="center"><img src="ibm.png" width="200px"/><br/><sub><b>IBM Data Science Certificate</b></sub></td>
     <td></td><td></td><td></td>
