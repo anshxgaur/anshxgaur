@@ -246,7 +246,7 @@ python app.py
   <tr>
     <td align="center"><img src="DATABASE.png" width="200px"/><br/><sub><b> Databases and SQL for Data Science with Python</b></sub></td>
     <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
-    <td align="center"><img src="VISUALIZATION.PNG" width="200px"/><br/><sub><b> Visualization </b></sub></td>
+    <td align="center"><img src="VISUALIZATION.png" width="200px"/><br/><sub><b> Visualization </b></sub></td>
     <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
     <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
   </tr>
