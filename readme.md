@@ -244,10 +244,10 @@ python app.py
 
   <!-- Row 2 -->
   <tr>
-    <td align="center"><img src="data analysis with python.png" width="200px"/><br/><sub><b> Databases and SQL for Data Science with Python</b></sub></td>
-    <td align="center"><img src="data_visualization.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
-    <td align="center"><img src="machine_learning.png" width="200px"/><br/><sub><b> Visualization </b></sub></td>
-    <td align="center"><img src="applied_data_science.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
+    <td align="center"><img src="DATABASE.png" width="200px"/><br/><sub><b> Databases and SQL for Data Science with Python</b></sub></td>
+    <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
+    <td align="center"><img src="VISUALIZATION.PNG" width="200px"/><br/><sub><b> Visualization </b></sub></td>
+    <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
     <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
   </tr>
 
