@@ -248,7 +248,7 @@ python app.py
     <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
     <td align="center"><img src="VISUALIZATION.png" width="200px"/><br/><sub><b> Visualization </b></sub></td>
     <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
-    <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
+    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
   </tr>
 
   <!-- Row 3 -->
