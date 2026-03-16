@@ -253,8 +253,7 @@ python app.py
 
   <!-- Row 3 -->
   <tr>
-    <td align="center"><img src="gen ai elevate carrier.png
-" width="200px"/><br/><sub><b>Elevate Your Data Science Career</b></sub></td>
+    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Elevate Your Data Science Career</b></sub></td>
     <td align="center"><img src="data science carrier.png" width="200px"/><br/><sub><b>Career Guide</b></sub></td>
     <td align="center"><img src="ibm data science.png" width="200px"/><br/><sub><b>IBM Data Science Certificate</b></sub></td>
     <td></td><td></td><td></td>
