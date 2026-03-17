@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Gaur&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7dcfff" width="100%" />
 </p>
 ---
-![](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub Metrics](github-metrics.svg)
 ---
 
 
