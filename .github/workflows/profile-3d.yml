@@ -8,9 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
