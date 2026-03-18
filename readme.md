@@ -290,17 +290,17 @@ python app.py
 
   <!-- Row 3 -->
   <tr>
-    <td align="center"><img src="Screenshot 2026-03-13 140226.png" width="250px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 211821.png" width="250px"/><br/><sub><b>Language Modeling w/ Transformers</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="250px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="250px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210234.png" width="250px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
+    <td align="center"><img src="fundamental of ai .png" width="250px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
+    <td align="center"><img src="gen ai lang with models.png" width="250px"/><br/><sub><b>Language Modeling w/ Transformers</b></sub></td>
+    <td align="center"><img src="gen ai advance.png" width="250px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
+    <td align="center"><img src="gen ai and fine tunig.png" width="250px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
+    <td align="center"><img src="fundamental of ai .png" width="250px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
-    <td align="center"><img src="Screenshot 2026-03-07 104940.png" width="250px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
-    <td align="center"><img src="ibm gen ai .png" width="250px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
+    <td align="center"><img src="project.png" width="250px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
+    <td align="center"><img src="final .png" width="250px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
     <td></td><td></td><td></td>
   </tr>
 </table>
@@ -380,7 +380,7 @@ LEETCODE
 
 <p align="center">
   <img src="leetcode.png" alt="LeetCode Frequency Grid" width="320" style="vertical-align: middle;"/>
-  <img src="hackernak.png" alt="" width="420" style="vertical-align: middle;"/>
+  <img src="hackernak.png" alt="" width="320" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
