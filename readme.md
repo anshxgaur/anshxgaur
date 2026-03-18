@@ -272,35 +272,35 @@ python app.py
 
   <!-- Row 1 -->
   <tr>
-    <td align="center"><img src="introduction to ai.png" width="200px"/><br/><sub><b>Introduction to AI</b></sub></td>
-    <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI: Intro & Applications</b></sub></td>
-    <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Prompt Engineering Basics</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 204827.png"introduction to ai.png width="200px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
+    <td align="center"><img src="introduction to ai.png" width="250px"/><br/><sub><b>Introduction to AI</b></sub></td>
+    <td align="center"><img src="inroduction and application.png" width="250px"/><br/><sub><b>Gen AI: Intro & Applications</b></sub></td>
+    <td align="center"><img src="gen ai prompt.png" width="250px"/><br/><sub><b>Prompt Engineering Basics</b></sub></td>
+    <td align="center"><img src="python for datra sciednce.png" width="250px"/><br/><sub><b>Python for Data Science</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-06 204827.png"introduction to ai.png width="250px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center"><img src="building gen ai.png" width="200px"/><br/><sub><b>Gen AI-Powered Apps</b></sub></td>
-    <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
-    <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 202819.png" width="200px"/><br/><sub><b>Deep Learning with Keras</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-13 140226.png" width="200px"/><br/><sub><b>LLMs Architecture</b></sub></td>
+    <td align="center"><img src="building gen ai.png" width="250px"/><br/><sub><b>Gen AI-Powered Apps</b></sub></td>
+    <td align="center"><img src="DATA ANALYSIS.png" width="250px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
+    <td align="center"><img src="ML FOR PYTHON.png" width="250px"/><br/><sub><b>Machine Learning</b></sub></td>
+    <td align="center"><img src="intro to neural network.png" width="250px"/><br/><sub><b>Deep Learning with Keras</b></sub></td>
+    <td align="center"><img src="gen ai and llm.png" width="250px"/><br/><sub><b>LLMs Architecture</b></sub></td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center"><img src="Screenshot 2026-03-13 140226.png" width="200px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 211821.png" width="200px"/><br/><sub><b>Language Modeling w/ Transformers</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="200px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="200px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 210234.png" width="200px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-13 140226.png" width="250px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-06 211821.png" width="250px"/><br/><sub><b>Language Modeling w/ Transformers</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="250px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-06 210554.png" width="250px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-06 210234.png" width="250px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
-    <td align="center"><img src="Screenshot 2026-03-07 104940.png" width="200px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
-    <td align="center"><img src="ibm gen ai .png" width="200px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-07 104940.png" width="250px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
+    <td align="center"><img src="ibm gen ai .png" width="250px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
     <td></td><td></td><td></td>
   </tr>
 </table>
@@ -312,11 +312,11 @@ python app.py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="Screenshot (1005).png" width="200px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
-    <td align="center"><img src="Screenshot (1010).png" width="200px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
-    <td align="center"><img src="Screenshot (840).png" width="200px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
-    <td align="center"><img src="Screenshot (841).png" width="200px"/><br/><sub><b>Canva Presentation Design</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-07 180311.png" width="200px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
+    <td align="center"><img src="Screenshot (1005).png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
+    <td align="center"><img src="Screenshot (1010).png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
+    <td align="center"><img src="Screenshot (840).png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
+    <td align="center"><img src="Screenshot (841).png" width="250px"/><br/><sub><b>Canva Presentation Design</b></sub></td>
+    <td align="center"><img src="Screenshot 2026-03-07 180311.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
   </tr>
 </table>
 
@@ -327,9 +327,9 @@ python app.py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
-    <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
-    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
+    <td align="center"><img src="inroduction and application.png" width="250px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
+    <td align="center"><img src="gen ai prompt.png" width="250px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
+    <td align="center"><img src="gen ai elevate carrier.png" width="250px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
     <td align="center"><img src="gen ai.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
   </tr>
 </table>
