@@ -282,8 +282,8 @@ python app.py
   <!-- Row 2 -->
   <tr>
     <td align="center"><img src="building gen ai.png" width="200px"/><br/><sub><b>Gen AI-Powered Apps</b></sub></td>
-    <td align="center"><img src="data analysis with python.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
-    <td align="center"><img src="machine_learning.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
+    <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
+    <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
     <td align="center"><img src="Screenshot 2026-03-06 202819.png" width="200px"/><br/><sub><b>Deep Learning with Keras</b></sub></td>
     <td align="center"><img src="Screenshot 2026-03-13 140226.png" width="200px"/><br/><sub><b>LLMs Architecture</b></sub></td>
   </tr>
