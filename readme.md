@@ -323,19 +323,16 @@ python app.py
 
 <!-- Gen AI for Data Engineering -->
 <h2 align="center">Gen AI for Data Engineering</h2>
-<p align="center">5 Certificates</p>
+<p align="center">4 Certificates</p>
 
 <table align="center">
   <tr>
     <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
     <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
     <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-07 175305.png" width="200px"/><br/><sub><b>Gen AI for Data Science</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-07 175305.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
+    <td align="center"><img src="gen ai.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
   </tr>
 </table>
-
-
 
 
 <!-- 🛠️ Tech Stack -->
