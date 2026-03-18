@@ -382,8 +382,8 @@ LEETCODE
 
 
 <p align="center">
-  <img src="Screenshot 2026-03-09 221951.png" alt="LeetCode Frequency Grid" width="320" style="vertical-align: middle;"/>
-  <img src="happy.png" alt="" width="420" style="vertical-align: middle;"/>
+  <img src="leetcode.png" alt="LeetCode Frequency Grid" width="320" style="vertical-align: middle;"/>
+  <img src="hackernak.png" alt="" width="420" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
