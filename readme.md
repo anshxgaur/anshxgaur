@@ -327,9 +327,9 @@ python app.py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="Screenshot (1006).png" width="200px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
-    <td align="center"><img src="Screenshot (1007).png" width="200px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
-    <td align="center"><img src="gen ai elevate your carrier.png" width="200px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
+    <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
+    <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
+    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
     <td align="center"><img src="Screenshot 2026-03-07 175305.png" width="200px"/><br/><sub><b>Gen AI for Data Science</b></sub></td>
     <td align="center"><img src="Screenshot 2026-03-07 175305.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
   </tr>
