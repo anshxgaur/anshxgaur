@@ -312,9 +312,9 @@ python app.py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="Screenshot (1005).png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
-    <td align="center"><img src="Screenshot (1010).png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
-    <td align="center"><img src="Screenshot (840).png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
+    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
+    <td align="center"><img src="manipulation with sql.png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
+    <td align="center"><img src="linear regression with python .png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
     <td align="center"><img src="Screenshot (841).png" width="250px"/><br/><sub><b>Canva Presentation Design</b></sub></td>
     <td align="center"><img src="Screenshot 2026-03-07 180311.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
   </tr>
