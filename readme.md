@@ -316,7 +316,6 @@ python app.py
     <td align="center"><img src="maths for cs.png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
     <td align="center"><img src="manipulation with sql.png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
     <td align="center"><img src="linear regression with python .png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
-    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>snowflakes for datascience.png</b></sub></td>
     <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
   </tr>
   <tr>
@@ -324,6 +323,7 @@ python app.py
     <td align="center"><img src="DATABASE.png" width="250px"/><br/><sub><b>DATABRICKS For Machine Learning</b></sub></td>
     <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>Open AI</b></sub></td>
     <td align="center"><img src="canvas.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
+    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>snowflakes for datascience.png</b></sub></td>
 </table>
 
 
