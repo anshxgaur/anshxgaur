@@ -308,16 +308,22 @@ python app.py
 
 <!-- Extras -->
 <h2 align="center">Extras</h2>
-<p align="center">5 Certificates</p>
+<p align="center">8 Certificates</p>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
+    <td align="center"><img src="maths for ml.png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
+    <td align="center"><img src="maths for cs.png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
     <td align="center"><img src="manipulation with sql.png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
     <td align="center"><img src="linear regression with python .png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
-    <td align="center"><img src="Screenshot (841).png" width="250px"/><br/><sub><b>Canva Presentation Design</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-07 180311.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
+    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>snowflakes for datascience.png</b></sub></td>
+    <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
+    <td align="center"><img src="DATABASE.png" width="250px"/><br/><sub><b>DATABRICKS For Machine Learning</b></sub></td>
+    <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>Open AI</b></sub></td>
+    <td align="center"><img src="canva.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
 </table>
 
 
@@ -388,9 +394,8 @@ LEETCODE
   <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
 </p>
 
-📅 Updated: Mar 09, 2026  
+📅 Updated: Mar 22, 2026  
 ---
-
 
 ### 🌈 3D Contribution Graph
 <p align="center">
@@ -401,206 +406,3 @@ LEETCODE
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"></picture>
 
 <img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/github-metrics.svg" alt="GitHub Metrics">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
