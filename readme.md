@@ -323,7 +323,7 @@ python app.py
     <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
     <td align="center"><img src="DATABASE.png" width="250px"/><br/><sub><b>DATABRICKS For Machine Learning</b></sub></td>
     <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>Open AI</b></sub></td>
-    <td align="center"><img src="canva.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
+    <td align="center"><img src="canvas.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
 </table>
 
 
