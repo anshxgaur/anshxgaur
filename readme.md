@@ -406,10 +406,6 @@ Watch the snake eat my contributions!
 </picture>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshxgaur&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
 ### 🏙️  3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
