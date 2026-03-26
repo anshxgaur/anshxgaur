@@ -407,13 +407,10 @@ Watch the snake eat my contributions!
 
 ---
 
-### 🏙️ My Contribution City
-A 3D visualization of my recent GitHub activity.
 
-![3D Contribution Graph](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/profile-3d-contrib/profile-green-animate.svg)
 
 ---
-### 🌈 3D Contribution Graph
+### 🏙️  3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
 </p>
