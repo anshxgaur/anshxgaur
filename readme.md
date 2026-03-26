@@ -396,7 +396,23 @@ LEETCODE
 
 📅 Updated: Mar 22, 2026  
 ---
+### 🐍 My GitHub Journey
+Watch the snake eat my contributions!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🏙️ My Contribution City
+A 3D visualization of my recent GitHub activity.
+
+![3D Contribution Graph](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/profile-3d-contrib/profile-green-animate.svg)
+
+---
 ### 🌈 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
