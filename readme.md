@@ -340,6 +340,20 @@ python app.py
   </tr>
 </table>
 
+<!-- HACKATHONS hackathon -->
+<h2 align="center"> HACKATHONS </h2>
+<p align="center">5 Certificates</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="iisc banglore.png" width="250px"/><br/><sub><b>IISC BANGLORE</b></sub></td>
+    <td align="center"><img src="nit durgapur.png" width="250px"/><br/><sub><b>NIT DURGAPUR</b></sub></td>
+    <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>OPEN AI</b></sub></td>
+    <td align="center"><img src="" width="200px"/><br/><sub><b>BITS PILANI</b></sub></td>
+    <td align="center"><img src="" width="200px"/><br/><sub><b>GGSIPU</b></sub></td>
+  </tr>
+</table>
+
 
 <!-- 🛠️ Tech Stack -->
 ## 🛠️ Tech Stack
