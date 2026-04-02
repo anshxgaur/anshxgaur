@@ -276,7 +276,7 @@ python app.py
     <td align="center"><img src="inroduction and application.png" width="250px"/><br/><sub><b>Gen AI: Intro & Applications</b></sub></td>
     <td align="center"><img src="gen ai prompt.png" width="250px"/><br/><sub><b>Prompt Engineering Basics</b></sub></td>
     <td align="center"><img src="python for datra sciednce.png" width="250px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="Screenshot 2026-03-06 204827.png"introduction to ai.png width="250px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
+    <td align="center"><img src="ai flasks.png" width="250px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
   </tr>
 
   <!-- Row 2 -->
