@@ -242,7 +242,7 @@ python app.py
     <td align="center"><img src="tool_data science.png" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
     <td align="center"><img src="data science methodology.png" width="200px"/><br/><sub><b>Data Science Methodology</b></sub></td>
     <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>  PYTHON PROJECTS FOR DATA SCIENCE</b></sub></td>
+    <td align="center"><img src="python projects.png" width="200px"/><br/><sub><b>  PYTHON PROJECTS FOR DATA SCIENCE</b></sub></td>
   </tr>
 
   <!-- Row 2 -->
@@ -308,7 +308,7 @@ python app.py
 
 <!-- Extras -->
 <h2 align="center">Extras</h2>
-<p align="center">8 Certificates</p>
+<p align="center">10 Certificates</p>
 
 <table align="center">
   <tr>
@@ -321,8 +321,8 @@ python app.py
   <tr>
     <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
     <td align="center"><img src="DATABASE.png" width="250px"/><br/><sub><b>DATABRICKS For Machine Learning</b></sub></td>
-    <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>Open AI</b></sub></td>
     <td align="center"><img src="canvas.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
+    <td align="center"><img src="databricks.png" width="250px"/><br/><sub><b>Databricks machine learning</b></sub></td>
     <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>snowflakes for datascience.png</b></sub></td>
 </table>
 
