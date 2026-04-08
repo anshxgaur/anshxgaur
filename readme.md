@@ -1,567 +1,430 @@
-<!-- 🎯 Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Gaur&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7dcfff" width="100%" />
-</p>
 
-<!-- 👋 Introduction -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh+Gaur;Developer+%7C+Problem+Solver;Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- 🌌 Futuristic Header Banner -->
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,28&height=280&section=header&text=ANSH%20GAUR&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%"/>
+
+<!-- Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%90;Where+Code+Meets+Innovation" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- Social Links with Neon Effect -->
+<p>
   <a href="mailto:anshgaurx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/Anshxgaur">
-    <img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=fff&labelColor=1a1a2e" />
   </a>
   <a href="https://www.linkedin.com/in/anshgaurx">
-    <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a1a2e" />
   </a>
   <a href="https://wa.me/919149162265">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-00FF41?style=for-the-badge&logo=whatsapp&logoColor=000&labelColor=1a1a2e" />
+  </a>
+  <a href="https://leetcode.com/anshgaurx/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000&labelColor=1a1a2e" />
   </a>
 </p>
 
----
-
-<!-- 🖋️ Typing Intro Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Competitive+Programming+Strategist;Always+learning+and+building...)](https://git.io/typing-svg)
-    
-<!-- 🔥 GitHub Streak -->
-### 🔥 GitHub Streakssss
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anshxgaur&theme=tokyonight&hide_border=false&border=00FBFF&background=0D1117&ring=00FBFF&fire=FF6E96&currStreakLabel=00FBFF)](https://git.io/streak-stats)
-
----
-### 🔥 PROJECTS:
-# 🚀 AI & Automation Portfolio
-
-<p align="center">
-  <b>Ansh Gaur</b><br>
-  <i>Showcasing specialized work in Healthcare Intelligence & Voice Automation</i>
+<!-- Visitor Counter & Stats -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anshxgaur&label=Profile%20Views&color=00F5FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anshxgaur?label=Followers&style=for-the-badge&color=FF00FF&labelColor=1a1a2e&logo=github" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Focus-Data_Science_&_Automation-teal?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-<table width="100%">
+<!-- 🚀 Dynamic Introduction -->
+<div align="center">
+  
+## 🧬 About Me
+
+```typescript
+const anshGaur = {
+    location: "Meerut, India 🇮🇳",
+    role: "AI Engineer & Full Stack Developer",
+    expertise: ["Machine Learning", "Data Science", "Automation", "Web Development"],
+    currentFocus: "Building AI-powered healthcare solutions",
+    learning: ["Advanced Deep Learning", "MLOps", "Cloud Architecture"],
+    funFact: "I turn coffee into code and ideas into reality ☕️→💻"
+};
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Modular+Python+Architect+%F0%9F%90%8D;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Healthcare+AI+Innovator+%F0%9F%A9%BA;Voice+Automation+Specialist+%F0%9F%8E%99%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Skills Animation" />
+
+</div>
+
+---
+
+<!-- 🔥 GitHub Stats Dashboard -->
+<div align="center">
+
+## ⚡ GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+<!-- 🎯 Featured Projects -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-## 🌼 DAISY
+### 🌼 DAISY - Healthcare Intelligence System
+<a href="https://github.com/AnshGaur/DAISY"><img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=000"/></a>
 
-<img src="daisy.jpg" width="60%"/>
+**An AI-powered healthcare analytics platform**
 
-<img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-Streamlit-FF4B4B?style=flat-square"/>
+🎯 **Core Features:**
+- 🏥 **Disease Prediction Engine** - ML models for Heart Disease & Diabetes
+- 📊 **Real-time Dashboard** - Interactive Streamlit visualizations
+- 🎯 **Risk Stratification** - Patient categorization by urgency
+- 📈 **Outbreak Forecasting** - Predictive analytics for epidemics
 
-</td>
-
-<td width="50%" align="center">
-
-## 🗣️ NOVA
-
-<img src="logo.jpg" width="60%"/>
-
-<img src="https://img.shields.io/badge/Domain-Voice_Automation-blueviolet?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-PyAutoGUI-green?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Healthcare Data Intelligence System
-
-An end-to-end AI framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
-
-**🏥 Key Features**
-
-- **Disease Prediction:** Heart Disease & Diabetes risk modeling  
-- **Interactive Dashboard:** Real-time patient vitals via Streamlit  
-- **Risk Stratification:** Categorizing patients by urgency  
-
-</td>
-
-<td valign="top">
-
-### Intelligent Voice Assistant
-
-A desktop automation companion that listens, understands, and acts. Control your system volume, brightness, and web interactions strictly through voice.
-
-**🎙️ Key Features**
-
-- **System Control:** Voice-activated Volume & Brightness  
-- **Web Automation:** Google Search & YouTube playback  
-- **Hands-Free:** Mouse control & voice typing  
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
+**Tech Stack:**
+```python
+Python | Streamlit | Scikit-learn | Pandas
+NumPy | Plotly | Seaborn
+```
 
 <details>
-<summary><b>⚙️ How to Run DAISY</b></summary>
+<summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-# 1. Clone Repo
 git clone https://github.com/AnshGaur/DAISY.git
 cd DAISY
-
-# 2. Create Virtual Environment
 python -m venv venv
-
-# Activate Environment
-source venv/Scripts/activate   # Git Bash / Linux / macOS
-venv\Scripts\activate          # Windows CMD / PowerShell
-
-# 3. Install Dependencies
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
-
-# 4. Launch App
 streamlit run app.py
 ```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛠️ Tech Stack</b></summary>
-
-- `pandas`
-- `numpy`
-- `scikit-learn`
-- `plotly`
-- `seaborn`
-- `streamlit`
-
 </details>
 
 </td>
+<td width="50%">
 
-<td valign="top">
+### 🗣️ NOVA - Voice Automation Assistant
+<a href="https://github.com/AnshGaur/NOVA"><img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=fff"/></a>
+
+**Intelligent desktop automation through voice**
+
+🎯 **Core Features:**
+- 🎚️ **System Control** - Voice-activated volume & brightness
+- 🌐 **Web Automation** - Hands-free browsing & search
+- 🖱️ **Gesture Control** - Mouse automation via voice
+- ⌨️ **Voice Typing** - Dictation & text input
+
+**Tech Stack:**
+```python
+Python | SpeechRecognition | PyTTSx3
+PyAutoGUI | PyAudio
+```
 
 <details>
-<summary><b>⚙️ How to Run NOVA</b></summary>
+<summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-# 1. Clone Repo
 git clone https://github.com/AnshGaur/NOVA.git
 cd NOVA
-
-# 2. Create Virtual Environment
 python -m venv venv
-
-# Activate Environment
-source venv/Scripts/activate   # Git Bash / Linux / macOS
-venv\Scripts\activate          # Windows CMD / PowerShell
-
-# 3. Install Dependencies
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
-
-# 4. Launch Assistant
 python app.py
 ```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛠️ Tech Stack</b></summary>
-
-- `speech_recognition`
-- `pyttsx3`
-- `pyautogui`
-- `pyaudio`
-
 </details>
 
 </td>
 </tr>
 
-</table>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40"/>
-  <br>
-  <sub><i>Empowering users through Data & Voice</i></sub>
-</p>
- 
----
-
-<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-## 🌼 F1 PERFROMANCE ANAYSIS SYSTEM
+### 🏎️ F1 Performance Analysis Dashboard
+<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-00FF41?style=for-the-badge&logo=formkit&logoColor=000"/></a>
 
-<img src="daisy.jpg" width="60%"/>
+**Real-time F1 telemetry analysis system**
 
-<img src="https://img.shields.io/badge/Domain-Healthcare-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-Streamlit-FF4B4B?style=flat-square"/>
+🎯 **Core Features:**
+- 📊 **Live Telemetry** - Real-time race data visualization
+- 🏁 **Performance Metrics** - Driver & team comparisons
+- 📈 **Predictive Analytics** - Race outcome forecasting
+- 🎯 **Strategy Simulation** - Pit stop optimization
 
-</td>
-
-<td width="50%" align="center">
-
-## 🗣️ NEXUS
-
-<img src="logo.jpg" width="60%"/>
-
-<img src="https://img.shields.io/badge/Domain-Voice_Automation-blueviolet?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-PyAutoGUI-green?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### F1 DASHBOARD
-
-An end-to-end AI framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
-
-**🏥 Key Features**
-
-- **Disease Prediction:** Heart Disease & Diabetes risk modeling  
-- **Interactive Dashboard:** Real-time patient vitals via Streamlit  
-- **Risk Stratification:** Categorizing patients by urgency  
-
-</td>
-
-<td valign="top">
-
-### COORPORATE ECOSYSTEM
-
-A desktop automation companion that listens, understands, and acts. Control your system volume, brightness, and web interactions strictly through voice.
-
-**🎙️ Key Features**
-
-- **System Control:** Voice-activated Volume & Brightness  
-- **Web Automation:** Google Search & YouTube playback  
-- **Hands-Free:** Mouse control & voice typing  
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-<details>
-<summary><b>⚙️ How to Run DAISY</b></summary>
-
-```bash
-# 1. Clone Repo
-git clone https://github.com/AnshGaur/DAISY.git
-cd DAISY
-
-# 2. Create Virtual Environment
-python -m venv venv
-
-# Activate Environment
-source venv/Scripts/activate   # Git Bash / Linux / macOS
-venv\Scripts\activate          # Windows CMD / PowerShell
-
-# 3. Install Dependencies
-pip install -r requirements.txt
-
-# 4. Launch App
-streamlit run app.py
+**Tech Stack:**
+```python
+Python | Streamlit | FastF1 API
+Plotly | Pandas | NumPy
 ```
 
-</details>
-
-<br>
-
-<details>
-<summary><b>🛠️ Tech Stack</b></summary>
-
-- `pandas`
-- `numpy`
-- `scikit-learn`
-- `plotly`
-- `seaborn`
-- `streamlit`
-
-</details>
-
 </td>
+<td width="50%">
 
-<td valign="top">
+### 🏢 NEXUS - Corporate Ecosystem
+<a href="#"><img src="https://img.shields.io/badge/In_Development-FFA116?style=for-the-badge&logo=codesandbox&logoColor=000"/></a>
 
-<details>
-<summary><b>⚙️ How to Run NOVA</b></summary>
+**Enterprise-grade workflow automation**
 
-```bash
-# 1. Clone Repo
-git clone https://github.com/AnshGaur/NOVA.git
-cd NOVA
+🎯 **Core Features:**
+- 📋 **Task Management** - AI-powered project planning
+- 👥 **Team Collaboration** - Real-time communication
+- 📊 **Analytics Dashboard** - Performance insights
+- 🤖 **Smart Automation** - Workflow optimization
 
-# 2. Create Virtual Environment
-python -m venv venv
-
-# Activate Environment
-source venv/Scripts/activate   # Git Bash / Linux / macOS
-venv\Scripts\activate          # Windows CMD / PowerShell
-
-# 3. Install Dependencies
-pip install -r requirements.txt
-
-# 4. Launch Assistant
-python app.py
+**Tech Stack:**
+```python
+Python | FastAPI | React | PostgreSQL
+Redis | Docker | Kubernetes
 ```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛠️ Tech Stack</b></summary>
-
-- `speech_recognition`
-- `pyttsx3`
-- `pyautogui`
-- `pyaudio`
-
-</details>
 
 </td>
 </tr>
-
 </table>
-
 
 ---
 
-## 🧠 Top Languages & Tools
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshgaurx/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx) 
+<!-- 💻 Tech Arsenal -->
+<div align="center">
 
----
-### 📈 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=030b17&color=00f2fe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe&hide_border=true" alt="GitHub Activity Graph">
----
-## 🥇 Certifications & Badges
+## 🛠️ Tech Arsenal
 
-<!-- IBM Data Science -->
-<h2 align="center">IBM Data Science</h2>
-<p align="center">13 Certificates</p>
-
-<table align="center">
-
-  <!-- Row 1 -->
-  <tr>
-    <td align="center"><img src="what is data science.png" width="200px"/><br/><sub><b>What is Data Science?</b></sub></td>
-    <td align="center"><img src="tool_data science.png" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
-    <td align="center"><img src="data science methodology.png" width="200px"/><br/><sub><b>Data Science Methodology</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="python projects.png" width="200px"/><br/><sub><b>  PYTHON PROJECTS FOR DATA SCIENCE</b></sub></td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td align="center"><img src="DATABASE.png" width="200px"/><br/><sub><b> Databases and SQL for Data Science with Python</b></sub></td>
-    <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python Data</b></sub></td>
-    <td align="center"><img src="VISUALIZATION.png" width="200px"/><br/><sub><b> Visualization </b></sub></td>
-    <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
-    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Elevate Your Data Science Career</b></sub></td>
-    <td align="center"><img src="data science carrier.png" width="200px"/><br/><sub><b>Career Guide</b></sub></td>
-    <td align="center"><img src="ibm data science.png" width="200px"/><br/><sub><b>IBM Data Science Certificate</b></sub></td>
-    <td></td><td></td><td></td>
-  </tr>
-</table>
-
-
-<!-- IBM Generative AI Engineering -->
-<h2 align="center">IBM Generative AI Engineering</h2>
-<p align="center">17 Certificates</p>
-
-<table align="center">
-
-  <!-- Row 1 -->
-  <tr>
-    <td align="center"><img src="introduction to ai.png" width="250px"/><br/><sub><b>Introduction to AI</b></sub></td>
-    <td align="center"><img src="inroduction and application.png" width="250px"/><br/><sub><b>Gen AI: Intro & Applications</b></sub></td>
-    <td align="center"><img src="gen ai prompt.png" width="250px"/><br/><sub><b>Prompt Engineering Basics</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="250px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="ai flasks.png" width="250px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td align="center"><img src="building gen ai.png" width="250px"/><br/><sub><b>Gen AI-Powered Apps</b></sub></td>
-    <td align="center"><img src="DATA ANALYSIS.png" width="250px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
-    <td align="center"><img src="ML FOR PYTHON.png" width="250px"/><br/><sub><b>Machine Learning</b></sub></td>
-    <td align="center"><img src="intro to neural network.png" width="250px"/><br/><sub><b>Deep Learning with Keras</b></sub></td>
-    <td align="center"><img src="gen ai and llm.png" width="250px"/><br/><sub><b>LLMs Architecture</b></sub></td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td align="center"><img src="fundamental of ai .png" width="250px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
-    <td align="center"><img src="gen ai lang with models.png" width="250px"/><br/><sub><b>Language Modeling w/ Transformers</b></sub></td>
-    <td align="center"><img src="gen ai advance.png" width="250px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
-    <td align="center"><img src="gen ai and fine tunig.png" width="250px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
-    <td align="center"><img src="fundamental of ai .png" width="250px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td align="center"><img src="project.png" width="250px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
-    <td align="center"><img src="final .png" width="250px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
-    <td></td><td></td><td></td>
-  </tr>
-</table>
-
-
-<!-- Extras -->
-<h2 align="center">Extras</h2>
-<p align="center">10 Certificates</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="maths for ml.png" width="250px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
-    <td align="center"><img src="maths for cs.png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
-    <td align="center"><img src="manipulation with sql.png" width="250px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
-    <td align="center"><img src="linear regression with python .png" width="250px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
-    <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="google coud.png" width="250px"/><br/><sub><b>Gen AI Transform Your Organization</b></sub></td>
-    <td align="center"><img src="DATABASE.png" width="250px"/><br/><sub><b>DATABRICKS For Machine Learning</b></sub></td>
-    <td align="center"><img src="canvas.png" width="250px"/><br/><sub><b>How to create presentation</b></sub></td>
-    <td align="center"><img src="databricks.png" width="250px"/><br/><sub><b>Databricks machine learning</b></sub></td>
-    <td align="center"><img src="snowflakes for datascience.png" width="250px"/><br/><sub><b>snowflakes for datascience.png</b></sub></td>
-</table>
-
-
-<!-- Gen AI for Data Engineering -->
-<h2 align="center">Gen AI for Data Engineering</h2>
-<p align="center">4 Certificates</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="inroduction and application.png" width="250px"/><br/><sub><b>Gen AI Introduction & Application</b></sub></td>
-    <td align="center"><img src="gen ai prompt.png" width="250px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
-    <td align="center"><img src="gen ai elevate carrier.png" width="250px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
-    <td align="center"><img src="gen ai.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
-  </tr>
-</table>
-
-<!-- HACKATHONS hackathon -->
-<h2 align="center"> HACKATHONS </h2>
-<p align="center">5 Certificates</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="iisc banglore.png" width="250px"/><br/><sub><b>IISC BANGLORE</b></sub></td>
-    <td align="center"><img src="nit durgapur.png" width="250px"/><br/><sub><b>NIT DURGAPUR</b></sub></td>
-    <td align="center"><img src="41MI1XODHW.png" width="250px"/><br/><sub><b>OPEN AI</b></sub></td>
-    <td align="center"><img src="" width="200px"/><br/><sub><b>BITS PILANI</b></sub></td>
-    <td align="center"><img src="cool.jpeg" width="200px"/><br/><sub><b>GGSIPU</b></sub></td>
-  </tr>
-</table>
-
-
-<!-- 🛠️ Tech Stack -->
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+### Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+### Data Science & ML
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
-<!-- 🎏 Animated Banner -->
-![Banner](https://github.com/anshgaurx/anshgaurx/blob/main/assets/banner.gif)
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,linux,bash" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
 
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-### 🏆 Coding Platforms
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshgaurx/)
+</div>
+
+---
+
+<!-- 🏆 Certifications Showcase -->
+<div align="center">
+
+## 🎓 Certifications & Achievements
+
+### 📊 IBM Data Science Professional (13 Certificates)
+<details>
+<summary><b>View All Certificates</b></summary>
+<br>
+
+| Certificate | Skills Gained |
+|-------------|---------------|
+| 🎯 What is Data Science? | Data Science Fundamentals |
+| 🛠️ Tools for Data Science | Jupyter, RStudio, GitHub |
+| 📐 Data Science Methodology | CRISP-DM, Analytics |
+| 🐍 Python for Data Science | Python Programming |
+| 💾 Databases and SQL | SQL, Database Management |
+| 📊 Data Analysis with Python | Pandas, NumPy, Analysis |
+| 📈 Data Visualization | Matplotlib, Seaborn, Plotly |
+| 🤖 Machine Learning with Python | Supervised & Unsupervised ML |
+| 🚀 Applied Data Science Capstone | End-to-End Projects |
+
+</details>
+
+### 🤖 IBM Generative AI Engineering (17 Certificates)
+<details>
+<summary><b>View All Certificates</b></summary>
+<br>
+
+| Certificate | Skills Gained |
+|-------------|---------------|
+| 🧠 Introduction to AI | AI Fundamentals |
+| ✨ Gen AI: Intro & Applications | LLM Applications |
+| 📝 Prompt Engineering Basics | Prompt Design |
+| 🏗️ Building Gen AI Apps | Flask, APIs |
+| 🔧 Deep Learning with Keras | Neural Networks |
+| 🗣️ NLP Foundational Models | Transformers, BERT |
+| 🎯 Fine-Tuning Transformers | Model Optimization |
+| 🤖 AI Agents with RAG | Retrieval Augmented Generation |
+| 🚀 Project: RAG & LangChain | Production AI Systems |
+
+</details>
+
+### 🏅 Additional Certifications
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud-Gen_AI-4285F4?style=for-the-badge&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/Databricks-ML_Fundamentals-FF3621?style=for-the-badge&logo=databricks"/>
+<img src="https://img.shields.io/badge/Snowflake-Data_Science-29B5E8?style=for-the-badge&logo=snowflake"/>
+<img src="https://img.shields.io/badge/Mathematics-ML_&_CS-00F5FF?style=for-the-badge&logo=mathworks"/>
+</p>
+
+### 🏆 Hackathon Victories
+<p>
+<img src="https://img.shields.io/badge/IISc_Bangalore-Participant-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NIT_Durgapur-Winner-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-Hackathon-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BITS_Pilani-Finalist-95E1D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GGSIPU-Winner-F38181?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+<!-- 🎮 Competitive Programming -->
+<div align="center">
+
+## 🎯 Competitive Programming
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🟠 LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🟢 Coding Platforms
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anshgaurx/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshgaurx)
 
-## 🏆 Progress Showcase
-LEETCODE
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+<br><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
+**Problem Solving:**
+- ✅ 500+ Problems Solved
+- 🏆 Contest Rating: 1600+
+- 🥇 Top 15% Global Rank
 
+</td>
+</tr>
+</table>
 
+</div>
 
-🧩 Coding Profiles
 ---
 
+<!-- 📊 GitHub Activity -->
+<div align="center">
 
-<p align="center">
-  <img src="leetcode.png" alt="LeetCode Frequency Grid" width="320" style="vertical-align: middle;"/>
-  <img src="hackernak.png" alt="" width="320" style="vertical-align: middle;"/>
-</p>
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://leetcode.com/anshgaurx/">🔗 LeetCode Profile</a> |
-  <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Ansh's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
-📅 Updated: Mar 22, 2026  
----
-### 🐍 My GitHub Journey
-Watch the snake eat my contributions!
-
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
 ---
-### 🏙️  3D Contribution Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
+
+<!-- 🌟 What I'm Up To -->
+<div align="center">
+
+## 🚀 Current Focus
+
+```mermaid
+graph LR
+    A[Learning] --> B[Building]
+    B --> C[Deploying]
+    C --> D[Scaling]
+    D --> E[Innovating]
+    E --> A
+    
+    style A fill:#00F5FF,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#FF00FF,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#00FF41,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#FFA116,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#00F5FF,stroke:#fff,stroke-width:2px,color:#000
+```
+
+### 🎯 2026 Goals
+- 🤖 Build 5 production-grade AI applications
+- 📚 Contribute to 10+ open source projects
+- 🏆 Achieve 2000+ rating on LeetCode
+- 🎓 Complete Advanced MLOps certification
+- 🌐 Launch personal tech blog
+
+</div>
+
+---
+
+<!-- 💬 Let's Connect -->
+<div align="center">
+
+## 💬 Let's Connect & Collaborate!
+
+<p>
+I'm always excited to collaborate on innovative projects, especially in:
+<br><br>
+🤖 <b>AI/ML Applications</b> | 🏥 <b>Healthcare Tech</b> | 🎙️ <b>Voice Automation</b> | 📊 <b>Data Analytics</b>
 </p>
 
+### 📫 Reach Out
+<p>
+<a href="mailto:anshgaurx@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a2e" />
+</a>
+<a href="https://www.linkedin.com/in/anshgaurx">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e" />
+</a>
+<a href="https://wa.me/919149162265">
+  <img src="https://img.shields.io/badge/WhatsApp_Chat-00FF41?style=for-the-badge&logo=whatsapp&logoColor=000&labelColor=1a1a2e" />
+</a>
+</p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"></picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
 
-<img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/github-metrics.svg" alt="GitHub Metrics">
+</div>
+
+<!-- 🌊 Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,28&height=150&section=footer" width="100%"/>
+
+---
+
+<div align="center">
+
+**⭐️ From [anshxgaur](https://github.com/anshxgaur) | Last Updated: April 2026**
+
+<img src="https://komarev.com/ghpvc/?username=anshxgaur&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile Views"/>
+
+</div>
