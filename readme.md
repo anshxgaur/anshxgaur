@@ -346,7 +346,7 @@ Redis | Docker | Kubernetes
       <td align="center"><img src="iisc banglore.png" width="200px"/><br/><sub><b>IISC BANGALORE</b></sub></td>
       <td align="center"><img src="nit durgapur.png" width="200px"/><br/><sub><b>NIT DURGAPUR</b></sub></td>
       <td align="center"><img src="41MI1XODHW.png" width="200px"/><br/><sub><b>OPEN AI</b></sub></td>
-      <td align="center"><img src="" width="200px"/><br/><sub><b>BITS PILANI</b></sub></td>
+      <td align="center"><img src=datasprint.png"" width="200px"/><br/><sub><b>DATA SPRINT</b></sub></td>
       <td align="center"><img src="cool.jpeg" width="200px"/><br/><sub><b>GGSIPU</b></sub></td>
     </tr>
   </table>
