@@ -205,18 +205,6 @@ python app.py
   <sub><i>Empowering users through Data & Voice</i></sub>
 </p>
  
-# 🚀 AI & Automation Portfolio
-<p align="center">
-  <b>Ansh Gaur</b><br>
-  <i>Showcasing specialized work in Healthcare Intelligence & Voice Automation</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Focus-Data_Science_&_Automation-teal?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge"/>
-</p>
-
 ---
 
 <table width="100%">
