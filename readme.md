@@ -342,14 +342,6 @@ python app.py
 
 </table>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speedometer.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" width="40"/>
-  <br>
-  <sub><i>Empowering users through Data & Voice</i></sub>
-</p>
 
 ---
 
