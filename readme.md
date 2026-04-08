@@ -36,9 +36,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anshxgaur&theme=tokyonight&hide_border=false&border=00FBFF&background=0D1117&ring=00FBFF&fire=FF6E96&currStreakLabel=00FBFF)](https://git.io/streak-stats)
 
 ---
-### 🔥 top language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=donut&theme=tokyonight&text_color=00FBFF&title_color=00FBFF&hide_border=false&border_color=00FBFF&bg_color=0D1117)](https://github.com/anshxgaur)
-
 ### 🔥 PROJECTS:
 # 🚀 AI & Automation Portfolio
 
