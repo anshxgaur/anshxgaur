@@ -352,8 +352,11 @@ Redis | Docker | Kubernetes
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
+### 🏙️  3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
+</p>
 
 ---
 
