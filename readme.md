@@ -240,66 +240,120 @@ Redis | Docker | Kubernetes
 
 <!-- 🏆 Certifications Showcase -->
 <div align="center">
+  <h2>🎓 Certifications & Badges</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=400&lines=Continuous+Learning+%F0%9F%93%9A;Always+Upskilling+%E2%9A%A1" alt="Learning Animation" />
 
-## 🎓 Certifications & Achievements
+  <br><br>
 
-### 📊 IBM Data Science Professional (13 Certificates)
-<details>
-<summary><b>View All Certificates</b></summary>
-<br>
+  <h3>📊 IBM Data Science</h3>
+  <p>13 Certificates</p>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="what is data science.png" width="200px"/><br/><sub><b>What is Data Science?</b></sub></td>
+      <td align="center"><img src="tool_data science.png" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
+      <td align="center"><img src="data science methodology.png" width="200px"/><br/><sub><b>Data Science Methodology</b></sub></td>
+      <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
+      <td align="center"><img src="python projects.png" width="200px"/><br/><sub><b>PYTHON PROJECTS</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="DATABASE.png" width="200px"/><br/><sub><b>Databases and SQL</b></sub></td>
+      <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
+      <td align="center"><img src="VISUALIZATION.png" width="200px"/><br/><sub><b>Visualization</b></sub></td>
+      <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
+      <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Applied Data Science Capstone</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Elevate Your Career</b></sub></td>
+      <td align="center"><img src="data science carrier.png" width="200px"/><br/><sub><b>Career Guide</b></sub></td>
+      <td align="center"><img src="ibm data science.png" width="200px"/><br/><sub><b>IBM Data Science Certificate</b></sub></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 
-| Certificate | Skills Gained |
-|-------------|---------------|
-| 🎯 What is Data Science? | Data Science Fundamentals |
-| 🛠️ Tools for Data Science | Jupyter, RStudio, GitHub |
-| 📐 Data Science Methodology | CRISP-DM, Analytics |
-| 🐍 Python for Data Science | Python Programming |
-| 💾 Databases and SQL | SQL, Database Management |
-| 📊 Data Analysis with Python | Pandas, NumPy, Analysis |
-| 📈 Data Visualization | Matplotlib, Seaborn, Plotly |
-| 🤖 Machine Learning with Python | Supervised & Unsupervised ML |
-| 🚀 Applied Data Science Capstone | End-to-End Projects |
+  <br>
 
-</details>
+  <h3>🤖 IBM Generative AI Engineering</h3>
+  <p>17 Certificates</p>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="introduction to ai.png" width="200px"/><br/><sub><b>Introduction to AI</b></sub></td>
+      <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI: Intro & Applications</b></sub></td>
+      <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Prompt Engineering Basics</b></sub></td>
+      <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
+      <td align="center"><img src="ai flasks.png" width="200px"/><br/><sub><b>AI Apps with Flask</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="building gen ai.png" width="200px"/><br/><sub><b>Gen AI-Powered Apps</b></sub></td>
+      <td align="center"><img src="DATA ANALYSIS.png" width="200px"/><br/><sub><b>Data Analysis with Python</b></sub></td>
+      <td align="center"><img src="ML FOR PYTHON.png" width="200px"/><br/><sub><b>Machine Learning</b></sub></td>
+      <td align="center"><img src="intro to neural network.png" width="200px"/><br/><sub><b>Deep Learning with Keras</b></sub></td>
+      <td align="center"><img src="gen ai and llm.png" width="200px"/><br/><sub><b>LLMs Architecture</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="fundamental of ai .png" width="200px"/><br/><sub><b>NLP Foundational Models</b></sub></td>
+      <td align="center"><img src="gen ai lang with models.png" width="200px"/><br/><sub><b>Language Modeling</b></sub></td>
+      <td align="center"><img src="gen ai advance.png" width="200px"/><br/><sub><b>Fine-Tuning Transformers</b></sub></td>
+      <td align="center"><img src="gen ai and fine tunig.png" width="200px"/><br/><sub><b>Advanced Fine-Tuning</b></sub></td>
+      <td align="center"><img src="fundamental of ai .png" width="200px"/><br/><sub><b>AI Agents w/ RAG</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="project.png" width="200px"/><br/><sub><b>Project: RAG & LangChain</b></sub></td>
+      <td align="center"><img src="final .png" width="200px"/><br/><sub><b>IBM Gen AI Certificate</b></sub></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 
-### 🤖 IBM Generative AI Engineering (17 Certificates)
-<details>
-<summary><b>View All Certificates</b></summary>
-<br>
+  <br>
 
-| Certificate | Skills Gained |
-|-------------|---------------|
-| 🧠 Introduction to AI | AI Fundamentals |
-| ✨ Gen AI: Intro & Applications | LLM Applications |
-| 📝 Prompt Engineering Basics | Prompt Design |
-| 🏗️ Building Gen AI Apps | Flask, APIs |
-| 🔧 Deep Learning with Keras | Neural Networks |
-| 🗣️ NLP Foundational Models | Transformers, BERT |
-| 🎯 Fine-Tuning Transformers | Model Optimization |
-| 🤖 AI Agents with RAG | Retrieval Augmented Generation |
-| 🚀 Project: RAG & LangChain | Production AI Systems |
+  <h3>⚙️ Gen AI for Data Engineering</h3>
+  <p>4 Certificates</p>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="inroduction and application.png" width="200px"/><br/><sub><b>Gen AI Intro & Application</b></sub></td>
+      <td align="center"><img src="gen ai prompt.png" width="200px"/><br/><sub><b>Gen AI Prompt Engineering</b></sub></td>
+      <td align="center"><img src="gen ai elevate carrier.png" width="200px"/><br/><sub><b>Gen AI Elevate Your Career</b></sub></td>
+      <td align="center"><img src="gen ai.png" width="200px"/><br/><sub><b>Final Gen AI Certificate</b></sub></td>
+    </tr>
+  </table>
 
-</details>
+  <br>
 
-### 🏅 Additional Certifications
-<p>
-<img src="https://img.shields.io/badge/Google_Cloud-Gen_AI-4285F4?style=for-the-badge&logo=google-cloud"/>
-<img src="https://img.shields.io/badge/Databricks-ML_Fundamentals-FF3621?style=for-the-badge&logo=databricks"/>
-<img src="https://img.shields.io/badge/Snowflake-Data_Science-29B5E8?style=for-the-badge&logo=snowflake"/>
-<img src="https://img.shields.io/badge/Mathematics-ML_&_CS-00F5FF?style=for-the-badge&logo=mathworks"/>
-</p>
+  <h3>🏅 Additional Certifications</h3>
+  <p>10 Certificates</p>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="maths for ml.png" width="200px"/><br/><sub><b>Maths for Machine Learning</b></sub></td>
+      <td align="center"><img src="maths for cs.png" width="200px"/><br/><sub><b>Maths for Computer Science</b></sub></td>
+      <td align="center"><img src="manipulation with sql.png" width="200px"/><br/><sub><b>Databricks ML Fundamentals</b></sub></td>
+      <td align="center"><img src="linear regression with python .png" width="200px"/><br/><sub><b>Linear Regression w/ Python</b></sub></td>
+      <td align="center"><img src="google coud.png" width="200px"/><br/><sub><b>Gen AI Transform Organization</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="google coud.png" width="200px"/><br/><sub><b>Gen AI Transform Organization</b></sub></td>
+      <td align="center"><img src="DATABASE.png" width="200px"/><br/><sub><b>DATABRICKS For ML</b></sub></td>
+      <td align="center"><img src="canvas.png" width="200px"/><br/><sub><b>How to create presentation</b></sub></td>
+      <td align="center"><img src="databricks.png" width="200px"/><br/><sub><b>Databricks Machine Learning</b></sub></td>
+      <td align="center"><img src="snowflakes for datascience.png" width="200px"/><br/><sub><b>Snowflake for Data Science</b></sub></td>
+    </tr>
+  </table>
 
-### 🏆 Hackathon Victories
-<p>
-<img src="https://img.shields.io/badge/IISc_Bangalore-Participant-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NIT_Durgapur-Winner-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-Hackathon-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BITS_Pilani-Finalist-95E1D3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GGSIPU-Winner-F38181?style=for-the-badge"/>
-</p>
+  <br>
 
+  <h3>🏆 Hackathons</h3>
+  <p>5 Certificates</p>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="iisc banglore.png" width="200px"/><br/><sub><b>IISC BANGALORE</b></sub></td>
+      <td align="center"><img src="nit durgapur.png" width="200px"/><br/><sub><b>NIT DURGAPUR</b></sub></td>
+      <td align="center"><img src="41MI1XODHW.png" width="200px"/><br/><sub><b>OPEN AI</b></sub></td>
+      <td align="center"><img src="" width="200px"/><br/><sub><b>BITS PILANI</b></sub></td>
+      <td align="center"><img src="cool.jpeg" width="200px"/><br/><sub><b>GGSIPU</b></sub></td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 <!-- 🎮 Competitive Programming -->
