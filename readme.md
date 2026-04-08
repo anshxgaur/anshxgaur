@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Gaur&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7dcfff" width="100%" />
 </p>
----
-
-
 
 <!-- 👋 Introduction -->
 <h1 align="center">
@@ -348,11 +345,12 @@ python app.py
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speedometer.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" width="40"/>
   <br>
   <sub><i>Empowering users through Data & Voice</i></sub>
 </p>
+
 
 
 
