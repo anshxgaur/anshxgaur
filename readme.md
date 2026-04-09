@@ -398,14 +398,12 @@ npm run dev
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anshgaurx/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshgaurx)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshgaurx)
-
 <br><br>
 
 **Problem Solving:**
-- ✅ 500+ Problems Solved
-- 🏆 Contest Rating: 1600+
-- 🥇 Top 15% Global Rank
+- ✅ 200+ Problems Solved
+- 🏆 -
+- 🥇 Top 25% Global Rank
 
 </td>
 </tr>
