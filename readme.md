@@ -228,7 +228,7 @@ npm run dev
 ### Languages & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
