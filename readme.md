@@ -168,7 +168,18 @@ python app.py
 Python | Streamlit | FastF1 API
 Plotly | Pandas | NumPy
 ```
+<details>
+<summary><b>🚀 Quick Start</b></summary>
 
+```bash
+git clone https://github.com/AnshGaur/NOVA.git
+cd NOVA
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+python app.py
+```
+</details>
 </td>
 <td width="50%">
 
