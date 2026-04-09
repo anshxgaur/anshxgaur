@@ -172,12 +172,13 @@ Plotly | Pandas | NumPy
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/NOVA.git
-cd NOVA
+git clone https://github.com/AnshGaur/F1.git
+cd F1
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python app.py
+npm run dev
 ```
 </details>
 </td>
@@ -203,12 +204,13 @@ Redis | Docker | Kubernetes
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/NOVA.git
-cd NOVA
+git clone https://github.com/AnshGaur/nexus.git
+cd nexus
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python app.py
+npm run dev
 ```
 </details>
 
