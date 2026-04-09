@@ -104,7 +104,7 @@ NumPy | Plotly | Seaborn
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/DAISY.git
+git clone https://github.com/anshxgaur/DAISY.git
 cd DAISY
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -137,7 +137,7 @@ PyAutoGUI | PyAudio
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/NOVA.git
+git clone https://github.com/anshxgaur/NOVA.git
 cd NOVA
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -172,7 +172,7 @@ Plotly | Pandas | NumPy
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/F1.git
+git clone https://github.com/anshxgaur/F1.git
 cd F1
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -204,7 +204,7 @@ Redis | Docker | Kubernetes
 <summary><b>🚀 Quick Start</b></summary>
 
 ```bash
-git clone https://github.com/AnshGaur/nexus.git
+git clone https://github.com/anshxgaur/nexus.git
 cd nexus
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
