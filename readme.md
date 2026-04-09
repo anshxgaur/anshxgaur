@@ -199,6 +199,18 @@ python app.py
 Python | FastAPI | React | PostgreSQL
 Redis | Docker | Kubernetes
 ```
+<details>
+<summary><b>🚀 Quick Start</b></summary>
+
+```bash
+git clone https://github.com/AnshGaur/NOVA.git
+cd NOVA
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+python app.py
+```
+</details>
 
 </td>
 </tr>
