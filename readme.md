@@ -46,8 +46,8 @@
 ```typescript
 const anshGaur = {
     location: "Meerut, India 🇮🇳",
-    role: "AI Engineer & Full Stack Developer",
-    expertise: ["Machine Learning", "Data Science", "Automation", "Web Development"],
+    role: "AI Engineer",
+    expertise: ["Machine Learning", "Data Science", "Automation"],
     currentFocus: "Building AI-powered healthcare solutions",
     learning: ["Advanced Deep Learning", "MLOps", "Cloud Architecture"],
     funFact: "ITS ALWAYS YOU VS YOU"
