@@ -415,6 +415,10 @@ npm run dev
 
 <!-- 📊 GitHub Activity -->
 <div align="center">
+## 📊 GitHub Metrics
+
+![GitHub Metrics](./github-metrics.svg)
+
 
 ## 📈 Contribution Graph
 
