@@ -411,13 +411,6 @@ npm run dev
 
 ---
 
-<!-- 📊 GitHub Activity -->
-<div align="center">
-## 📊 GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Ansh's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
@@ -433,7 +426,11 @@ npm run dev
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph"/>
 </p>
+<!-- 📊 GitHub Activity -->
+<div align="center">
+📊 GitHub Metrics
 
+![GitHub Metrics](./github-metrics.svg)
 ---
 
 <!-- 🌟 What I'm Up To -->
