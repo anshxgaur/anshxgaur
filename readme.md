@@ -265,8 +265,6 @@ npm run dev
   <h2>🎓 Certifications & Badges</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=400&lines=Continuous+Learning+%F0%9F%93%9A;Always+Upskilling+%E2%9A%A1" alt="Learning Animation" />
 
-  <br><br>
-
   <h3>📊 IBM Data Science</h3>
   <p>13 Certificates</p>
   <table align="center">
