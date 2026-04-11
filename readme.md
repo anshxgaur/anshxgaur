@@ -50,7 +50,7 @@ const anshGaur = {
     expertise: ["Machine Learning", "Data Science", "Automation"],
     currentFocus: "Building AI-powered healthcare solutions",
     learning: ["Advanced Deep Learning", "MLOps", "Cloud Architecture"],
-    funFact: "ITS ALWAYS YOU V/S YOU"
+    funFact: "ITS ALWAYS YOU VS YOU"
 };
 ```
 
