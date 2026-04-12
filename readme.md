@@ -83,7 +83,7 @@ const anshGaur = {
 <tr>
 <td width="50%">
 
-### 🌼 DAISY - Healthcare Intelligence System
+### 🌼 DAISY - Healthcare Intelligence System(progres...)
 <a href="https://github.com/AnshGaur/DAISY"><img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 **An AI-powered healthcare analytics platform**
