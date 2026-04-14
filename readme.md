@@ -371,6 +371,7 @@ npm run dev
       <td align="center"><img src="41MI1XODHW.png" width="200px"/><br/><sub><b>OPEN AI</b></sub></td>
       <td align="center"><img src="datasprint.png" width="200px"/><br/><sub><b>DATA SPRINT</b></sub></td>
       <td align="center"><img src="cool.jpeg" width="200px"/><br/><sub><b>GGSIPU</b></sub></td>
+      <td align="center"><img src="igdtu.png" width="200px"/><br/><sub><b>IGDTUW</b></sub></td>
     </tr>
   </table>
 </div>
