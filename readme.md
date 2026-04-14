@@ -363,7 +363,7 @@ npm run dev
   <br>
 
   <h3>🏆 Hackathons</h3>
-  <p>5 Certificates</p>
+  <p>6 Certificates</p>
   <table align="center">
     <tr>
       <td align="center"><img src="iisc banglore.png" width="200px"/><br/><sub><b>IISC BANGALORE</b></sub></td>
