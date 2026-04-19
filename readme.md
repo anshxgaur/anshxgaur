@@ -479,7 +479,7 @@ I'm always excited to collaborate on innovative projects, especially in:
 <a href="mailto:anshgaurx@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a2e" />
 </a>
-<a href="https://www.linkedin.com/in/anshgaurx">
+<a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e" />
 </a>
 <a href="https://wa.me/919149162265">
