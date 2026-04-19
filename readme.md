@@ -84,7 +84,7 @@ const anshGaur = {
 <td width="50%">
 
 ### 🌼 DAISY - Healthcare Intelligence System(progres...)
-<a href="https://github.com/AnshGaur/DAISY"><img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-00FF41?style=for-the-badge&logo=formkit&logoColor=000"/></a>
 
 **An AI-powered healthcare analytics platform**
 
@@ -153,7 +153,7 @@ python app.py
 <td width="50%">
 
 ### 🏎️ F1 Performance Analysis Dashboard
-<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-00FF41?style=for-the-badge&logo=formkit&logoColor=000"/></a>
+<a href="https://github.com/AnshGaur/F1"><img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 **Real-time F1 telemetry analysis system**
 
