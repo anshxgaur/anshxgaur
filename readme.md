@@ -185,7 +185,7 @@ npm run dev
 <td width="50%">
 
 ### 🏢 NEXUS - Corporate Ecosystem
-<a href="#"><img src="https://img.shields.io/badge/In_Development-FFA116?style=for-the-badge&logo=codesandbox&logoColor=000"/></a>
+<a href="https://github.com/AnshGaur/NEXUS"><img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 **Enterprise-grade workflow automation**
 
