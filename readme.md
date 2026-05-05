@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Your%20Project%20Name&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ANSH%20GAUR%20&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Typing SVG -->
 <p align="center">
