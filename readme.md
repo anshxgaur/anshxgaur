@@ -1,10 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Ansh%20Gaur&fontAlign=50&fontAlignY=40&color=0:0D1117,100:00F5FF&fontColor=FFFFFF&fontSize=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlign=50&descAlignY=65" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Ansh%20Gaur&fontAlign=50&fontAlignY=40&color=0:0D1117,100:00F5FF&fontColor=FFFFFF&fontSize=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ansh%20Gaur&fontAlign=50&fontAlignY=40&color=0:0D1117,100:00F5FF&fontColor=FFFFFF&fontSize=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlign=50&descAlignY=65" />
 </p>
 
 
