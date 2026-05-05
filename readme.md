@@ -3,6 +3,12 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ANSH%20GAUR%20&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Ansh%20Gaur&fontAlign=50&fontAlignY=40&color=0:0D1117,100:00F5FF&fontColor=FFFFFF&fontSize=45&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlign=50&descAlignY=65" />
+</p>
+
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+the+Future+of+Development;Build+Fast+%7C+Scale+Easy+%7C+Deploy+Anywhere;Open+Source+%E2%9D%A4%EF%B8%8F+Community+Driven" alt="Typing SVG" />
