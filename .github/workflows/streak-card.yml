@@ -1,0 +1,39 @@
+name: Streak Card Snapshot
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/streak-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    name: Cache streak card
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download streak card SVG
+        run: |
+          curl --fail --location --retry 3 --retry-delay 5 \
+            -A "Mozilla/5.0 (compatible; GitHubActions; +https://github.com/anshxgaur)" \
+            "https://streak-stats.demolab.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=8B949E" \
+            -o streak-card.svg
+
+      - name: Commit and push streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak-card.svg
+          git diff --cached --quiet && echo "No streak card changes to commit" && exit 0
+          git commit -m "Update streak card"
+          git push
