@@ -20,7 +20,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: anshxgaur
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{  secrets.GITHUB_TOKEN }}
           filename: metrics.svg
           config_timezone: Asia/Kolkata
           committer_message: "Update metrics"
