@@ -1,0 +1,74 @@
+name: Profile Metrics Suite
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    name: Generate recruiter-ready metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: anshxgaur
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          committer_message: "Update profile metrics"
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_twemoji: yes
+          config_animations: yes
+          optimize: yes
+          retries: 3
+          plugins_errors_fatal: no
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 90
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used, recently-used
+
+          plugin_repositories: yes
+          plugin_repositories_featured: anshxgaur/nexus, anshxgaur/DAISY, anshxgaur/NOVA, anshxgaur/F1
+          plugin_repositories_order: featured, pinned, starred, random
+
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+          plugin_stars: yes
+          plugin_stars_limit: 3
