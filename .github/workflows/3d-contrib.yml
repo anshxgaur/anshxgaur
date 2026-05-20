@@ -2,14 +2,19 @@ name: 3D Contributions Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Checkout repository
+      - name: Checkout profile repository
         uses: actions/checkout@v4
 
       - name: Generate 3D Contributions Graph
@@ -17,14 +22,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: anshxgaur
-          OUTPUT_PATH: ./profile-3d-contrib
-          COMMIT_MESSAGE: "🧊 Update 3D contribution graph"
-          THEME: green # try: green | red | dark | blue | transparent
 
-      - name: Commit and Push Changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/*
-          git commit -m "🧊 Update 3D contribution graph" || echo "No changes to commit"
+          git add -A profile-3d-contrib
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update 3D contribution graph"
           git push
