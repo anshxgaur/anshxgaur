@@ -152,12 +152,6 @@ These sections update through GitHub Actions.
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
 ### Advanced Metrics
 
 <p align="center">
@@ -199,4 +193,30 @@ flowchart LR
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0D1117" alt="Footer wave" />
+</p>
+
+## Live GitHub Dashboard
+
+<!--QUOTE-START-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Think+in+systems,+act+in+data." alt="Daily AI insight" />
+</p>
+<!--QUOTE-END-->
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub profile metrics" width="96%" />
+</p>
+
+<p align="center">
+  <img src="./streak-card.svg" alt="GitHub streak card" width="58%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="96%" />
 </p>
