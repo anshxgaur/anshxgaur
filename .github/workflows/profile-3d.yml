@@ -1,0 +1,39 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate 3D contribution graph
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: anshxgaur
+          MAX_REPOS: 100
+
+      - name: Commit and push generated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          git diff --cached --quiet && echo "No 3D graph changes to commit" && exit 0
+          git commit -m "Update 3D contribution graph"
+          git push
