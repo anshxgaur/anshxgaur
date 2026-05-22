@@ -232,15 +232,17 @@ flowchart LR
       <b>NIT Durgapur</b>
     </td>
     <td width="25%" align="center">
+      <a href="./assets/certificates/nit%20durgapur.pn">
+        <img src="./assets/certificates/datasprint.png" width="180" />
+      </a>
+      <br />
+      <b>NIT Durgapur</b>
+    </td>
+    <td width="25%" align="center">
       <img src="https://img.shields.io/badge/More-Coming%20Soon-111827?style=for-the-badge&logo=github" />
       <br />
       <b>Growing Portfolio</b>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Open-To-Internships-00D9FF?style=for-the-badge" />
-      <br />
-      <b>AI / ML Internships</b>
-    </td>
+
   </tr>
 </table>
 
