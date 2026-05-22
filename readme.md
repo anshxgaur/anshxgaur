@@ -44,23 +44,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/anshxgaur/nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=nexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="Nexus repository card" />
-  </a>
-  <a href="https://github.com/anshxgaur/DAISY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=DAISY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="DAISY repository card" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/anshxgaur/NOVA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=NOVA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="NOVA repository card" />
-  </a>
-  <a href="https://github.com/anshxgaur/F1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=F1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="F1 repository card" />
-  </a>
-</p>
 
 ### Project Breakdown
 
