@@ -115,8 +115,6 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ## Generated Profile Assets
 
-These sections update through GitHub Actions.
-
 ### Contribution Snake
 
 <picture>
@@ -124,13 +122,6 @@ These sections update through GitHub Actions.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
 </picture>
-
-### Advanced Metrics
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub profile metrics" />
-</p>
-
 ---
 
 ## Certifications and Achievements
@@ -185,9 +176,12 @@ flowchart LR
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-neon.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub profile metrics" />
+</p>
+
 </picture>
 
 <p align="center">
