@@ -159,14 +159,6 @@ flowchart LR
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0D1117" alt="Footer wave" />
 </p>
 
-## Live GitHub Dashboard
-
-<!--QUOTE-START-->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Retrieval+turns+language+models+into+useful+systems." alt="Daily AI insight" />
-</p>
-
-
 </picture>
 
 <p align="center">
