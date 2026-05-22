@@ -181,84 +181,69 @@ flowchart LR
 ## Certifications and Hackathon Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-00D9FF?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-7C3AED?style=for-the-badge" alt="Hackathons badge" />
-  <img src="https://img.shields.io/badge/Portfolio-Verified%20Learning-22C55E?style=for-the-badge" alt="Verified learning badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-7C3AED?style=for-the-badge" />
 </p>
-
-<p align="center">
-  A snapshot of the certifications, hackathons, and technical events that shaped my learning in AI, machine learning, data science, and problem solving.
-</p>
-
-### Certification Wall
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/cool.jpeg">
-        <img src="./assets/certificates/cool.jpeg" alt="Data science and AI certificate" width="100%" />
+        <img src="./assets/certificates/cool.jpeg" width="180" />
       </a>
       <br />
-      <b>Data Science / AI Certification</b>
-      <br />
-      <sub>Structured learning in AI, analytics, and model-building fundamentals.</sub>
+      <b>AI / Data Science</b>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/41MI1XODHW.png">
-        <img src="./assets/certificates/41MI1XODHW.png" alt="Machine learning certificate" width="100%" />
+        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
       </a>
       <br />
-      <b>Machine Learning / Generative AI Certificate</b>
-      <br />
-      <sub>Focused on practical AI concepts, model workflows, and modern GenAI foundations.</sub>
+      <b>ML / GenAI</b>
     </td>
-  </tr>
-</table>
-
-### Hackathons and Technical Events
-
-<table>
-  <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/hack.jpeg">
-        <img src="./assets/certificates/hack.jpeg" alt="Hackathon achievement certificate" width="100%" />
+        <img src="./assets/certificates/hack.jpeg" width="180" />
       </a>
       <br />
-      <b>Hackathon Achievement</b>
-      <br />
-      <sub>Built under pressure, collaborated with a team, and converted ideas into a working technical solution.</sub>
+      <b>Hackathon</b>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/igdtu.png">
-        <img src="./assets/certificates/igdtu.png" alt="IGDTU technical event certificate" width="100%" />
+        <img src="./assets/certificates/igdtu.png" width="180" />
       </a>
       <br />
-      <b>IGDTU Technical Event</b>
-      <br />
-      <sub>Participated in a competitive technical environment focused on innovation and applied problem solving.</sub>
+      <b>IGDTU Event</b>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/iisc%20banglore.png">
-        <img src="./assets/certificates/iisc%20banglore.png" alt="IISc Bangalore technical event certificate" width="100%" />
+        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
       </a>
       <br />
-      <b>IISc Bangalore Event</b>
-      <br />
-      <sub>Exposure to high-quality technical problem statements and research-oriented innovation culture.</sub>
+      <b>IISc Bangalore</b>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="./assets/certificates/nit%20durgapur.png">
-        <img src="./assets/certificates/nit%20durgapur.png" alt="NIT Durgapur technical event certificate" width="100%" />
+        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
       </a>
       <br />
-      <b>NIT Durgapur Codefest</b>
+      <b>NIT Durgapur</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/More-Coming%20Soon-111827?style=for-the-badge&logo=github" />
       <br />
-      <sub>Competitive coding and development experience through a national-level technical event.</sub>
+      <b>Growing Portfolio</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Open-To-Internships-00D9FF?style=for-the-badge" />
+      <br />
+      <b>AI / ML Internships</b>
     </td>
   </tr>
 </table>
+
 
 ### What These Prove
 
