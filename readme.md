@@ -41,11 +41,6 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 </table>
 
 ---
-
-## Featured Projects
-
-
-
 ### Project Breakdown
 
 | Project | What It Solves | Tech / Concepts | Why It Matters |
@@ -108,12 +103,6 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 ---
 
 ## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 </p>
