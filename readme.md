@@ -272,7 +272,7 @@ flowchart LR
 
 <!--QUOTE-START-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=A+clean+pipeline+is+a+competitive+advantage." alt="Daily AI insight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Build+models+that+explain%2C+not+just+predict." alt="Daily AI insight" />
 </p>
 <!--QUOTE-END-->
 
