@@ -24,7 +24,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 <table>
   <tr>
     <td><b>Current stage</b></td>
-    <td>2nd-year CSE Data Science undergraduate</td>
+    <td>2nd-year CSE - Data Science undergraduate</td>
   </tr>
   <tr>
     <td><b>Core stack</b></td>
