@@ -52,7 +52,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## What I Build
+## What I Build:
 
 <table>
   <tr>
