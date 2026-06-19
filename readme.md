@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=anshxgaur&style=for-the-badge&color=00D9FF" alt="Profile views" />
 </p>
 
-----
+---
 
 ## About Me
 
