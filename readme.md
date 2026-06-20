@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=anshxgaur&style=for-the-badge&color=00D9FF" alt="Profile views" />
 </p>
 
----
+-----
 
 ## About Me
 
@@ -40,7 +40,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
   </tr>
 </table>
 
----
+---____
 ### Project Breakdown
 
 | Project | What It Solves | Tech / Concepts | Why It Matters |
