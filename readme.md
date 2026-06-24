@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a B.Tech Computer Science and Engineering(data science)student specializing in Data Science at PSIT Kanpur. I build practical AI systems with Python, machine learning, FastAPI, data pipelines, dashboards, and early-stage LLM/RAG architectures.
+B.Tech Computer Science and Engineering(data science)student specializing in Data Science at PSIT Kanpur. I build practical AI systems with Python, machine learning, FastAPI, data pipelines, dashboards, and early-stage LLM/RAG architectures.
 
 My current focus is becoming internship-ready for AI/ML Engineering, Data Science, Python Backend, and Generative AI roles.
 
