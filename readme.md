@@ -41,7 +41,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 </table>
 
 ---
-## Projects :
+## Projects:
 
 | Project | What It Solves | Tech / Concepts | Why It Matters |
 |---|---|---|---|
