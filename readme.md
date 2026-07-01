@@ -73,7 +73,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## Tech Stack
+## Tech Stack :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,flask,react,nextjs,tailwind,postgres,redis,docker,git,github,vscode&perline=13" alt="Tech stack icons" />
@@ -91,7 +91,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## Internship Readiness
+## Internship Readiness :
 
 | Target Role | I Can Show | Next Skill I Am Sharpening |
 |---|---|---|
