@@ -91,7 +91,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## Internship Readiness :
+## Internship :
 
 | Target Role | I Can Show | Next Skill I Am Sharpening |
 |---|---|---|
