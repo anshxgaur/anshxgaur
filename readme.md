@@ -102,7 +102,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## GitHub Analytics
+## GitHub Analytic
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 </p>
