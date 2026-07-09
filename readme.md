@@ -239,7 +239,7 @@ flowchart LR
 </table>
 
 
-### What These Prove
+### outcome
 
 <table>
   <tr>
@@ -268,7 +268,7 @@ flowchart LR
 
 <!-- CERTIFICATES-AND-HACKATHONS-END -->
 
-## Daily AI Insight
+## AI Insight
 
 <!--QUOTE-START-->
 <p align="center">
