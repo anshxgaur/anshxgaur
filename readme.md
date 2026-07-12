@@ -113,8 +113,6 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 
 ---
 
-## Generated Profile Assets
-
 ### Contribution Snake :
 
 <picture>
