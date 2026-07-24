@@ -270,7 +270,7 @@ flowchart LR
 
 <!--QUOTE-START-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+does+not+replace+engineers+-+it+upgrades+them." alt="Daily AI insight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=From+chaos+to+insight+-+one+pipeline+at+a+time." alt="Daily AI insight" />
 </p>
 <!--QUOTE-END-->
 
