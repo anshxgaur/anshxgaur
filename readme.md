@@ -281,7 +281,7 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
       </td>
       <td width="25%" align="center">
         <a href="./assets/certificates/python%20for%20data%20analysis.pdf">
-          <img src="./assets/certificates/python%20for%20data%20analysis.png" width="180" />
+          <img src="./assets/certificates/data analysis.png" width="180" />
         </a>
         <br />
         <b>Data Analysis with Python</b>
@@ -316,12 +316,19 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
         <br />
         <b>GenAI: Elevate Your Data Science Career</b>
       </td>
-      <td width="25%" align="center">
+            <td width="25%" align="center">
         <a href="./assets/certificates/12.pdf">
           <img src="./assets/certificates/data%20science%20carrier%20guide.png" width="180" />
         </a>
         <br />
         <b>Data Scientist Career Guide</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/ibm data science">
+          <img src="./assets/certificates/ibm data science" width="180" />
+        </a>
+        <br />
+        <b>IBM DATA SCIENCE</b>
       </td>
     </tr>
   </table>
