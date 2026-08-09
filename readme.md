@@ -232,32 +232,99 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
     <td width="25%"></td>
   </tr>
 </table>
+## 🏆 Certifications and Hackathon Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
+  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+</p>
+
 <table>
   <tr>
     <td width="25%" align="center">
+      <a href="./assets/certificates/cool.jpeg">
+        <img src="./assets/certificates/cool.jpeg" width="180" />
+      </a>
+      <br />
+      <b>AI / Data Science</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/41MI1XODHW.png">
+        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
+      </a>
+      <br />
+      <b>ML / GenAI</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/hack.jpeg">
+        <img src="./assets/certificates/hack.jpeg" width="180" />
+      </a>
+      <br />
+      <b>Hackathon</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/igdtu.png">
+        <img src="./assets/certificates/igdtu.png" width="180" />
+      </a>
+      <br />
+      <b>IGDTU Event</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/iisc%20banglore.png">
+        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
+      </a>
+      <br />
+      <b>IISc Bangalore</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/nit%20durgapur.png">
+        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
+      </a>
+      <br />
+      <b>NIT Durgapur</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/datasprint.png">
+        <img src="./assets/certificates/datasprint.png" width="180" />
+      </a>
+      <br />
+      <b>NIT Durgapur — DataSprint</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/quizz%20off.jpeg">
+        <img src="./assets/certificates/quizz%20off.jpeg" width="180" />
+      </a>
+      <br />
+      <b>Quizz Off</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
       <a href="./assets/certificates/what%20is%20data%20science.pdf">
-        <img src="./assets/certificates/tool_data science.pdf" width="180" />
+        <img src="./assets/certificates/what%20is%20data%20science.png" width="180" />
       </a>
       <br />
       <b>What is Data Science?</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/tool_data%20science.pdf">
-        <img src="" width="180" />
+        <img src="./assets/certificates/tools%20for%20data%20science.png" width="180" />
       </a>
       <br />
       <b>Tools for Data Science</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/data%20science%20methodology.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/data%20science%20methodology.png" width="180" />
       </a>
       <br />
       <b>Data Science Methodology</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/python%20for%20datra%20sciednce.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/ibm%20data%20science.png" width="180" />
       </a>
       <br />
       <b>Python for Data Science, AI & Development</b>
@@ -266,28 +333,28 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <tr>
     <td width="25%" align="center">
       <a href="./assets/certificates/python%20projects.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/ibm%20data%20science.png" width="180" />
       </a>
       <br />
       <b>Python Project for Data Science</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/database.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/database.png" width="180" />
       </a>
       <br />
       <b>Databases & SQL for Data Science</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/python%20for%20data%20analysis.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/python%20for%20data%20analysis.png" width="180" />
       </a>
       <br />
       <b>Data Analysis with Python</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/data%20visualization.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/data%20visualization%20with%20python.png" width="180" />
       </a>
       <br />
       <b>Data Visualization with Python</b>
@@ -296,32 +363,42 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <tr>
     <td width="25%" align="center">
       <a href="./assets/certificates/machine%20learning%20for%20python.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/machine%20learning%20.png" width="180" />
       </a>
       <br />
       <b>Machine Learning with Python</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/Coursera%20JOHFJSR2RFXl.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/applied%20data%20science.png" width="180" />
       </a>
       <br />
       <b>Applied Data Science Capstone</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/gen%20ai%20elevate%20your%20carrier.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/gen%20ai%20elevate%20your%20carrier.png" width="180" />
       </a>
       <br />
       <b>GenAI: Elevate Your Data Science Career</b>
     </td>
     <td width="25%" align="center">
       <a href="./assets/certificates/12.pdf">
-        <img src="https://img.shields.io/badge/IBM-Certificate-0D1117?style=for-the-badge&logo=ibm&logoColor=00D9FF&labelColor=0D1117" width="180" />
+        <img src="./assets/certificates/data%20science%20carrier%20guide.png" width="180" />
       </a>
       <br />
       <b>Data Scientist Career Guide</b>
     </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/More-Coming%20Soon-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&color=00D9FF" />
+      <br />
+      <b>Growing Portfolio</b>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
 </table>
 
