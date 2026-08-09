@@ -237,65 +237,6 @@ flowchart LR
 </table>
 
 ## Certifications and Hackathon Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-7C3AED?style=for-the-badge" />
-</p>
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/cool.jpeg">
-        <img src="./assets/certificates/cool.jpeg" width="180" />
-      </a>
-      <br />
-      <b>AI / Data Science</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/41MI1XODHW.png">
-        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
-      </a>
-      <br />
-      <b>ML / GenAI</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/hack.jpeg">
-        <img src="./assets/certificates/hack.jpeg" width="180" />
-      </a>
-      <br />
-      <b>Hackathon</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/igdtu.png">
-        <img src="./assets/certificates/igdtu.png" width="180" />
-      </a>
-      <br />
-      <b>IGDTU Event</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/iisc%20banglore.png">
-        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
-      </a>
-      <br />
-      <b>IISc Bangalore</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/nit%20durgapur.png">
-        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
-      </a>
-      <br />
-      <b>NIT Durgapur</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/datasprint.png">
-        <img src="./assets/certificates/datasprint.png" width="180" />
-      </a>
-      <br />
-      <b>DataSprint</b>
-    </td>
     <td width="25%" align="center">
       <a href="./what%20is%20data%20science.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
@@ -313,14 +254,14 @@ flowchart LR
       <b>Tools for Data Science</b>
     </td>
     <td width="25%" align="center">
-      <a href="./data%20science%20methodology.pdf">
+      <a href="assets/certificates/what is data science.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Data Science Methodology</b>
     </td>
     <td width="25%" align="center">
-      <a href="./python%20for%20datra%20sciednce.pdf">
+      <a href="assets/certificates/Data Science Methodology">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
