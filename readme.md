@@ -236,7 +236,163 @@ flowchart LR
   </tr>
 </table>
 
+## Certifications and Hackathon Highlights
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-7C3AED?style=for-the-badge" />
+</p>
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/cool.jpeg">
+        <img src="./assets/certificates/cool.jpeg" width="180" />
+      </a>
+      <br />
+      <b>AI / Data Science</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/41MI1XODHW.png">
+        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
+      </a>
+      <br />
+      <b>ML / GenAI</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/hack.jpeg">
+        <img src="./assets/certificates/hack.jpeg" width="180" />
+      </a>
+      <br />
+      <b>Hackathon</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/igdtu.png">
+        <img src="./assets/certificates/igdtu.png" width="180" />
+      </a>
+      <br />
+      <b>IGDTU Event</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/iisc%20banglore.png">
+        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
+      </a>
+      <br />
+      <b>IISc Bangalore</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/nit%20durgapur.png">
+        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
+      </a>
+      <br />
+      <b>NIT Durgapur</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/datasprint.png">
+        <img src="./assets/certificates/datasprint.png" width="180" />
+      </a>
+      <br />
+      <b>DataSprint</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./what%20is%20data%20science.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>What is Data Science?</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./tool_data%20science.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Tools for Data Science</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./data%20science%20methodology.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Data Science Methodology</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./python%20for%20datra%20sciednce.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Python for Data Science, AI & Development</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./python%20projects.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Python Project for Data Science</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./database.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Databases & SQL for Data Science</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./python%20for%20data%20analysis.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Data Analysis with Python</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./data%20visualization.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Data Visualization with Python</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./machine%20learning%20for%20python.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Machine Learning with Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./Coursera%20JOHFJSR2RFXl.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Applied Data Science Capstone</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./gen%20ai%20elevate%20your%20carrier.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>GenAI: Elevate Your Data Science Career</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./12.pdf">
+        <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
+      </a>
+      <br />
+      <b>Data Scientist Career Guide</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/More-Coming%20Soon-111827?style=for-the-badge&logo=github" />
+      <br />
+      <b>Growing Portfolio</b>
+    </td>
+  </tr>
+</table>
 ### outcome
 
 <table>
