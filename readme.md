@@ -148,7 +148,6 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
 
 <!-- CERTIFICATES-AND-HACKATHONS-START -->
-
 ## 🏆 Hackathons & Certifications
 
 <p align="center">
@@ -281,7 +280,7 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
       </td>
       <td width="25%" align="center">
         <a href="./assets/certificates/python%20for%20data%20analysis.pdf">
-          <img src="./assets/certificates/data analysis.png" width="180" />
+          <img src="./assets/certificates/data%20analysis.png" width="180" />
         </a>
         <br />
         <b>Data Analysis with Python</b>
@@ -316,24 +315,28 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
         <br />
         <b>GenAI: Elevate Your Data Science Career</b>
       </td>
-            <td width="25%" align="center">
+      <td width="25%" align="center">
         <a href="./assets/certificates/12.pdf">
           <img src="./assets/certificates/data%20science%20carrier%20guide.png" width="180" />
         </a>
         <br />
         <b>Data Scientist Career Guide</b>
       </td>
+    </tr>
+    <tr>
       <td width="25%" align="center">
-        <a href="./assets/certificates/ibm data science">
-          <img src="./assets/certificates/ibm data science" width="180" />
+        <a href="./assets/certificates/ibm%20data%20science.png">
+          <img src="./assets/certificates/ibm%20data%20science.png" width="180" />
         </a>
         <br />
-        <b>IBM DATA SCIENCE</b>
+        <b>IBM Data Science</b>
       </td>
+      <td width="25%"></td>
+      <td width="25%"></td>
+      <td width="25%"></td>
     </tr>
   </table>
 </details>
-
 <!-- CERTIFICATES-AND-HACKATHONS-END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
