@@ -237,8 +237,68 @@ flowchart LR
 </table>
 
 ## Certifications and Hackathon Highlights
+## Certifications and Hackathon Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-7C3AED?style=for-the-badge" />
+</p>
+
+<table>
+  <tr>
     <td width="25%" align="center">
-      <a href="./what%20is%20data%20science.pdf">
+      <a href="./assets/certificates/cool.jpeg">
+        <img src="./assets/certificates/cool.jpeg" width="180" />
+      </a>
+      <br />
+      <b>AI / Data Science</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/41MI1XODHW.png">
+        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
+      </a>
+      <br />
+      <b>ML / GenAI</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/hack.jpeg">
+        <img src="./assets/certificates/hack.jpeg" width="180" />
+      </a>
+      <br />
+      <b>Hackathon</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/igdtu.png">
+        <img src="./assets/certificates/igdtu.png" width="180" />
+      </a>
+      <br />
+      <b>IGDTU Event</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/iisc%20banglore.png">
+        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
+      </a>
+      <br />
+      <b>IISc Bangalore</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/nit%20durgapur.png">
+        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
+      </a>
+      <br />
+      <b>NIT Durgapur</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/datasprint.png">
+        <img src="./assets/certificates/datasprint.png" width="180" />
+      </a>
+      <br />
+      <b>DataSprint</b>
+    </td>
+    <td width="25%" align="center">
+      <a href="./assets/certificates/what%20is%20data%20science.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
@@ -247,28 +307,28 @@ flowchart LR
   </tr>
   <tr>
     <td width="25%" align="center">
-      <a href="./tool_data%20science.pdf">
+      <a href="./assets/certificates/tool_data%20science.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Tools for Data Science</b>
     </td>
     <td width="25%" align="center">
-      <a href="assets/certificates/what is data science.pdf">
+      <a href="./assets/certificates/data%20science%20methodology.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Data Science Methodology</b>
     </td>
     <td width="25%" align="center">
-      <a href="assets/certificates/Data Science Methodology">
+      <a href="./assets/certificates/python%20for%20datra%20sciednce.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Python for Data Science, AI & Development</b>
     </td>
     <td width="25%" align="center">
-      <a href="./python%20projects.pdf">
+      <a href="./assets/certificates/python%20projects.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
@@ -277,28 +337,28 @@ flowchart LR
   </tr>
   <tr>
     <td width="25%" align="center">
-      <a href="./database.pdf">
+      <a href="./assets/certificates/database.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Databases & SQL for Data Science</b>
     </td>
     <td width="25%" align="center">
-      <a href="./python%20for%20data%20analysis.pdf">
+      <a href="./assets/certificates/python%20for%20data%20analysis.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Data Analysis with Python</b>
     </td>
     <td width="25%" align="center">
-      <a href="./data%20visualization.pdf">
+      <a href="./assets/certificates/data%20visualization.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Data Visualization with Python</b>
     </td>
     <td width="25%" align="center">
-      <a href="./machine%20learning%20for%20python.pdf">
+      <a href="./assets/certificates/machine%20learning%20for%20python.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
@@ -307,21 +367,21 @@ flowchart LR
   </tr>
   <tr>
     <td width="25%" align="center">
-      <a href="./Coursera%20JOHFJSR2RFXl.pdf">
+      <a href="./assets/certificates/Coursera%20JOHFJSR2RFXl.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>Applied Data Science Capstone</b>
     </td>
     <td width="25%" align="center">
-      <a href="./gen%20ai%20elevate%20your%20carrier.pdf">
+      <a href="./assets/certificates/gen%20ai%20elevate%20your%20carrier.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
       <b>GenAI: Elevate Your Data Science Career</b>
     </td>
     <td width="25%" align="center">
-      <a href="./12.pdf">
+      <a href="./assets/certificates/12.pdf">
         <img src="https://img.shields.io/badge/IBM-Certificate-052FAD?style=for-the-badge&logo=ibm" width="180" />
       </a>
       <br />
@@ -331,32 +391,6 @@ flowchart LR
       <img src="https://img.shields.io/badge/More-Coming%20Soon-111827?style=for-the-badge&logo=github" />
       <br />
       <b>Growing Portfolio</b>
-    </td>
-  </tr>
-</table>
-### outcome
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Consistency</b>
-      <br />
-      <sub>Learning through courses, projects, and events.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>Execution</b>
-      <br />
-      <sub>Building solutions within limited time during hackathons.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>AI Focus</b>
-      <br />
-      <sub>Working toward ML, GenAI, and data science roles.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>Growth Mindset</b>
-      <br />
-      <sub>Actively competing, learning, and improving.</sub>
     </td>
   </tr>
 </table>
