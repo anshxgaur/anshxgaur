@@ -221,7 +221,7 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <tr>
     <td width="25%" align="center">
       <a href="./assets/certificates/what%20is%20data%20science.pdf">
-        <img src="assets/certificates/tool_data science.pdf" width="180" />
+        <img src="./assets/certificates/tool_data science.pdf" width="180" />
       </a>
       <br />
       <b>What is Data Science?</b>
