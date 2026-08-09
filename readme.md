@@ -24,7 +24,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 <table>
   <tr>
     <td><b>Current stage</b></td>
-    <td>2nd-year CSE - Data Science undergraduate</td>
+    <td>3rd-year CSE - Data Science undergraduate</td>
   </tr>
   <tr>
     <td><b>Core stack</b></td>
@@ -46,7 +46,7 @@ My current focus is becoming internship-ready for AI/ML Engineering, Data Scienc
 | Project | What It Solves | Tech / Concepts | Why It Matters |
 |---|---|---|---|
 | [Nexus Workspace](https://github.com/anshxgaur/nexus) | Self-hosted AI-powered corporate workspace with team chat, meetings, live transcription, RAG search, and task extraction. | FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisper, LiveKit, Ollama, WebSockets | Shows system design thinking: backend APIs, real-time communication, vector search, local LLM integration, and multi-service architecture. |
-| [DAISY](https://github.com/anshxgaur/DAISY) | Healthcare data intelligence system for EDA, disease prediction, risk stratification, and clinical decision support. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ML pipelines, model evaluation | Strong fit for data science internships because it connects ML models to a real domain problem with interpretable outcomes. |
+| [VISTA](https://github.com/anshxgaur/VISTA) | Healthcare data intelligence system for EDA, disease prediction, risk stratification, and clinical decision support. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ML pipelines, model evaluation | Strong fit for data science internships because it connects ML models to a real domain problem with interpretable outcomes. |
 | [NOVA](https://github.com/anshxgaur/NOVA) | Personal AI assistant architecture focused on local inference, voice interaction, security checks, and task orchestration. | TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modular orchestration | Demonstrates interest in GenAI beyond prompting: local-first design, secure AI flow, and agent-like task routing. |
 | [F1 Data Analytics](https://github.com/anshxgaur/F1) | Formula 1 analytics platform for tire degradation, pit-window reasoning, and driver performance comparison. | TypeScript, Next.js, data visualization, analytics dashboards, strategy modeling | Shows you can turn complex datasets into interactive decision-support products. |
 
