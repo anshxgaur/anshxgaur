@@ -365,7 +365,9 @@ flowchart LR
 <a href="https://leetcode.com/u/anshgaurx/">LeetCode</a>
 
 <!--QUOTE-START-->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+speaks+only+when+engineered+to." alt="Daily AI insight" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=A+clean+pipeline+is+a+competitive+advantage." alt="Daily AI insight" />
+</p>
 <!--QUOTE-END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0D1117" alt="Footer wave" />
