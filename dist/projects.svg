@@ -1,25 +1,26 @@
-<svg width="800" height="594" viewBox="0 0 800 594" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="632" viewBox="0 0 800 632" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#050810"/>
       <stop offset="100%" stop-color="#0a0e1a"/>
     </linearGradient>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#0ff" stroke-opacity="0.06" stroke-width="1"/>
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#0ff" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
     <style>
       .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #0ff; letter-spacing: 2px; }
-      .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 17px; fill: #e6f7ff; }
+      .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 16px; fill: #e6f7ff; }
       .proj-desc { font-family: 'Courier New', monospace; font-size: 12px; fill: #8b949e; }
-      .proj-meta { font-family: 'Courier New', monospace; font-size: 11.5px; fill: #7ee787; }
+      .chip-text { font-family: 'Courier New', monospace; font-size: 10.5px; font-weight: 600; }
+      .idx-text { font-family: 'Courier New', monospace; font-size: 11px; font-weight: bold; }
       .footer { font-family: 'Courier New', monospace; font-size: 11px; fill: #484f58; }
     </style>
-    <clipPath id="rounded"><rect width="800" height="594" rx="10" ry="10"/></clipPath>
+    <clipPath id="rounded"><rect width="800" height="632" rx="10" ry="10"/></clipPath>
   </defs>
 
   <g clip-path="url(#rounded)">
-    <rect width="800" height="594" fill="url(#bg)"/>
-    <rect width="800" height="594" fill="url(#grid)"/>
+    <rect width="800" height="632" fill="url(#bg)"/>
+    <rect width="800" height="632" fill="url(#grid)"/>
 
     <rect width="800" height="34" fill="#0d1117" fill-opacity="0.85"/>
     <circle cx="20" cy="17" r="5" fill="#ff5f56"/>
@@ -28,50 +29,191 @@
     <text x="400" y="22" text-anchor="middle" class="title">PROJECTS.SYS — anshxgaur</text>
 
     <rect x="0" y="0" width="800" height="2" fill="#0ff" opacity="0.5">
-      <animate attributeName="y" values="34;594;34" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="34;632;34" dur="6s" repeatCount="indefinite"/>
     </rect>
 
     
-    <g>
-      <rect x="55" y="54" width="690" height="92" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
-      <rect x="55" y="54" width="4" height="92" fill="#0ff" opacity="0.8"/>
-      <text x="80" y="78" class="proj-name">Nexus Workspace</text>
-      <text y="98" class="proj-desc"><tspan x="80" dy="0">Self-hosted AI-powered corporate workspace with team chat, meetings, live</tspan><tspan x="80" dy="16">transcription, RAG search, and task extraction.</tspan></text>
-      <text x="80" y="138" class="proj-meta">FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisper,…</text>
-    </g>
+  <g>
+    <!-- card shell -->
+    <rect x="40" y="56" width="351" height="172" rx="12" fill="#0d1117" fill-opacity="0.55" stroke="#00D9FF" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- top accent stripe -->
+    <rect x="40" y="56" width="351" height="3" rx="1.5" fill="#00D9FF"/>
+    <!-- index badge -->
+    <circle cx="365" cy="80" r="14" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="365" y="84" text-anchor="middle" class="idx-text" fill="#00D9FF">01</text>
 
+    <text x="58" y="90" class="proj-name">Nexus Workspace</text>
+    <text y="112" class="proj-desc"><tspan x="58" dy="0">Self-hosted AI-powered corporate workspace with</tspan><tspan x="58" dy="16">team chat, meetings, live transcription, RAG</tspan><tspan x="58" dy="16">search, and task extraction.</tspan></text>
     <g>
-      <rect x="55" y="160" width="690" height="92" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
-      <rect x="55" y="160" width="4" height="92" fill="#0ff" opacity="0.8"/>
-      <text x="80" y="184" class="proj-name">VISTA</text>
-      <text y="204" class="proj-desc"><tspan x="80" dy="0">Healthcare data intelligence system for EDA, disease prediction, risk</tspan><tspan x="80" dy="16">stratification, and clinical decision support.</tspan></text>
-      <text x="80" y="244" class="proj-meta">Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, ML pipelines</text>
-    </g>
+        <rect x="58" y="166" width="64" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="90" y="180" text-anchor="middle" class="chip-text" fill="#00D9FF">FastAPI</text>
+      </g>
+<g>
+        <rect x="129" y="166" width="52" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="155" y="180" text-anchor="middle" class="chip-text" fill="#00D9FF">React</text>
+      </g>
+<g>
+        <rect x="188" y="166" width="52" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="214" y="180" text-anchor="middle" class="chip-text" fill="#00D9FF">Tauri</text>
+      </g>
+<g>
+        <rect x="247" y="166" width="89" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="291.5" y="180" text-anchor="middle" class="chip-text" fill="#00D9FF">TailwindCSS</text>
+      </g>
+<g>
+        <rect x="58" y="194" width="64" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="90" y="208" text-anchor="middle" class="chip-text" fill="#00D9FF">Zustand</text>
+      </g>
+<g>
+        <rect x="129" y="194" width="83" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="170.5" y="208" text-anchor="middle" class="chip-text" fill="#00D9FF">PostgreSQL</text>
+      </g>
+<g>
+        <rect x="219" y="194" width="52" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="245" y="208" text-anchor="middle" class="chip-text" fill="#00D9FF">Redis</text>
+      </g>
+<g>
+        <rect x="278" y="194" width="58" height="20" rx="10" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="307" y="208" text-anchor="middle" class="chip-text" fill="#00D9FF">Qdrant</text>
+      </g>
+  </g>
 
+  <g>
+    <!-- card shell -->
+    <rect x="409" y="56" width="351" height="172" rx="12" fill="#0d1117" fill-opacity="0.55" stroke="#7C3AED" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- top accent stripe -->
+    <rect x="409" y="56" width="351" height="3" rx="1.5" fill="#7C3AED"/>
+    <!-- index badge -->
+    <circle cx="734" cy="80" r="14" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="734" y="84" text-anchor="middle" class="idx-text" fill="#7C3AED">02</text>
+
+    <text x="427" y="90" class="proj-name">VISTA</text>
+    <text y="112" class="proj-desc"><tspan x="427" dy="0">Healthcare data intelligence system for EDA,</tspan><tspan x="427" dy="16">disease prediction, risk stratification, and</tspan><tspan x="427" dy="16">clinical decision support.</tspan></text>
     <g>
-      <rect x="55" y="266" width="690" height="92" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
-      <rect x="55" y="266" width="4" height="92" fill="#0ff" opacity="0.8"/>
-      <text x="80" y="290" class="proj-name">NOVA</text>
-      <text y="310" class="proj-desc"><tspan x="80" dy="0">Personal AI assistant architecture focused on local inference, voice interaction,</tspan><tspan x="80" dy="16">security checks, and task orchestration.</tspan></text>
-      <text x="80" y="350" class="proj-meta">TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modular…</text>
-    </g>
+        <rect x="427" y="166" width="58" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="456" y="180" text-anchor="middle" class="chip-text" fill="#7C3AED">Python</text>
+      </g>
+<g>
+        <rect x="492" y="166" width="58" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="521" y="180" text-anchor="middle" class="chip-text" fill="#7C3AED">Pandas</text>
+      </g>
+<g>
+        <rect x="557" y="166" width="52" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="583" y="180" text-anchor="middle" class="chip-text" fill="#7C3AED">NumPy</text>
+      </g>
+<g>
+        <rect x="616" y="166" width="96" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="664" y="180" text-anchor="middle" class="chip-text" fill="#7C3AED">Scikit-learn</text>
+      </g>
+<g>
+        <rect x="427" y="194" width="77" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="465.5" y="208" text-anchor="middle" class="chip-text" fill="#7C3AED">Streamlit</text>
+      </g>
+<g>
+        <rect x="511" y="194" width="83" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="552.5" y="208" text-anchor="middle" class="chip-text" fill="#7C3AED">Matplotlib</text>
+      </g>
+<g>
+        <rect x="601" y="194" width="64" height="20" rx="10" fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="633" y="208" text-anchor="middle" class="chip-text" fill="#7C3AED">Seaborn</text>
+      </g>
+  </g>
 
+  <g>
+    <!-- card shell -->
+    <rect x="40" y="246" width="351" height="172" rx="12" fill="#0d1117" fill-opacity="0.55" stroke="#F97316" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- top accent stripe -->
+    <rect x="40" y="246" width="351" height="3" rx="1.5" fill="#F97316"/>
+    <!-- index badge -->
+    <circle cx="365" cy="270" r="14" fill="#F97316" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="365" y="274" text-anchor="middle" class="idx-text" fill="#F97316">03</text>
+
+    <text x="58" y="280" class="proj-name">NOVA</text>
+    <text y="302" class="proj-desc"><tspan x="58" dy="0">Personal AI assistant architecture focused on</tspan><tspan x="58" dy="16">local inference, voice interaction, security</tspan><tspan x="58" dy="16">checks, and task orchestration.</tspan></text>
     <g>
-      <rect x="55" y="372" width="690" height="92" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
-      <rect x="55" y="372" width="4" height="92" fill="#0ff" opacity="0.8"/>
-      <text x="80" y="396" class="proj-name">F1 Data Analytics</text>
-      <text y="416" class="proj-desc"><tspan x="80" dy="0">Formula 1 analytics platform for tire degradation, pit-window reasoning, and</tspan><tspan x="80" dy="16">driver performance comparison.</tspan></text>
-      <text x="80" y="456" class="proj-meta">TypeScript, Next.js, data visualization, analytics dashboards, strategy modeling</text>
-    </g>
+        <rect x="58" y="356" width="83" height="20" rx="10" fill="#F97316" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="99.5" y="370" text-anchor="middle" class="chip-text" fill="#F97316">TypeScript</text>
+      </g>
+<g>
+        <rect x="148" y="356" width="115" height="20" rx="10" fill="#F97316" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="205.5" y="370" text-anchor="middle" class="chip-text" fill="#F97316">AI architecture</text>
+      </g>
+<g>
+        <rect x="58" y="384" width="121" height="20" rx="10" fill="#F97316" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="118.5" y="398" text-anchor="middle" class="chip-text" fill="#F97316">STT/TTS pipeline</text>
+      </g>
+<g>
+        <rect x="186" y="384" width="171" height="20" rx="10" fill="#F97316" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="271.5" y="398" text-anchor="middle" class="chip-text" fill="#F97316">prompt-injection defense</text>
+      </g>
+  </g>
 
+  <g>
+    <!-- card shell -->
+    <rect x="409" y="246" width="351" height="172" rx="12" fill="#0d1117" fill-opacity="0.55" stroke="#22C55E" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- top accent stripe -->
+    <rect x="409" y="246" width="351" height="3" rx="1.5" fill="#22C55E"/>
+    <!-- index badge -->
+    <circle cx="734" cy="270" r="14" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="734" y="274" text-anchor="middle" class="idx-text" fill="#22C55E">04</text>
+
+    <text x="427" y="280" class="proj-name">F1 Data Analytics</text>
+    <text y="302" class="proj-desc"><tspan x="427" dy="0">Formula 1 analytics platform for tire</tspan><tspan x="427" dy="16">degradation, pit-window reasoning, and driver</tspan><tspan x="427" dy="16">performance comparison.</tspan></text>
     <g>
-      <rect x="55" y="478" width="690" height="92" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
-      <rect x="55" y="478" width="4" height="92" fill="#0ff" opacity="0.8"/>
-      <text x="80" y="502" class="proj-name">ASTRA</text>
-      <text y="522" class="proj-desc"><tspan x="80" dy="0">AI-powered unified search platform merging 1,000 resumes, 20 research papers, and</tspan><tspan x="80" dy="16">6 fragmented data sources into one semantic search + RAG Q&amp;A portal.</tspan></text>
-      <text x="80" y="562" class="proj-meta">FastAPI, PostgreSQL + pgvector, fastembed, Groq LLM (text-to-SQL + RAG), Docker</text>
-    </g>
+        <rect x="427" y="356" width="83" height="20" rx="10" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="468.5" y="370" text-anchor="middle" class="chip-text" fill="#22C55E">TypeScript</text>
+      </g>
+<g>
+        <rect x="517" y="356" width="64" height="20" rx="10" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="549" y="370" text-anchor="middle" class="chip-text" fill="#22C55E">Next.js</text>
+      </g>
+<g>
+        <rect x="588" y="356" width="133" height="20" rx="10" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="654.5" y="370" text-anchor="middle" class="chip-text" fill="#22C55E">data visualization</text>
+      </g>
+<g>
+        <rect x="427" y="384" width="146" height="20" rx="10" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="500" y="398" text-anchor="middle" class="chip-text" fill="#22C55E">analytics dashboards</text>
+      </g>
+<g>
+        <rect x="580" y="384" width="127" height="20" rx="10" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="643.5" y="398" text-anchor="middle" class="chip-text" fill="#22C55E">strategy modeling</text>
+      </g>
+  </g>
 
-    <text x="780" y="584" text-anchor="end" class="footer">5 project(s) tracked</text>
+  <g>
+    <!-- card shell -->
+    <rect x="40" y="436" width="720" height="172" rx="12" fill="#0d1117" fill-opacity="0.55" stroke="#EC4899" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- top accent stripe -->
+    <rect x="40" y="436" width="720" height="3" rx="1.5" fill="#EC4899"/>
+    <!-- index badge -->
+    <circle cx="734" cy="460" r="14" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="734" y="464" text-anchor="middle" class="idx-text" fill="#EC4899">05</text>
+
+    <text x="58" y="470" class="proj-name">ASTRA</text>
+    <text y="492" class="proj-desc"><tspan x="58" dy="0">AI-powered unified search platform merging 1,000 resumes, 20 research papers, and 6 fragmented data</tspan><tspan x="58" dy="16">sources into one semantic search + RAG Q&amp;A portal.</tspan></text>
+    <g>
+        <rect x="58" y="530" width="64" height="20" rx="10" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="90" y="544" text-anchor="middle" class="chip-text" fill="#EC4899">FastAPI</text>
+      </g>
+<g>
+        <rect x="129" y="530" width="152" height="20" rx="10" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="205" y="544" text-anchor="middle" class="chip-text" fill="#EC4899">PostgreSQL + pgvector</text>
+      </g>
+<g>
+        <rect x="288" y="530" width="77" height="20" rx="10" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="326.5" y="544" text-anchor="middle" class="chip-text" fill="#EC4899">fastembed</text>
+      </g>
+<g>
+        <rect x="372" y="530" width="196" height="20" rx="10" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="470" y="544" text-anchor="middle" class="chip-text" fill="#EC4899">Groq LLM (text-to-SQL + RAG)</text>
+      </g>
+<g>
+        <rect x="575" y="530" width="58" height="20" rx="10" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.55" stroke-width="1"/>
+        <text x="604" y="544" text-anchor="middle" class="chip-text" fill="#EC4899">Docker</text>
+      </g>
+  </g>
+
+    <text x="780" y="622" text-anchor="end" class="footer">5 project(s) tracked</text>
   </g>
 </svg>
