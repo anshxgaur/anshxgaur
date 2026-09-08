@@ -56,99 +56,41 @@ My goal is to build strong, production-oriented projects and become internship-r
 # 🧠 Project Terminal
 
 <p align="center">
-
-<a href="#project-details">
-  <img src="https://img.shields.io/badge/▶%20EXPLORE%20PROJECT%20ARCHITECTURE-Click%20to%20open-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" alt="Explore Projects" />
-</a>
-
+  <sub>
+    <code>PROJECTS.SYS</code> — Systems, AI architectures, data products & experiments
+  </sub>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/projects.svg" alt="Interactive Project Terminal" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/projects.svg"
+    alt="Project Terminal"
+    width="100%"
+  />
 </p>
-
-<p align="center">
-  <sub>Architecture-focused overview of the systems and products I have been building.</sub>
-</p>
-
-<a id="project-details"></a>
 
 <details>
-<summary><b>▶ OPEN PROJECT DETAILS</b> <i>— Click to explore repositories, architecture, and tech</i></summary>
+<summary><b>▶ OPEN PROJECT TABLE</b> <i>(Click to expand)</i></summary>
 
 <br/>
 
-### 🟦 Nexus Workspace
+| Project | What It Solves | Tech / Concepts | Why It Matters |
+|---|---|---|---|
+| **[Nexus Workspace](https://github.com/anshxgaur/nexus)** | Self-hosted AI-powered corporate workspace with team chat, meetings, live transcription, RAG search, and task extraction. | FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisper, LiveKit, Ollama, WebSockets | Shows system design thinking: backend APIs, real-time communication, vector search, local LLM integration, and multi-service architecture. |
+| **[VISTA](https://github.com/anshxgaur/VISTA)** | Healthcare data intelligence system for EDA, disease prediction, risk stratification, and clinical decision support (heart disease & diabetes risk modeling, real-time patient vitals dashboard). | Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, ML pipelines | Strong fit for data science internships because it connects ML models to a real domain problem with interpretable outcomes. |
+| **[NOVA](https://github.com/anshxgaur/NOVA)** | Personal AI assistant architecture focused on local inference, voice interaction, security checks, and task orchestration. | TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modular orchestration | Demonstrates interest in GenAI beyond prompting: local-first design, secure AI flow, and agent-like task routing. |
+| **[F1 Data Analytics](https://github.com/anshxgaur/F1)** | Formula 1 analytics platform for tire degradation, pit-window reasoning, and driver performance comparison. | TypeScript, Next.js, data visualization, analytics dashboards, strategy modeling | Shows you can turn complex datasets into interactive decision-support products. |
+| **[ASTRA](https://github.com/anshxgaur/astra)** | AI-powered unified search platform — merges 1,000 resumes, 20 research papers, and 6 fragmented AICTE data sources into one semantic search + RAG Q&A portal. | FastAPI, PostgreSQL + pgvector, fastembed, Groq LLM (text-to-SQL + RAG), Docker | Shows full-stack AI system design: vector search at scale, hybrid retrieval, and turning messy multi-source data into a usable product. |
 
-**Self-hosted AI-powered corporate workspace**
+<br/>
 
-A multi-service workspace combining team communication, meetings, live transcription, RAG search, and task extraction.
-
-**Architecture / Concepts**
-
-`FastAPI` · `React` · `Tauri` · `PostgreSQL` · `Redis` · `Qdrant` · `Whisper` · `LiveKit` · `Ollama`
-
-🔗 **Repository:** [Nexus Workspace](https://github.com/anshxgaur/nexus)
-
----
-
-### 🟪 VISTA
-
-**Healthcare Data Intelligence System**
-
-A data science platform for exploratory analysis, disease prediction, risk stratification, and clinical decision support.
-
-**Architecture / Concepts**
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Streamlit` · `Matplotlib` · `Seaborn`
-
-🔗 **Repository:** [VISTA](https://github.com/anshxgaur/VISTA)
-
----
-
-### 🟧 NOVA
-
-**Personal AI Assistant Architecture**
-
-An AI assistant architecture focused on local inference, voice interaction, security checks, prompt-injection awareness, and task orchestration.
-
-**Architecture / Concepts**
-
-`TypeScript` · `Local AI` · `STT/TTS` · `AI Security` · `Prompt Defense` · `Modular Orchestration`
-
-🔗 **Repository:** [NOVA](https://github.com/anshxgaur/NOVA)
-
----
-
-### 🟩 F1 Data Analytics
-
-**Formula 1 Analytics Platform**
-
-A data product focused on tire degradation, pit-window reasoning, driver comparison, and race strategy visualization.
-
-**Architecture / Concepts**
-
-`TypeScript` · `Next.js` · `Data Visualization` · `Analytics Dashboards` · `Strategy Modeling`
-
-🔗 **Repository:** [F1 Data Analytics](https://github.com/anshxgaur/F1)
-
----
-
-### 🟣 ASTRA
-
-**AI-Powered Unified Search Platform**
-
-A semantic search and RAG system combining resumes, research papers, and fragmented AICTE data into one searchable platform.
-
-**Architecture / Concepts**
-
-`FastAPI` · `PostgreSQL` · `pgvector` · `fastembed` · `Groq LLM` · `Text-to-SQL` · `RAG` · `Docker`
-
-🔗 **Repository:** [ASTRA](https://github.com/anshxgaur/astra)
+<p align="center">
+  <a href="https://github.com/anshxgaur">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View all repositories" />
+  </a>
+</p>
 
 </details>
-
----
 
 # 🛠️ What I Build
 
