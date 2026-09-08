@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/"><img src="https://img.shields.io/badge/LinkedIn-Ansh%20Gaur-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://github.com/anshxgaur"><img src="https://img.shields.io/badge/GitHub-anshxgaur-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/anshgaurx/"><img src="https://img.shields.io/badge/LeetCode-anshgaurx-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" /></a>
+<a href="https://wa.me/919027393542"><img src="https://img.shields.io/badge/WhatsApp-Chat-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" alt="WhatsApp" /></a>
 <img src="https://komarev.com/ghpvc/?username=anshxgaur&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile views" />
 
 </div>
@@ -167,73 +168,78 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
 
 ### 🚀 Hackathons
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/cool.jpeg">
-        <img src="./assets/certificates/cool.jpeg" width="180" />
-      </a>
-      <br />
-      <b>AI / Data Science</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/41MI1XODHW.png">
-        <img src="./assets/certificates/41MI1XODHW.png" width="180" />
-      </a>
-      <br />
-      <b>ML / GenAI</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/hack.jpeg">
-        <img src="./assets/certificates/hack.jpeg" width="180" />
-      </a>
-      <br />
-      <b>Hackathon</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/igdtu.png">
-        <img src="./assets/certificates/igdtu.png" width="180" />
-      </a>
-      <br />
-      <b>IGDTU Event</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/iisc%20banglore.png">
-        <img src="./assets/certificates/iisc%20banglore.png" width="180" />
-      </a>
-      <br />
-      <b>IISc Bangalore</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/nit%20durgapur.png">
-        <img src="./assets/certificates/nit%20durgapur.png" width="180" />
-      </a>
-      <br />
-      <b>NIT Durgapur</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/datasprint.png">
-        <img src="./assets/certificates/datasprint.png" width="180" />
-      </a>
-      <br />
-      <b>NIT Durgapur — DataSprint</b>
-    </td>
-    <td width="25%" align="center">
-      <a href="./assets/certificates/quizz%20off.jpeg">
-        <img src="./assets/certificates/quizz%20off.jpeg" width="180" />
-      </a>
-      <br />
-      <b>Quizz Off</b>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>▶ HACKATHONS</b> <i>(Click to expand)</i></summary>
+  <br />
 
-<p align="center">
-  <b>🥉 3rd Position</b> — GGSIPU Hackathon, HACKXTREME &nbsp;|&nbsp;
-  <b>Participant:</b> PROTODASH IISc Bangalore, CODEFEST NIT Durgapur, ECLIPSE 6.0 Thapar Institute
-</p>
+  <table>
+    <tr>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/cool.jpeg">
+          <img src="./assets/certificates/cool.jpeg" width="180" />
+        </a>
+        <br />
+        <b>AI / Data Science</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/41MI1XODHW.png">
+          <img src="./assets/certificates/41MI1XODHW.png" width="180" />
+        </a>
+        <br />
+        <b>ML / GenAI</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/hack.jpeg">
+          <img src="./assets/certificates/hack.jpeg" width="180" />
+        </a>
+        <br />
+        <b>Hackathon</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/igdtu.png">
+          <img src="./assets/certificates/igdtu.png" width="180" />
+        </a>
+        <br />
+        <b>IGDTU Event</b>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/iisc%20banglore.png">
+          <img src="./assets/certificates/iisc%20banglore.png" width="180" />
+        </a>
+        <br />
+        <b>IISc Bangalore</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/nit%20durgapur.png">
+          <img src="./assets/certificates/nit%20durgapur.png" width="180" />
+        </a>
+        <br />
+        <b>NIT Durgapur</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/datasprint.png">
+          <img src="./assets/certificates/datasprint.png" width="180" />
+        </a>
+        <br />
+        <b>NIT Durgapur — DataSprint</b>
+      </td>
+      <td width="25%" align="center">
+        <a href="./assets/certificates/quizz%20off.jpeg">
+          <img src="./assets/certificates/quizz%20off.jpeg" width="180" />
+        </a>
+        <br />
+        <b>Quizz Off</b>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <b>🥉 3rd Position</b> — GGSIPU Hackathon, HACKXTREME &nbsp;|&nbsp;
+    <b>Participant:</b> PROTODASH IISc Bangalore, CODEFEST NIT Durgapur, ECLIPSE 6.0 Thapar Institute
+  </p>
+</details>
 
 <br />
 
@@ -372,9 +378,8 @@ flowchart LR
 <a href="mailto:anshgaurx@gmail.com">anshgaurx@gmail.com</a> ·
 <a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/">LinkedIn</a> ·
 <a href="https://github.com/anshxgaur">GitHub</a> ·
-<a href="https://leetcode.com/u/anshgaurx/">LeetCode</a>
-<a href="9027393542">Whatsapp</a>
-
+<a href="https://leetcode.com/u/anshgaurx/">LeetCode</a> ·
+<a href="https://wa.me/919027393542">WhatsApp</a>
 
 ![GitWorld](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/gitworld.svg)
 
