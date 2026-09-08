@@ -1,13 +1,11 @@
 // scripts/generate-projects.mjs
-// Renders a curated list of projects as a cycling,
-// futuristic "terminal scanner" animated SVG.
+// Renders a curated list of projects as a static "terminal dashboard" SVG
+// showing ALL projects at once (no cycling/animation between them).
 
 const GITHUB_USER = process.env.GITHUB_USER_NAME || "anshxgaur";
 
 // ---- Your project data lives here ----
 // Edit this array whenever you want to add/update/remove a project.
-// "desc"  -> shown as the main description line ("what it solves")
-// "tech"  -> shown as the tech/stack line
 const PROJECTS = [
   {
     name: "Nexus Workspace",
@@ -79,62 +77,39 @@ function wrapText(str, maxCharsPerLine, maxLines) {
 }
 
 function buildSvg(projects, username) {
-  const width = 760;
-  const height = 220;
-  const perSlot = 5.5;
-  const fadeFrac = 0.08;
+  const width = 800;
+  const headerHeight = 34;
+  const topPad = 20;
+  const cardHeight = 92;
+  const cardGap = 14;
+  const bottomPad = 24;
   const n = projects.length;
-  const total = perSlot * n;
+
+  const height =
+    headerHeight + topPad + n * cardHeight + (n - 1) * cardGap + bottomPad;
 
   const cards = projects
     .map((p, i) => {
-      const start = i / n;
-      const end = (i + 1) / n;
-      const fadeIn = start + (end - start) * fadeFrac;
-      const fadeOut = end - (end - start) * fadeFrac;
-      const keyTimes = [0, start, fadeIn, fadeOut, end, 1]
-        .map((t) => Math.min(1, Math.max(0, t)).toFixed(4))
-        .join(";");
-      const values = "0;0;1;1;0;0";
-
+      const cardY = headerHeight + topPad + i * (cardHeight + cardGap);
       const name = escapeXml(truncate(p.name, 30));
-      const descLines = wrapText(p.desc, 78, 2).map(escapeXml);
-      const techLine = escapeXml(truncate(p.tech, 78));
+      const descLines = wrapText(p.desc, 82, 2).map(escapeXml);
+      const techLine = escapeXml(truncate(p.tech, 82));
 
       const descTspans = descLines
         .map(
           (line, idx) =>
-            `<tspan x="60" dy="${idx === 0 ? 0 : 16}">${line}</tspan>`
+            `<tspan x="80" dy="${idx === 0 ? 0 : 16}">${line}</tspan>`
         )
         .join("");
 
       return `
-    <g opacity="0">
-      <animate attributeName="opacity" values="${values}" keyTimes="${keyTimes}" dur="${total}s" begin="0s" repeatCount="indefinite" />
-
-      <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="${total}s" begin="0s" repeatCount="indefinite" />
-      </rect>
-
-      <text x="60" y="95" class="proj-name">${name}</text>
-      <text y="120" class="proj-desc">${descTspans}</text>
-      <text x="60" y="160" class="proj-meta">${techLine}</text>
-      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    <g>
+      <rect x="55" y="${cardY}" width="690" height="${cardHeight}" rx="6" fill="#0d1117" fill-opacity="0.5" stroke="#0ff" stroke-opacity="0.3" stroke-width="1"/>
+      <rect x="55" y="${cardY}" width="4" height="${cardHeight}" fill="#0ff" opacity="0.8"/>
+      <text x="80" y="${cardY + 24}" class="proj-name">${name}</text>
+      <text y="${cardY + 44}" class="proj-desc">${descTspans}</text>
+      <text x="80" y="${cardY + 84}" class="proj-meta">${techLine}</text>
     </g>`;
-    })
-    .join("\n");
-
-  const dots = projects
-    .map((_, i) => {
-      const start = i / n;
-      const end = (i + 1) / n;
-      return `<circle cx="${60 + i * 22}" cy="200" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;${(
-          (start + end) /
-          2
-        ).toFixed(4)};1" dur="${total}s" begin="0s" repeatCount="indefinite" />
-      </circle>`;
     })
     .join("\n");
 
@@ -149,9 +124,9 @@ function buildSvg(projects, username) {
     </pattern>
     <style>
       .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #0ff; letter-spacing: 2px; }
-      .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 19px; fill: #e6f7ff; }
-      .proj-desc { font-family: 'Courier New', monospace; font-size: 12.5px; fill: #8b949e; }
-      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #7ee787; }
+      .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 17px; fill: #e6f7ff; }
+      .proj-desc { font-family: 'Courier New', monospace; font-size: 12px; fill: #8b949e; }
+      .proj-meta { font-family: 'Courier New', monospace; font-size: 11.5px; fill: #7ee787; }
       .footer { font-family: 'Courier New', monospace; font-size: 11px; fill: #484f58; }
     </style>
     <clipPath id="rounded"><rect width="${width}" height="${height}" rx="10" ry="10"/></clipPath>
@@ -161,7 +136,7 @@ function buildSvg(projects, username) {
     <rect width="${width}" height="${height}" fill="url(#bg)"/>
     <rect width="${width}" height="${height}" fill="url(#grid)"/>
 
-    <rect width="${width}" height="34" fill="#0d1117" fill-opacity="0.85"/>
+    <rect width="${width}" height="${headerHeight}" fill="#0d1117" fill-opacity="0.85"/>
     <circle cx="20" cy="17" r="5" fill="#ff5f56"/>
     <circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
     <circle cx="56" cy="17" r="5" fill="#27c93f"/>
@@ -172,9 +147,8 @@ function buildSvg(projects, username) {
     </rect>
 
     ${cards}
-    ${dots}
 
-    <text x="${width - 20}" y="${height - 10}" text-anchor="end" class="footer">auto-scanning repositories…</text>
+    <text x="${width - 20}" y="${height - 10}" text-anchor="end" class="footer">${n} project(s) tracked</text>
   </g>
 </svg>`;
 }
@@ -185,7 +159,7 @@ async function main() {
   const fs = await import("fs/promises");
   await fs.mkdir("dist", { recursive: true });
   await fs.writeFile("dist/projects.svg", svg, "utf-8");
-  console.log(`Generated projects.svg with ${PROJECTS.length} project(s).`);
+  console.log(`Generated projects.svg with ${PROJECTS.length} project(s), all shown statically.`);
 }
 
 main().catch((err) => {
