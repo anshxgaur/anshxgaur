@@ -389,3 +389,6 @@ flowchart LR
 </div>
 
 ![AI Dev Log](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/ai-status.svg)
+
+
+![Projects](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/projects.svg)
