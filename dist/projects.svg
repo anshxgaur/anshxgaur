@@ -10,8 +10,8 @@
     <style>
       .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #0ff; letter-spacing: 2px; }
       .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 19px; fill: #e6f7ff; }
-      .proj-desc { font-family: 'Courier New', monospace; font-size: 13px; fill: #8b949e; }
-      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+      .proj-desc { font-family: 'Courier New', monospace; font-size: 12.5px; fill: #8b949e; }
+      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #7ee787; }
       .footer { font-family: 'Courier New', monospace; font-size: 11px; fill: #484f58; }
     </style>
     <clipPath id="rounded"><rect width="760" height="220" rx="10" ry="10"/></clipPath>
@@ -33,108 +33,88 @@
 
     
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0000;0.0160;0.1840;0.2000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0000;0.0160;0.1840;0.2000;1.0000" dur="27.5s" begin="0s" repeatCount="indefinite" />
 
       <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">Nexus Workspace</text>
+      <text y="120" class="proj-desc"><tspan x="60" dy="0">Self-hosted AI-powered corporate workspace with team chat, meetings, live</tspan><tspan x="60" dy="16">transcription, RAG search, and task extraction.</tspan></text>
+      <text x="60" y="160" class="proj-meta">FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisp…</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2000;0.2160;0.3840;0.4000;1.0000" dur="27.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </rect>
 
       <text x="60" y="95" class="proj-name">VISTA</text>
-      <text x="60" y="122" class="proj-desc">DATA ANALYSIS INTELLIGENT SYSTEM YIELD</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> Python
-        <tspan dx="20" fill="#f0883e">★</tspan> 0
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text y="120" class="proj-desc"><tspan x="60" dy="0">Healthcare data intelligence system for EDA, disease prediction, risk</tspan><tspan x="60" dy="16">stratification, and clinical decision support.</tspan></text>
+      <text x="60" y="160" class="proj-meta">Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, ML pipel…</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
     </g>
 
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2000;0.2160;0.3840;0.4000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4000;0.4160;0.5840;0.6000;1.0000" dur="27.5s" begin="0s" repeatCount="indefinite" />
 
       <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </rect>
 
-      <text x="60" y="95" class="proj-name">F1</text>
-      <text x="60" y="122" class="proj-desc">No description provided.</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> TypeScript
-        <tspan dx="20" fill="#f0883e">★</tspan> 0
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text x="60" y="95" class="proj-name">NOVA</text>
+      <text y="120" class="proj-desc"><tspan x="60" dy="0">Personal AI assistant architecture focused on local inference, voice</tspan><tspan x="60" dy="16">interaction, security checks, and task orchestration.</tspan></text>
+      <text x="60" y="160" class="proj-meta">TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modu…</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
     </g>
 
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4000;0.4160;0.5840;0.6000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6000;0.6160;0.7840;0.8000;1.0000" dur="27.5s" begin="0s" repeatCount="indefinite" />
 
       <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </rect>
 
-      <text x="60" y="95" class="proj-name">nexus</text>
-      <text x="60" y="122" class="proj-desc">No description provided.</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> Python
-        <tspan dx="20" fill="#f0883e">★</tspan> 0
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text x="60" y="95" class="proj-name">F1 Data Analytics</text>
+      <text y="120" class="proj-desc"><tspan x="60" dy="0">Formula 1 analytics platform for tire degradation, pit-window reasoning, and</tspan><tspan x="60" dy="16">driver performance comparison.</tspan></text>
+      <text x="60" y="160" class="proj-meta">TypeScript, Next.js, data visualization, analytics dashboards, strategy model…</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
     </g>
 
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6000;0.6160;0.7840;0.8000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8000;0.8160;0.9840;1.0000;1.0000" dur="27.5s" begin="0s" repeatCount="indefinite" />
 
       <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </rect>
 
-      <text x="60" y="95" class="proj-name">HACKXTREME</text>
-      <text x="60" y="122" class="proj-desc">No description provided.</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> TypeScript
-        <tspan dx="20" fill="#f0883e">★</tspan> 0
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> 2
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text x="60" y="95" class="proj-name">ASTRA</text>
+      <text y="120" class="proj-desc"><tspan x="60" dy="0">AI-powered unified search platform merging 1,000 resumes, 20 research papers,</tspan><tspan x="60" dy="16">and 6 fragmented data sources into one semantic search + RAG Q&amp;A portal.</tspan></text>
+      <text x="60" y="160" class="proj-meta">FastAPI, PostgreSQL + pgvector, fastembed, Groq LLM (text-to-SQL + RAG), Dock…</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
     </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8000;0.8160;0.9840;1.0000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
-
-      <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
-        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
-      </rect>
-
-      <text x="60" y="95" class="proj-name">PROJECT-X</text>
-      <text x="60" y="122" class="proj-desc">No description provided.</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> Python
-        <tspan dx="20" fill="#f0883e">★</tspan> 0
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
-    </g>
-    <circle cx="60" cy="190" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.1000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+    <circle cx="60" cy="200" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.1000;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </circle>
-<circle cx="82" cy="190" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.3000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+<circle cx="82" cy="200" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.3000;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </circle>
-<circle cx="104" cy="190" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.5000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+<circle cx="104" cy="200" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.5000;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </circle>
-<circle cx="126" cy="190" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.7000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+<circle cx="126" cy="200" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.7000;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </circle>
-<circle cx="148" cy="190" r="4" fill="#30363d">
-        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.9000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+<circle cx="148" cy="200" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.9000;1" dur="27.5s" begin="0s" repeatCount="indefinite" />
       </circle>
 
     <text x="740" y="210" text-anchor="end" class="footer">auto-scanning repositories…</text>
