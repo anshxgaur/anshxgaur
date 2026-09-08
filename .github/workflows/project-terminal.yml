@@ -2,29 +2,63 @@ name: Generate Project Terminal
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "0 3 * * *"   # refreshes daily at 3:00 AM UTC (pinned repos rarely change)
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  generate:
+
+  generate-and-deploy:
+
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    timeout-minutes: 5
+    timeout-minutes: 10
+
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate project showcase SVG
-        env:
-          GITHUB_USER_NAME: ${{ github.actor }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/generate-projects.mjs
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: Commit and push generated SVG
+      - name: Generate project showcase
+        env:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
         run: |
+          node scripts/generate-projects.mjs
+
+      - name: Commit generated files
+        run: |
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add dist/projects.svg
-          git diff --staged --quiet || git commit -m "Update project terminal"
+          git add dist/index.html
+
+          git diff --staged --quiet || \
+            git commit -m "Update project architecture"
+
           git push
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
