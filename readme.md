@@ -387,3 +387,5 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0D1117" alt="Footer wave" />
 
 </div>
+
+![AI Dev Log](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/ai-status.svg)
