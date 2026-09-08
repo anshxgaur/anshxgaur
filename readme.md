@@ -63,7 +63,6 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/pacman-contribution-graph.svg">
 </picture>
 
-![GitWorld](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/gitworld.svg)
 
 
 ## 🛠️ What I Build
