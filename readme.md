@@ -1,3 +1,6 @@
+![GitWorld](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/gitworld.svg)
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Ansh%20Gaur&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descAlign=50&color=0:0D1117,50:111827,100:00D9FF&fontColor=FFFFFF&descColor=9EEBFF" alt="Ansh Gaur profile header" width="100%"/>
