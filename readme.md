@@ -139,14 +139,7 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <img src="https://streak-stats.demolab.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D6E3" alt="Ansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D6E3" alt="Top languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution activity graph" />
-</p>
 
 
 <!-- CERTIFICATES-AND-HACKATHONS-START -->
