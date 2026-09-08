@@ -1,0 +1,142 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#0ff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <style>
+      .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #0ff; letter-spacing: 2px; }
+      .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 19px; fill: #e6f7ff; }
+      .proj-desc { font-family: 'Courier New', monospace; font-size: 13px; fill: #8b949e; }
+      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+      .footer { font-family: 'Courier New', monospace; font-size: 11px; fill: #484f58; }
+    </style>
+    <clipPath id="rounded"><rect width="760" height="220" rx="10" ry="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="760" height="220" fill="url(#bg)"/>
+    <rect width="760" height="220" fill="url(#grid)"/>
+
+    <rect width="760" height="34" fill="#0d1117" fill-opacity="0.85"/>
+    <circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+    <circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+    <circle cx="56" cy="17" r="5" fill="#27c93f"/>
+    <text x="380" y="22" text-anchor="middle" class="title">PROJECTS.SYS — anshxgaur</text>
+
+    <rect x="0" y="0" width="760" height="2" fill="#0ff" opacity="0.5">
+      <animate attributeName="y" values="34;220;34" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0000;0.0160;0.1840;0.2000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">VISTA</text>
+      <text x="60" y="122" class="proj-desc">DATA ANALYSIS INTELLIGENT SYSTEM YIELD</text>
+      <text x="60" y="150" class="proj-meta">
+        <tspan fill="#7ee787">●</tspan> Python
+        <tspan dx="20" fill="#f0883e">★</tspan> 0
+        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
+      </text>
+      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2000;0.2160;0.3840;0.4000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">F1</text>
+      <text x="60" y="122" class="proj-desc">No description provided.</text>
+      <text x="60" y="150" class="proj-meta">
+        <tspan fill="#7ee787">●</tspan> TypeScript
+        <tspan dx="20" fill="#f0883e">★</tspan> 0
+        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
+      </text>
+      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4000;0.4160;0.5840;0.6000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">nexus</text>
+      <text x="60" y="122" class="proj-desc">No description provided.</text>
+      <text x="60" y="150" class="proj-meta">
+        <tspan fill="#7ee787">●</tspan> Python
+        <tspan dx="20" fill="#f0883e">★</tspan> 0
+        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
+      </text>
+      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6000;0.6160;0.7840;0.8000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">HACKXTREME</text>
+      <text x="60" y="122" class="proj-desc">No description provided.</text>
+      <text x="60" y="150" class="proj-meta">
+        <tspan fill="#7ee787">●</tspan> TypeScript
+        <tspan dx="20" fill="#f0883e">★</tspan> 0
+        <tspan dx="20" fill="#79c0ff">⑂</tspan> 2
+      </text>
+      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8000;0.8160;0.9840;1.0000;1.0000" dur="22.5s" begin="0s" repeatCount="indefinite" />
+
+      <!-- glitch scan-in bar -->
+      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+        <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </rect>
+
+      <text x="60" y="95" class="proj-name">PROJECT-X</text>
+      <text x="60" y="122" class="proj-desc">No description provided.</text>
+      <text x="60" y="150" class="proj-meta">
+        <tspan fill="#7ee787">●</tspan> Python
+        <tspan dx="20" fill="#f0883e">★</tspan> 0
+        <tspan dx="20" fill="#79c0ff">⑂</tspan> 0
+      </text>
+      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+    <circle cx="60" cy="190" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.1000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </circle>
+<circle cx="82" cy="190" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.3000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </circle>
+<circle cx="104" cy="190" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.5000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </circle>
+<circle cx="126" cy="190" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.7000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </circle>
+<circle cx="148" cy="190" r="4" fill="#30363d">
+        <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;0.9000;1" dur="22.5s" begin="0s" repeatCount="indefinite" />
+      </circle>
+
+    <text x="740" y="210" text-anchor="end" class="footer">auto-scanning repositories…</text>
+  </g>
+</svg>
