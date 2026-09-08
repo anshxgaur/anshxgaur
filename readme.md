@@ -55,6 +55,13 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🛠️ What I Build
 
 <table>
