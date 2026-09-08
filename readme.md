@@ -148,15 +148,6 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution activity graph" />
 </p>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
 
 <!-- CERTIFICATES-AND-HACKATHONS-START -->
 ## 🏆 Hackathons & Certifications
