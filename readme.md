@@ -145,10 +145,6 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
 <!-- CERTIFICATES-AND-HACKATHONS-START -->
 ## 🏆 Hackathons & Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20GenAI-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
-  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
-</p>
 
 ### 🚀 Hackathons
 
