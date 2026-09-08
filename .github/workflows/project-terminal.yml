@@ -11,23 +11,37 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
-
   generate-and-deploy:
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    steps:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
+    steps:
+      # --------------------------------------------------
+      # Checkout
+      # --------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # --------------------------------------------------
+      # Node.js
+      # --------------------------------------------------
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # --------------------------------------------------
+      # Generate project SVG
+      # --------------------------------------------------
       - name: Generate project showcase
         env:
           GITHUB_USER_NAME: ${{ github.repository_owner }}
@@ -37,28 +51,41 @@ jobs:
         run: |
           node scripts/generate-projects.mjs
 
+      # --------------------------------------------------
+      # Commit generated files back to repository
+      # --------------------------------------------------
       - name: Commit generated files
         run: |
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add dist/projects.svg
           git add dist/index.html
 
-          git diff --staged --quiet || \
+          if git diff --staged --quiet; then
+            echo "No generated files changed."
+          else
             git commit -m "Update project architecture"
+            git push
+          fi
 
-          git push
-
+      # --------------------------------------------------
+      # Configure GitHub Pages
+      # --------------------------------------------------
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
+      # --------------------------------------------------
+      # Upload dist/ as Pages artifact
+      # --------------------------------------------------
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
+      # --------------------------------------------------
+      # Deploy
+      # --------------------------------------------------
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
