@@ -1,0 +1,31 @@
+name: Generate AI Dev Log
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"   # runs daily at 6:00 AM UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate status line with Groq
+        env:
+          GITHUB_USER_NAME: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/generate-status.mjs
+
+      - name: Commit and push generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/ai-status.svg
+          git diff --staged --quiet || git commit -m "Update AI dev log"
+          git push
