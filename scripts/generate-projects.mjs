@@ -1,71 +1,40 @@
 // scripts/generate-projects.mjs
-// Fetches the user's pinned repos and renders them as a cycling,
+// Renders a curated list of projects as a cycling,
 // futuristic "terminal scanner" animated SVG.
 
-const GITHUB_USER = process.env.GITHUB_USER_NAME;
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_USER = process.env.GITHUB_USER_NAME || "anshxgaur";
 
-async function fetchPinnedRepos(username) {
-  const query = `
-    query($login: String!) {
-      user(login: $login) {
-        pinnedItems(first: 6, types: REPOSITORY) {
-          nodes {
-            ... on Repository {
-              name
-              description
-              primaryLanguage { name color }
-              stargazerCount
-              forkCount
-            }
-          }
-        }
-      }
-    }
-  `;
-
-  const res = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${GITHUB_TOKEN}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ query, variables: { login: username } }),
-  });
-
-  if (!res.ok) throw new Error(`GitHub GraphQL error: ${res.status}`);
-  const json = await res.json();
-  if (json.errors) throw new Error(JSON.stringify(json.errors));
-
-  const nodes = json.data?.user?.pinnedItems?.nodes ?? [];
-  if (nodes.length === 0) {
-    const restRes = await fetch(
-      `https://api.github.com/users/${username}/repos?sort=stars&direction=desc&per_page=6`,
-      {
-        headers: {
-          Authorization: `Bearer ${GITHUB_TOKEN}`,
-          Accept: "application/vnd.github+json",
-        },
-      }
-    );
-    const repos = await restRes.json();
-    return repos.slice(0, 5).map((r) => ({
-      name: r.name,
-      description: r.description || "No description provided.",
-      language: r.language || "Code",
-      stars: r.stargazers_count || 0,
-      forks: r.forks_count || 0,
-    }));
-  }
-
-  return nodes.map((n) => ({
-    name: n.name,
-    description: n.description || "No description provided.",
-    language: n.primaryLanguage?.name || "Code",
-    stars: n.stargazerCount || 0,
-    forks: n.forkCount || 0,
-  }));
-}
+// ---- Your project data lives here ----
+// Edit this array whenever you want to add/update/remove a project.
+// "desc"  -> shown as the main description line ("what it solves")
+// "tech"  -> shown as the tech/stack line
+const PROJECTS = [
+  {
+    name: "Nexus Workspace",
+    desc: "Self-hosted AI-powered corporate workspace with team chat, meetings, live transcription, RAG search, and task extraction.",
+    tech: "FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisper, LiveKit, Ollama, WebSockets",
+  },
+  {
+    name: "VISTA",
+    desc: "Healthcare data intelligence system for EDA, disease prediction, risk stratification, and clinical decision support.",
+    tech: "Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, ML pipelines",
+  },
+  {
+    name: "NOVA",
+    desc: "Personal AI assistant architecture focused on local inference, voice interaction, security checks, and task orchestration.",
+    tech: "TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modular orchestration",
+  },
+  {
+    name: "F1 Data Analytics",
+    desc: "Formula 1 analytics platform for tire degradation, pit-window reasoning, and driver performance comparison.",
+    tech: "TypeScript, Next.js, data visualization, analytics dashboards, strategy modeling",
+  },
+  {
+    name: "ASTRA",
+    desc: "AI-powered unified search platform merging 1,000 resumes, 20 research papers, and 6 fragmented data sources into one semantic search + RAG Q&A portal.",
+    tech: "FastAPI, PostgreSQL + pgvector, fastembed, Groq LLM (text-to-SQL + RAG), Docker",
+  },
+];
 
 function escapeXml(str) {
   return String(str)
@@ -80,10 +49,39 @@ function truncate(str, max) {
   return str.slice(0, max - 1).trimEnd() + "…";
 }
 
+function wrapText(str, maxCharsPerLine, maxLines) {
+  const words = str.split(" ");
+  const lines = [];
+  let current = "";
+
+  for (const word of words) {
+    const candidate = current ? `${current} ${word}` : word;
+    if (candidate.length > maxCharsPerLine) {
+      if (current) lines.push(current);
+      current = word;
+    } else {
+      current = candidate;
+    }
+    if (lines.length === maxLines) break;
+  }
+  if (lines.length < maxLines && current) lines.push(current);
+
+  if (lines.length === maxLines) {
+    const last = lines[maxLines - 1];
+    if (last.length > maxCharsPerLine - 1) {
+      lines[maxLines - 1] = truncate(last, maxCharsPerLine);
+    } else if (words.join(" ").length > lines.join(" ").length) {
+      lines[maxLines - 1] = truncate(last + "…", maxCharsPerLine);
+    }
+  }
+
+  return lines;
+}
+
 function buildSvg(projects, username) {
   const width = 760;
   const height = 220;
-  const perSlot = 4.5;
+  const perSlot = 5.5;
   const fadeFrac = 0.08;
   const n = projects.length;
   const total = perSlot * n;
@@ -99,27 +97,30 @@ function buildSvg(projects, username) {
         .join(";");
       const values = "0;0;1;1;0;0";
 
-      const name = escapeXml(truncate(p.name, 28));
-      const desc = escapeXml(truncate(p.description, 64));
-      const lang = escapeXml(p.language);
+      const name = escapeXml(truncate(p.name, 30));
+      const descLines = wrapText(p.desc, 78, 2).map(escapeXml);
+      const techLine = escapeXml(truncate(p.tech, 78));
+
+      const descTspans = descLines
+        .map(
+          (line, idx) =>
+            `<tspan x="60" dy="${idx === 0 ? 0 : 16}">${line}</tspan>`
+        )
+        .join("");
 
       return `
     <g opacity="0">
       <animate attributeName="opacity" values="${values}" keyTimes="${keyTimes}" dur="${total}s" begin="0s" repeatCount="indefinite" />
 
       <!-- glitch scan-in bar -->
-      <rect x="40" y="70" width="4" height="90" fill="#0ff" opacity="0.8">
+      <rect x="40" y="70" width="4" height="105" fill="#0ff" opacity="0.8">
         <animate attributeName="x" values="40;660;660" keyTimes="0;0.15;1" dur="${total}s" begin="0s" repeatCount="indefinite" />
       </rect>
 
       <text x="60" y="95" class="proj-name">${name}</text>
-      <text x="60" y="122" class="proj-desc">${desc}</text>
-      <text x="60" y="150" class="proj-meta">
-        <tspan fill="#7ee787">●</tspan> ${lang}
-        <tspan dx="20" fill="#f0883e">★</tspan> ${p.stars}
-        <tspan dx="20" fill="#79c0ff">⑂</tspan> ${p.forks}
-      </text>
-      <rect x="55" y="65" width="650" height="100" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text y="120" class="proj-desc">${descTspans}</text>
+      <text x="60" y="160" class="proj-meta">${techLine}</text>
+      <rect x="55" y="65" width="650" height="115" rx="6" fill="none" stroke="#0ff" stroke-opacity="0.35" stroke-width="1"/>
     </g>`;
     })
     .join("\n");
@@ -128,7 +129,7 @@ function buildSvg(projects, username) {
     .map((_, i) => {
       const start = i / n;
       const end = (i + 1) / n;
-      return `<circle cx="${60 + i * 22}" cy="190" r="4" fill="#30363d">
+      return `<circle cx="${60 + i * 22}" cy="200" r="4" fill="#30363d">
         <animate attributeName="fill" values="#30363d;#0ff;#30363d" keyTimes="0;${(
           (start + end) /
           2
@@ -149,8 +150,8 @@ function buildSvg(projects, username) {
     <style>
       .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #0ff; letter-spacing: 2px; }
       .proj-name { font-family: 'Courier New', monospace; font-weight: bold; font-size: 19px; fill: #e6f7ff; }
-      .proj-desc { font-family: 'Courier New', monospace; font-size: 13px; fill: #8b949e; }
-      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+      .proj-desc { font-family: 'Courier New', monospace; font-size: 12.5px; fill: #8b949e; }
+      .proj-meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #7ee787; }
       .footer { font-family: 'Courier New', monospace; font-size: 11px; fill: #484f58; }
     </style>
     <clipPath id="rounded"><rect width="${width}" height="${height}" rx="10" ry="10"/></clipPath>
@@ -179,19 +180,12 @@ function buildSvg(projects, username) {
 }
 
 async function main() {
-  if (!GITHUB_USER || !GITHUB_TOKEN) {
-    throw new Error("Missing required env vars: GITHUB_USER_NAME, GITHUB_TOKEN");
-  }
-  const projects = await fetchPinnedRepos(GITHUB_USER);
-  if (projects.length === 0) {
-    throw new Error("No repositories found to display.");
-  }
-  const svg = buildSvg(projects, GITHUB_USER);
+  const svg = buildSvg(PROJECTS, GITHUB_USER);
 
   const fs = await import("fs/promises");
   await fs.mkdir("dist", { recursive: true });
   await fs.writeFile("dist/projects.svg", svg, "utf-8");
-  console.log(`Generated projects.svg with ${projects.length} project(s).`);
+  console.log(`Generated projects.svg with ${PROJECTS.length} project(s).`);
 }
 
 main().catch((err) => {
