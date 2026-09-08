@@ -1,6 +1,3 @@
-![GitWorld](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/gitworld.svg)
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Ansh%20Gaur&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descAlign=50&color=0:0D1117,50:111827,100:00D9FF&fontColor=FFFFFF&descColor=9EEBFF" alt="Ansh Gaur profile header" width="100%"/>
@@ -64,6 +61,9 @@ My current focus is becoming internship-ready for **AI/ML Engineering, Data Scie
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/pacman-contribution-graph.svg">
 </picture>
+
+![GitWorld](https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/dist/gitworld.svg)
+
 
 ## 🛠️ What I Build
 
