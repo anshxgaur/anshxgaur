@@ -1,0 +1,34 @@
+<svg width="760" height="130" viewBox="0 0 760 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .term-bg { fill: #0d1117; }
+      .term-bar { fill: #161b22; }
+      .dot { }
+      .prompt { font-family: 'Courier New', monospace; font-size: 15px; fill: #58a6ff; }
+      .path { font-family: 'Courier New', monospace; font-size: 15px; fill: #7ee787; }
+      .status { font-family: 'Courier New', monospace; font-size: 15px; fill: #c9d1d9; }
+      .date { font-family: 'Courier New', monospace; font-size: 12px; fill: #6e7681; }
+      .cursor { fill: #7ee787; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="760" height="130" rx="10" ry="10" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect class="term-bg" width="760" height="130" />
+    <rect class="term-bar" width="760" height="30" />
+    <circle class="dot" cx="18" cy="15" r="6" fill="#ff5f56" />
+    <circle class="dot" cx="38" cy="15" r="6" fill="#ffbd2e" />
+    <circle class="dot" cx="58" cy="15" r="6" fill="#27c93f" />
+    <text x="380" y="20" text-anchor="middle" class="date">daily-status.sh</text>
+
+    <text x="20" y="62" class="prompt">➜ <tspan class="path">~/anshxgaur</tspan></text>
+    <text x="20" y="90" class="status">
+      <tspan>Quietly shipping something. Stay tuned.</tspan>
+      <tspan class="cursor">▍</tspan>
+    </text>
+    <text x="20" y="115" class="date">last updated: 2026-09-12 10:20 UTC</text>
+  </g>
+</svg>
