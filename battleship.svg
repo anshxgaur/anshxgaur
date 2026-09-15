@@ -1,44 +1,473 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="220" viewBox="0 0 500 220">
-  <rect width="500" height="220" rx="15" fill="#0d1117"/>
-  
-  <text x="250" y="40"
-        text-anchor="middle"
-        fill="#ffffff"
-        font-size="24"
-        font-family="Arial"
-        font-weight="bold">
-    ⚔️ GITHUB BATTLESHIP
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="500"
+viewBox="0 0 900 500">
 
-  <text x="250" y="75"
-        text-anchor="middle"
-        fill="#d2a8ff"
-        font-size="20"
-        font-family="Arial"
-        font-weight="bold">
-    Heavy Cruiser 🚀
-  </text>
+<defs>
 
-  <text x="45" y="115"
-        fill="#8b949e"
-        font-size="14"
-        font-family="Arial">
-    HULL STRENGTH
-  </text>
+  <!-- Sky -->
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#020617"/>
+    <stop offset="60%" stop-color="#0f2740"/>
+    <stop offset="100%" stop-color="#164e63"/>
+  </linearGradient>
 
-  <rect x="45" y="130" width="410" height="25"
-        rx="12"
-        fill="#21262d"/>
+  <!-- Ocean -->
+  <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#075985"/>
+    <stop offset="50%" stop-color="#064e6b"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </linearGradient>
 
-  <rect x="45" y="130" width="295.2" height="25"
-        rx="12"
-        fill="#d2a8ff"/>
+  <!-- Ship -->
+  <linearGradient id="shipBody" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#475569"/>
+    <stop offset="50%" stop-color="#1e293b"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </linearGradient>
 
-  <text x="250" y="180"
-        text-anchor="middle"
-        fill="#ffffff"
-        font-size="15"
-        font-family="Arial">
-    21 repositories • 10 followers • Hull: 360
-  </text>
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+
+<!-- ===================== -->
+<!-- SKY -->
+<!-- ===================== -->
+
+<rect width="900" height="500" fill="url(#sky)"/>
+
+
+<!-- MOON -->
+
+<circle
+  cx="760"
+  cy="90"
+  r="42"
+  fill="#f8fafc"
+  opacity="0.9"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="778"
+  cy="78"
+  r="42"
+  fill="#020617"
+/>
+
+
+<!-- STARS -->
+
+<g fill="#ffffff" opacity="0.8">
+
+  <circle cx="80" cy="70" r="2"/>
+  <circle cx="150" cy="110" r="1.5"/>
+  <circle cx="230" cy="55" r="2"/>
+  <circle cx="330" cy="95" r="1.5"/>
+  <circle cx="430" cy="45" r="2"/>
+  <circle cx="540" cy="85" r="1.5"/>
+  <circle cx="650" cy="50" r="2"/>
+  <circle cx="850" cy="130" r="1.5"/>
+
+</g>
+
+
+<!-- ===================== -->
+<!-- DISTANT HORIZON -->
+<!-- ===================== -->
+
+<path
+  d="M0 210
+     Q120 195 240 210
+     T480 210
+     T720 210
+     T900 210
+     L900 500
+     L0 500 Z"
+  fill="url(#ocean)"
+/>
+
+
+<!-- ===================== -->
+<!-- OCEAN WAVES -->
+<!-- ===================== -->
+
+<g fill="none"
+   stroke="#38bdf8"
+   stroke-width="3"
+   opacity="0.35">
+
+  <path d="M0 300 Q80 275 160 300 T320 300 T480 300 T640 300 T800 300 T960 300"/>
+
+  <path d="M0 350 Q100 325 200 350 T400 350 T600 350 T800 350 T1000 350"/>
+
+  <path d="M0 420 Q100 395 200 420 T400 420 T600 420 T800 420 T1000 420"/>
+
+  <path d="M0 470 Q100 445 200 470 T400 470 T600 470 T800 470 T1000 470"/>
+
+</g>
+
+
+<!-- ===================== -->
+<!-- BATTLESHIP -->
+<!-- ===================== -->
+
+<!-- Main Hull -->
+
+<path
+  d="M155 310
+     L720 310
+     L785 345
+     L705 375
+     L240 375
+     L155 340
+     Z"
+  fill="url(#shipBody)"
+  stroke="#94a3b8"
+  stroke-width="3"
+/>
+
+
+<!-- Red Bottom Hull -->
+
+<path
+  d="M190 350
+     L745 350
+     L705 375
+     L240 375
+     Z"
+  fill="#7f1d1d"
+  opacity="0.85"
+/>
+
+
+<!-- Main Deck -->
+
+<path
+  d="M205 310
+     L275 270
+     L650 270
+     L720 310
+     Z"
+  fill="#334155"
+  stroke="#94a3b8"
+  stroke-width="2"
+/>
+
+
+<!-- ===================== -->
+<!-- SUPERSTRUCTURE -->
+<!-- ===================== -->
+
+<rect
+  x="350"
+  y="210"
+  width="170"
+  height="60"
+  rx="4"
+  fill="#1e293b"
+  stroke="#94a3b8"
+  stroke-width="2"
+/>
+
+<!-- Bridge -->
+
+<path
+  d="M380 210 L400 175 L475 175 L500 210 Z"
+  fill="#334155"
+  stroke="#cbd5e1"
+  stroke-width="2"
+/>
+
+<!-- Windows -->
+
+<g fill="#38bdf8">
+
+  <rect x="405" y="185" width="12" height="8"/>
+  <rect x="425" y="185" width="12" height="8"/>
+  <rect x="445" y="185" width="12" height="8"/>
+  <rect x="465" y="185" width="12" height="8"/>
+
+</g>
+
+
+<!-- Radar Tower -->
+
+<line
+  x1="438"
+  y1="175"
+  x2="438"
+  y2="120"
+  stroke="#cbd5e1"
+  stroke-width="4"
+/>
+
+<line
+  x1="420"
+  y1="140"
+  x2="456"
+  y2="140"
+  stroke="#cbd5e1"
+  stroke-width="3"
+/>
+
+<circle
+  cx="438"
+  cy="118"
+  r="8"
+  fill="none"
+  stroke="#38bdf8"
+  stroke-width="3"
+/>
+
+
+<!-- ===================== -->
+<!-- GUN TURRETS -->
+<!-- ===================== -->
+
+<!-- Rear turret -->
+
+<circle
+  cx="290"
+  cy="292"
+  r="22"
+  fill="#1e293b"
+  stroke="#94a3b8"
+  stroke-width="3"
+/>
+
+<line
+  x1="290"
+  y1="292"
+  x2="245"
+  y2="265"
+  stroke="#cbd5e1"
+  stroke-width="8"
+/>
+
+<line
+  x1="290"
+  y1="292"
+  x2="250"
+  y2="285"
+  stroke="#cbd5e1"
+  stroke-width="8"
+/>
+
+
+<!-- Front turret -->
+
+<circle
+  cx="600"
+  cy="292"
+  r="25"
+  fill="#1e293b"
+  stroke="#94a3b8"
+  stroke-width="3"
+/>
+
+<line
+  x1="600"
+  y1="292"
+  x2="655"
+  y2="265"
+  stroke="#cbd5e1"
+  stroke-width="9"
+/>
+
+<line
+  x1="600"
+  y1="292"
+  x2="660"
+  y2="285"
+  stroke="#cbd5e1"
+  stroke-width="9"
+/>
+
+
+<!-- ===================== -->
+<!-- FLAG -->
+<!-- ===================== -->
+
+<line
+  x1="520"
+  y1="210"
+  x2="520"
+  y2="150"
+  stroke="#cbd5e1"
+  stroke-width="3"
+/>
+
+<path
+  d="M520 150 L565 160 L520 170 Z"
+  fill="#d2a8ff"
+/>
+
+
+<!-- ===================== -->
+<!-- SHIP WAKE -->
+<!-- ===================== -->
+
+<path
+  d="M150 355
+     Q100 370 50 350
+     Q100 395 180 385
+     Q230 375 270 370"
+  fill="none"
+  stroke="#bae6fd"
+  stroke-width="8"
+  opacity="0.6"
+/>
+
+<path
+  d="M700 370
+     Q760 390 850 370"
+  fill="none"
+  stroke="#bae6fd"
+  stroke-width="5"
+  opacity="0.5"
+/>
+
+
+<!-- ===================== -->
+<!-- TITLE -->
+<!-- ===================== -->
+
+<text
+  x="35"
+  y="45"
+  fill="#ffffff"
+  font-family="Arial, sans-serif"
+  font-size="25"
+  font-weight="bold">
+  ⚔ GITHUB BATTLESHIP
+</text>
+
+<text
+  x="35"
+  y="72"
+  fill="#d2a8ff"
+  font-family="Arial, sans-serif"
+  font-size="17"
+  font-weight="bold">
+  HEAVY BATTLESHIP
+</text>
+
+
+<!-- ===================== -->
+<!-- STATUS PANEL -->
+<!-- ===================== -->
+
+<rect
+  x="35"
+  y="105"
+  width="250"
+  height="95"
+  rx="10"
+  fill="#020617"
+  opacity="0.8"
+  stroke="#334155"
+/>
+
+<text
+  x="55"
+  y="132"
+  fill="#94a3b8"
+  font-family="Arial, sans-serif"
+  font-size="13">
+  COMMANDER
+</text>
+
+<text
+  x="55"
+  y="153"
+  fill="#ffffff"
+  font-family="Arial, sans-serif"
+  font-size="17"
+  font-weight="bold">
+  anshxgaur
+</text>
+
+<text
+  x="55"
+  y="178"
+  fill="#38bdf8"
+  font-family="Arial, sans-serif"
+  font-size="13">
+  21 REPOSITORIES
+</text>
+
+<text
+  x="180"
+  y="178"
+  fill="#c084fc"
+  font-family="Arial, sans-serif"
+  font-size="13">
+  10 FOLLOWERS
+</text>
+
+
+<!-- ===================== -->
+<!-- HULL STATUS -->
+<!-- ===================== -->
+
+<text
+  x="35"
+  y="450"
+  fill="#94a3b8"
+  font-family="Arial, sans-serif"
+  font-size="12">
+  HULL STRENGTH
+</text>
+
+<rect
+  x="35"
+  y="460"
+  width="250"
+  height="12"
+  rx="6"
+  fill="#1e293b"
+/>
+
+<rect
+  x="35"
+  y="460"
+  width="180"
+  height="12"
+  rx="6"
+  fill="#d2a8ff"
+/>
+
+<text
+  x="300"
+  y="471"
+  fill="#ffffff"
+  font-family="Arial, sans-serif"
+  font-size="13">
+  360 HP
+</text>
+
+
+<!-- ===================== -->
+<!-- OCEAN LABEL -->
+<!-- ===================== -->
+
+<text
+  x="850"
+  y="455"
+  text-anchor="end"
+  fill="#7dd3fc"
+  font-family="Arial, sans-serif"
+  font-size="12">
+  ACTIVE • PATROLLING
+</text>
+
 </svg>
