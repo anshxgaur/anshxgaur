@@ -1,5 +1,7 @@
+## ⚔️ GitHub Battleship
+
 <p align="center">
-  <img src="./battleship.svg" alt="GitHub Battleship">
+  <img src="./battleship.svg" width="900" alt="GitHub Battleship">
 </p>
 
 ## 🚀 Orbital Command Center
