@@ -1,3 +1,8 @@
+## 🚀 Orbital Command Center
+
+Welcome to my developer port! My current ship class and hull armor are calculated dynamically based on my live GitHub repository and follower data. 
+*(Fleet status is updated automatically every midnight via GitHub Actions).*
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Ansh%20Gaur&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descAlign=50&color=0:0D1117,50:111827,100:00D9FF&fontColor=FFFFFF&descColor=9EEBFF" alt="Ansh Gaur profile header" width="100%"/>
