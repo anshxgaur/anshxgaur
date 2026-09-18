@@ -1,7 +1,3 @@
-## 🚀 Orbital Command Center
-
-Welcome to my developer port! My current ship class and hull armor are calculated dynamically based on my live GitHub repository and follower data. 
-*(Fleet status is updated automatically every midnight via GitHub Actions).*
 
 <div align="center">
 
