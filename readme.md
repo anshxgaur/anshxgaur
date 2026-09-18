@@ -1,8 +1,3 @@
-## ⚔️ GitHub Battleship
-
-<p align="center">
-  <img src="./battleship.png" width="900" alt="GitHub Battleship">
-</p>
 ## 🚀 Orbital Command Center
 
 Welcome to my developer port! My current ship class and hull armor are calculated dynamically based on my live GitHub repository and follower data. 
