@@ -1,0 +1,2466 @@
+
+<svg
+  width="900"
+  height="957"
+  viewBox="0 0 900 957"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1"
+    >
+      <stop
+        offset="0%"
+        stop-color="#050810"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#0B1018"
+      />
+    </linearGradient>
+
+    <!-- Subtle grid -->
+    <pattern
+      id="grid"
+      width="28"
+      height="28"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M 28 0 L 0 0 0 28"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-opacity="0.045"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <!-- Glow -->
+    <filter
+      id="softGlow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="3"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Typography -->
+    <style>
+
+      .terminal-title {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 14px;
+        font-weight: 700;
+
+        letter-spacing: 2px;
+
+        fill: #DDF8FF;
+      }
+
+      .terminal-subtitle {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 8px;
+
+        letter-spacing: 2px;
+
+        fill: #66717D;
+      }
+
+      .number {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 12px;
+
+        font-weight: 700;
+      }
+
+      .project-name {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 19px;
+
+        font-weight: 700;
+
+        fill: #F2FAFF;
+      }
+
+      .subtitle {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 9px;
+
+        font-weight: 700;
+
+        letter-spacing: 1.5px;
+      }
+
+      .description {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 12px;
+
+        fill: #9AA6B2;
+      }
+
+      .section-label {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 8px;
+
+        font-weight: 700;
+
+        letter-spacing: 1.5px;
+      }
+
+      .architecture {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 9px;
+
+        font-weight: 600;
+
+        fill: #B9C4CF;
+      }
+
+      .tech {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 8.5px;
+
+        font-weight: 700;
+      }
+
+      .repo {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 8px;
+
+        font-weight: 700;
+
+        letter-spacing: 1px;
+      }
+
+      .footer {
+        font-family:
+          "Courier New",
+          Courier,
+          monospace;
+
+        font-size: 9px;
+
+        fill: #46515D;
+
+        letter-spacing: 1px;
+      }
+
+    </style>
+
+    <clipPath id="terminalClip">
+      <rect
+        width="900"
+        height="957"
+        rx="12"
+      />
+    </clipPath>
+
+  </defs>
+
+  <g clip-path="url(#terminalClip)">
+
+    <!-- Background -->
+    <rect
+      width="900"
+      height="957"
+      fill="url(#background)"
+    />
+
+    <rect
+      width="900"
+      height="957"
+      fill="url(#grid)"
+    />
+
+    <!-- Terminal header -->
+    <rect
+      width="900"
+      height="58"
+      fill="#080D14"
+      stroke="#00D9FF"
+      stroke-opacity="0.18"
+      stroke-width="1"
+    />
+
+    <!-- Terminal buttons -->
+    <circle
+      cx="20"
+      cy="19"
+      r="5"
+      fill="#FF5F56"
+    />
+
+    <circle
+      cx="38"
+      cy="19"
+      r="5"
+      fill="#FFBD2E"
+    />
+
+    <circle
+      cx="56"
+      cy="19"
+      r="5"
+      fill="#27C93F"
+    />
+
+    <!-- Header -->
+    <text
+      x="76"
+      y="22"
+      class="terminal-title"
+    >
+      PROJECTS.SYS — anshxgaur
+    </text>
+
+    <text
+      x="76"
+      y="38"
+      class="terminal-subtitle"
+    >
+      SYSTEM ARCHITECTURE / SELECT A PROJECT TO EXPLORE
+    </text>
+
+    <!-- Header status -->
+    <circle
+      cx="825"
+      cy="19"
+      r="3"
+      fill="#22C55E"
+      filter="url(#softGlow)"
+    />
+
+    <text
+      x="836"
+      y="22"
+      class="terminal-subtitle"
+    >
+      ONLINE
+    </text>
+
+    <!-- Project cards -->
+    
+    <g>
+
+      <!-- Card -->
+      <rect
+        x="34"
+        y="84"
+        width="407"
+        height="265"
+        rx="12"
+        fill="#0B1018"
+        stroke="#00D9FF"
+        stroke-opacity="0.38"
+        stroke-width="1.2"
+      />
+
+      <!-- Accent line -->
+      <rect
+        x="34"
+        y="84"
+        width="4"
+        height="265"
+        rx="2"
+        fill="#00D9FF"
+      />
+
+      <!-- Project number -->
+      <text
+        x="54"
+        y="112"
+        class="number"
+        fill="#00D9FF"
+      >
+        01
+      </text>
+
+      <!-- Project name -->
+      <text
+        x="85"
+        y="113"
+        class="project-name"
+      >
+        Nexus Workspace
+      </text>
+
+      <!-- Subtitle -->
+      <text
+        x="85"
+        y="132"
+        class="subtitle"
+        fill="#00D9FF"
+      >
+        AI CORPORATE WORKSPACE
+      </text>
+
+      <!-- Description -->
+      <text
+        x="54"
+        y="156"
+        class="description"
+      >
+        
+          <tspan
+            x="54"
+            dy="0"
+          >
+            Self-hosted AI-powered corporate workspace with
+          </tspan>
+        
+          <tspan
+            x="54"
+            dy="18"
+          >
+            team chat, meetings, live transcription, RAG
+          </tspan>
+        
+      </text>
+
+      <!-- Architecture label -->
+      <text
+        x="54"
+        y="177"
+        class="section-label"
+        fill="#00D9FF"
+      >
+        SYSTEM COMPONENTS
+      </text>
+
+      <!-- Architecture boxes -->
+      
+      <g>
+        <rect
+          x="54"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="202"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="74"
+          y="206"
+          class="architecture"
+        >
+          Team Chat
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="179.66666666666669"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="190.66666666666669"
+          cy="202"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="199.66666666666669"
+          y="206"
+          class="architecture"
+        >
+          Meetings
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="305.33333333333337"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="316.33333333333337"
+          cy="202"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="325.33333333333337"
+          y="206"
+          class="architecture"
+        >
+          Live Transcription
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="54"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="242"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="74"
+          y="246"
+          class="architecture"
+        >
+          RAG Search
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="179.66666666666669"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="190.66666666666669"
+          cy="242"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="199.66666666666669"
+          y="246"
+          class="architecture"
+        >
+          Task Extraction
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="305.33333333333337"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#00D9FF"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="316.33333333333337"
+          cy="242"
+          r="3"
+          fill="#00D9FF"
+        />
+
+        <text
+          x="325.33333333333337"
+          y="246"
+          class="architecture"
+        >
+          Real-time Gateway
+        </text>
+      </g>
+    
+
+      <!-- Tech pills -->
+      
+      <g>
+        <rect
+          x="54"
+          y="271"
+          width="67.4"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="87.7"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          FastAPI
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="129.4"
+          y="271"
+          width="55"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="156.9"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          React
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="192.4"
+          y="271"
+          width="55"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="219.9"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          Tauri
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="255.4"
+          y="271"
+          width="61.2"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="286"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          Qdrant
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="324.6"
+          y="271"
+          width="86"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="367.6"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          PostgreSQL
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="54"
+          y="301"
+          width="61.2"
+          height="22"
+          rx="11"
+          fill="#00D9FF"
+          fill-opacity="0.10"
+          stroke="#00D9FF"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="84.6"
+          y="316"
+          text-anchor="middle"
+          class="tech"
+          fill="#00D9FF"
+        >
+          Ollama
+        </text>
+      </g>
+    
+
+      <!-- Repository indicator -->
+      <text
+        x="421"
+        y="337"
+        text-anchor="end"
+        class="repo"
+        fill="#00D9FF"
+      >
+        OPEN REPOSITORY →
+      </text>
+
+    </g>
+  
+
+    <g>
+
+      <!-- Card -->
+      <rect
+        x="459"
+        y="84"
+        width="407"
+        height="265"
+        rx="12"
+        fill="#0B1018"
+        stroke="#8B5CF6"
+        stroke-opacity="0.38"
+        stroke-width="1.2"
+      />
+
+      <!-- Accent line -->
+      <rect
+        x="459"
+        y="84"
+        width="4"
+        height="265"
+        rx="2"
+        fill="#8B5CF6"
+      />
+
+      <!-- Project number -->
+      <text
+        x="479"
+        y="112"
+        class="number"
+        fill="#8B5CF6"
+      >
+        02
+      </text>
+
+      <!-- Project name -->
+      <text
+        x="510"
+        y="113"
+        class="project-name"
+      >
+        VISTA
+      </text>
+
+      <!-- Subtitle -->
+      <text
+        x="510"
+        y="132"
+        class="subtitle"
+        fill="#8B5CF6"
+      >
+        HEALTHCARE DATA INTELLIGENCE
+      </text>
+
+      <!-- Description -->
+      <text
+        x="479"
+        y="156"
+        class="description"
+      >
+        
+          <tspan
+            x="479"
+            dy="0"
+          >
+            Healthcare data intelligence system for EDA,
+          </tspan>
+        
+          <tspan
+            x="479"
+            dy="18"
+          >
+            disease prediction, risk stratification, and
+          </tspan>
+        
+      </text>
+
+      <!-- Architecture label -->
+      <text
+        x="479"
+        y="177"
+        class="section-label"
+        fill="#8B5CF6"
+      >
+        SYSTEM COMPONENTS
+      </text>
+
+      <!-- Architecture boxes -->
+      
+      <g>
+        <rect
+          x="479"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="490"
+          cy="202"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="499"
+          y="206"
+          class="architecture"
+        >
+          Healthcare Data
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="604.6666666666666"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="615.6666666666666"
+          cy="202"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="624.6666666666666"
+          y="206"
+          class="architecture"
+        >
+          Data Cleaning
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="730.3333333333334"
+          y="187"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="741.3333333333334"
+          cy="202"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="750.3333333333334"
+          y="206"
+          class="architecture"
+        >
+          EDA
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="479"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="490"
+          cy="242"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="499"
+          y="246"
+          class="architecture"
+        >
+          Feature Engineering
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="604.6666666666666"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="615.6666666666666"
+          cy="242"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="624.6666666666666"
+          y="246"
+          class="architecture"
+        >
+          ML Pipelines
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="730.3333333333334"
+          y="227"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#8B5CF6"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="741.3333333333334"
+          cy="242"
+          r="3"
+          fill="#8B5CF6"
+        />
+
+        <text
+          x="750.3333333333334"
+          y="246"
+          class="architecture"
+        >
+          Risk Stratification
+        </text>
+      </g>
+    
+
+      <!-- Tech pills -->
+      
+      <g>
+        <rect
+          x="479"
+          y="271"
+          width="61.2"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="509.6"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          Python
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="548.2"
+          y="271"
+          width="61.2"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="578.8000000000001"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          Pandas
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="617.4000000000001"
+          y="271"
+          width="55"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="644.9000000000001"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          NumPy
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="680.4000000000001"
+          y="271"
+          width="98.4"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="729.6000000000001"
+          y="286"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          Scikit-learn
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="479"
+          y="301"
+          width="79.80000000000001"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="518.9"
+          y="316"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          Streamlit
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="566.8"
+          y="301"
+          width="36.4"
+          height="22"
+          rx="11"
+          fill="#8B5CF6"
+          fill-opacity="0.10"
+          stroke="#8B5CF6"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="585"
+          y="316"
+          text-anchor="middle"
+          class="tech"
+          fill="#8B5CF6"
+        >
+          ML
+        </text>
+      </g>
+    
+
+      <!-- Repository indicator -->
+      <text
+        x="846"
+        y="337"
+        text-anchor="end"
+        class="repo"
+        fill="#8B5CF6"
+      >
+        OPEN REPOSITORY →
+      </text>
+
+    </g>
+  
+
+    <g>
+
+      <!-- Card -->
+      <rect
+        x="34"
+        y="367"
+        width="407"
+        height="265"
+        rx="12"
+        fill="#0B1018"
+        stroke="#FF7A00"
+        stroke-opacity="0.38"
+        stroke-width="1.2"
+      />
+
+      <!-- Accent line -->
+      <rect
+        x="34"
+        y="367"
+        width="4"
+        height="265"
+        rx="2"
+        fill="#FF7A00"
+      />
+
+      <!-- Project number -->
+      <text
+        x="54"
+        y="395"
+        class="number"
+        fill="#FF7A00"
+      >
+        03
+      </text>
+
+      <!-- Project name -->
+      <text
+        x="85"
+        y="396"
+        class="project-name"
+      >
+        NOVA
+      </text>
+
+      <!-- Subtitle -->
+      <text
+        x="85"
+        y="415"
+        class="subtitle"
+        fill="#FF7A00"
+      >
+        LOCAL AI ASSISTANT
+      </text>
+
+      <!-- Description -->
+      <text
+        x="54"
+        y="439"
+        class="description"
+      >
+        
+          <tspan
+            x="54"
+            dy="0"
+          >
+            Personal AI assistant architecture focused on local
+          </tspan>
+        
+          <tspan
+            x="54"
+            dy="18"
+          >
+            inference, voice interaction, security checks, and
+          </tspan>
+        
+      </text>
+
+      <!-- Architecture label -->
+      <text
+        x="54"
+        y="460"
+        class="section-label"
+        fill="#FF7A00"
+      >
+        SYSTEM COMPONENTS
+      </text>
+
+      <!-- Architecture boxes -->
+      
+      <g>
+        <rect
+          x="54"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="485"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="74"
+          y="489"
+          class="architecture"
+        >
+          Voice Input
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="179.66666666666669"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="190.66666666666669"
+          cy="485"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="199.66666666666669"
+          y="489"
+          class="architecture"
+        >
+          STT / TTS
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="305.33333333333337"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="316.33333333333337"
+          cy="485"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="325.33333333333337"
+          y="489"
+          class="architecture"
+        >
+          Security Layer
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="54"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="525"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="74"
+          y="529"
+          class="architecture"
+        >
+          Intent Router
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="179.66666666666669"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="190.66666666666669"
+          cy="525"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="199.66666666666669"
+          y="529"
+          class="architecture"
+        >
+          Task Agent
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="305.33333333333337"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#FF7A00"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="316.33333333333337"
+          cy="525"
+          r="3"
+          fill="#FF7A00"
+        />
+
+        <text
+          x="325.33333333333337"
+          y="529"
+          class="architecture"
+        >
+          Local LLM
+        </text>
+      </g>
+    
+
+      <!-- Tech pills -->
+      
+      <g>
+        <rect
+          x="54"
+          y="554"
+          width="86"
+          height="22"
+          rx="11"
+          fill="#FF7A00"
+          fill-opacity="0.10"
+          stroke="#FF7A00"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="97"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#FF7A00"
+        >
+          TypeScript
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="148"
+          y="554"
+          width="117"
+          height="22"
+          rx="11"
+          fill="#FF7A00"
+          fill-opacity="0.10"
+          stroke="#FF7A00"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="206.5"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#FF7A00"
+        >
+          AI Architecture
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="273"
+          y="554"
+          width="67.4"
+          height="22"
+          rx="11"
+          fill="#FF7A00"
+          fill-opacity="0.10"
+          stroke="#FF7A00"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="306.7"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#FF7A00"
+        >
+          STT/TTS
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="54"
+          y="584"
+          width="110.8"
+          height="22"
+          rx="11"
+          fill="#FF7A00"
+          fill-opacity="0.10"
+          stroke="#FF7A00"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="109.4"
+          y="599"
+          text-anchor="middle"
+          class="tech"
+          fill="#FF7A00"
+        >
+          Prompt Defense
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="172.8"
+          y="584"
+          width="73.6"
+          height="22"
+          rx="11"
+          fill="#FF7A00"
+          fill-opacity="0.10"
+          stroke="#FF7A00"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="209.60000000000002"
+          y="599"
+          text-anchor="middle"
+          class="tech"
+          fill="#FF7A00"
+        >
+          Local AI
+        </text>
+      </g>
+    
+
+      <!-- Repository indicator -->
+      <text
+        x="421"
+        y="620"
+        text-anchor="end"
+        class="repo"
+        fill="#FF7A00"
+      >
+        OPEN REPOSITORY →
+      </text>
+
+    </g>
+  
+
+    <g>
+
+      <!-- Card -->
+      <rect
+        x="459"
+        y="367"
+        width="407"
+        height="265"
+        rx="12"
+        fill="#0B1018"
+        stroke="#22C55E"
+        stroke-opacity="0.38"
+        stroke-width="1.2"
+      />
+
+      <!-- Accent line -->
+      <rect
+        x="459"
+        y="367"
+        width="4"
+        height="265"
+        rx="2"
+        fill="#22C55E"
+      />
+
+      <!-- Project number -->
+      <text
+        x="479"
+        y="395"
+        class="number"
+        fill="#22C55E"
+      >
+        04
+      </text>
+
+      <!-- Project name -->
+      <text
+        x="510"
+        y="396"
+        class="project-name"
+      >
+        F1 Data Analytics
+      </text>
+
+      <!-- Subtitle -->
+      <text
+        x="510"
+        y="415"
+        class="subtitle"
+        fill="#22C55E"
+      >
+        FORMULA 1 STRATEGY ENGINE
+      </text>
+
+      <!-- Description -->
+      <text
+        x="479"
+        y="439"
+        class="description"
+      >
+        
+          <tspan
+            x="479"
+            dy="0"
+          >
+            Formula 1 analytics platform for tire degradation,
+          </tspan>
+        
+          <tspan
+            x="479"
+            dy="18"
+          >
+            pit-window reasoning, and driver performance
+          </tspan>
+        
+      </text>
+
+      <!-- Architecture label -->
+      <text
+        x="479"
+        y="460"
+        class="section-label"
+        fill="#22C55E"
+      >
+        SYSTEM COMPONENTS
+      </text>
+
+      <!-- Architecture boxes -->
+      
+      <g>
+        <rect
+          x="479"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="490"
+          cy="485"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="499"
+          y="489"
+          class="architecture"
+        >
+          Race Data
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="604.6666666666666"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="615.6666666666666"
+          cy="485"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="624.6666666666666"
+          y="489"
+          class="architecture"
+        >
+          Telemetry
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="730.3333333333334"
+          y="470"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="741.3333333333334"
+          cy="485"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="750.3333333333334"
+          y="489"
+          class="architecture"
+        >
+          Driver Data
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="479"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="490"
+          cy="525"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="499"
+          y="529"
+          class="architecture"
+        >
+          Data Processing
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="604.6666666666666"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="615.6666666666666"
+          cy="525"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="624.6666666666666"
+          y="529"
+          class="architecture"
+        >
+          Tire Model
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="730.3333333333334"
+          y="510"
+          width="115.66666666666667"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#22C55E"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="741.3333333333334"
+          cy="525"
+          r="3"
+          fill="#22C55E"
+        />
+
+        <text
+          x="750.3333333333334"
+          y="529"
+          class="architecture"
+        >
+          Pit Window
+        </text>
+      </g>
+    
+
+      <!-- Tech pills -->
+      
+      <g>
+        <rect
+          x="479"
+          y="554"
+          width="86"
+          height="22"
+          rx="11"
+          fill="#22C55E"
+          fill-opacity="0.10"
+          stroke="#22C55E"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="522"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#22C55E"
+        >
+          TypeScript
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="573"
+          y="554"
+          width="67.4"
+          height="22"
+          rx="11"
+          fill="#22C55E"
+          fill-opacity="0.10"
+          stroke="#22C55E"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="606.7"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#22C55E"
+        >
+          Next.js
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="648.4"
+          y="554"
+          width="135.60000000000002"
+          height="22"
+          rx="11"
+          fill="#22C55E"
+          fill-opacity="0.10"
+          stroke="#22C55E"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="716.2"
+          y="569"
+          text-anchor="middle"
+          class="tech"
+          fill="#22C55E"
+        >
+          Data Visualization
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="479"
+          y="584"
+          width="79.80000000000001"
+          height="22"
+          rx="11"
+          fill="#22C55E"
+          fill-opacity="0.10"
+          stroke="#22C55E"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="518.9"
+          y="599"
+          text-anchor="middle"
+          class="tech"
+          fill="#22C55E"
+        >
+          Analytics
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="566.8"
+          y="584"
+          width="129.4"
+          height="22"
+          rx="11"
+          fill="#22C55E"
+          fill-opacity="0.10"
+          stroke="#22C55E"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="631.5"
+          y="599"
+          text-anchor="middle"
+          class="tech"
+          fill="#22C55E"
+        >
+          Strategy Modeling
+        </text>
+      </g>
+    
+
+      <!-- Repository indicator -->
+      <text
+        x="846"
+        y="620"
+        text-anchor="end"
+        class="repo"
+        fill="#22C55E"
+      >
+        OPEN REPOSITORY →
+      </text>
+
+    </g>
+  
+
+    <g>
+
+      <!-- Card -->
+      <rect
+        x="34"
+        y="650"
+        width="832"
+        height="265"
+        rx="12"
+        fill="#0B1018"
+        stroke="#EC4899"
+        stroke-opacity="0.38"
+        stroke-width="1.2"
+      />
+
+      <!-- Accent line -->
+      <rect
+        x="34"
+        y="650"
+        width="4"
+        height="265"
+        rx="2"
+        fill="#EC4899"
+      />
+
+      <!-- Project number -->
+      <text
+        x="54"
+        y="678"
+        class="number"
+        fill="#EC4899"
+      >
+        05
+      </text>
+
+      <!-- Project name -->
+      <text
+        x="85"
+        y="679"
+        class="project-name"
+      >
+        ASTRA
+      </text>
+
+      <!-- Subtitle -->
+      <text
+        x="85"
+        y="698"
+        class="subtitle"
+        fill="#EC4899"
+      >
+        SEMANTIC RESEARCH ENGINE
+      </text>
+
+      <!-- Description -->
+      <text
+        x="54"
+        y="722"
+        class="description"
+      >
+        
+          <tspan
+            x="54"
+            dy="0"
+          >
+            AI-powered unified search platform merging 1,000 resumes, 20 research papers, and 6 fragmented AICTE data
+          </tspan>
+        
+          <tspan
+            x="54"
+            dy="18"
+          >
+            sources into one semantic search and RAG Q&amp;A portal.
+          </tspan>
+        
+      </text>
+
+      <!-- Architecture label -->
+      <text
+        x="54"
+        y="743"
+        class="section-label"
+        fill="#EC4899"
+      >
+        SYSTEM COMPONENTS
+      </text>
+
+      <!-- Architecture boxes -->
+      
+      <g>
+        <rect
+          x="54"
+          y="753"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="768"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="74"
+          y="772"
+          class="architecture"
+        >
+          Unified Search
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="321.3333333333333"
+          y="753"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="332.3333333333333"
+          cy="768"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="341.3333333333333"
+          y="772"
+          class="architecture"
+        >
+          Embeddings
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="588.6666666666666"
+          y="753"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="599.6666666666666"
+          cy="768"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="608.6666666666666"
+          y="772"
+          class="architecture"
+        >
+          Vector Database
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="54"
+          y="793"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="65"
+          cy="808"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="74"
+          y="812"
+          class="architecture"
+        >
+          Text-to-SQL
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="321.3333333333333"
+          y="793"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="332.3333333333333"
+          cy="808"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="341.3333333333333"
+          y="812"
+          class="architecture"
+        >
+          RAG Q&amp;A
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="588.6666666666666"
+          y="793"
+          width="257.3333333333333"
+          height="30"
+          rx="6"
+          fill="#0B1018"
+          stroke="#EC4899"
+          stroke-opacity="0.38"
+          stroke-width="1"
+        />
+
+        <circle
+          cx="599.6666666666666"
+          cy="808"
+          r="3"
+          fill="#EC4899"
+        />
+
+        <text
+          x="608.6666666666666"
+          y="812"
+          class="architecture"
+        >
+          Multi-source Data
+        </text>
+      </g>
+    
+
+      <!-- Tech pills -->
+      
+      <g>
+        <rect
+          x="54"
+          y="837"
+          width="67.4"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="87.7"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          FastAPI
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="129.4"
+          y="837"
+          width="86"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="172.4"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          PostgreSQL
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="223.4"
+          y="837"
+          width="73.6"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="260.2"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          pgvector
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="305"
+          y="837"
+          width="79.80000000000001"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="344.9"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          fastembed
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="392.8"
+          y="837"
+          width="73.6"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="429.6"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          Groq LLM
+        </text>
+      </g>
+    
+
+      <g>
+        <rect
+          x="474.4"
+          y="837"
+          width="61.2"
+          height="22"
+          rx="11"
+          fill="#EC4899"
+          fill-opacity="0.10"
+          stroke="#EC4899"
+          stroke-opacity="0.55"
+          stroke-width="1"
+        />
+
+        <text
+          x="505"
+          y="852"
+          text-anchor="middle"
+          class="tech"
+          fill="#EC4899"
+        >
+          Docker
+        </text>
+      </g>
+    
+
+      <!-- Repository indicator -->
+      <text
+        x="846"
+        y="903"
+        text-anchor="end"
+        class="repo"
+        fill="#EC4899"
+      >
+        OPEN REPOSITORY →
+      </text>
+
+    </g>
+  
+
+    <!-- Footer -->
+    <text
+      x="866"
+      y="947"
+      text-anchor="end"
+      class="footer"
+    >
+      5 SYSTEMS TRACKED
+    </text>
+
+  </g>
+
+</svg>
